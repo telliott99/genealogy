@@ -14,4 +14,13 @@ m [Gene Fowler](gene_fowler.md)
 
 <hr>
 
-Norman Elliott lists death as 13 May, 1934.
+Norman Elliott lists death as 13 May, 1934.  This date is from the gavestone and the obituary.
+
+[ref](https://www.findagrave.com/memorial/78540945/james-heflin-foster)
+
+Sibs:
+
+- Luella D (Crenshaw)
+- Francese Foster (Rainsberger)
+- Eleanor (Meriwether)
+- (Bogan)
