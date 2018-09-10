@@ -1,8 +1,8 @@
 <b>Abby Chandler</b>
 
-b --
+b Nov 27 1850
 
-d 1932 TX
+d Sep 25 1932 Bartlett, TX
 
 <hr>
 

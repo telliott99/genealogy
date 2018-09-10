@@ -24,3 +24,4 @@ m [Norman Elliott](../g2/norman_elliott.md) Oct 10 1944 Los Angeles, CA
 
 <hr>
 
+Middle name is correctly spelled.

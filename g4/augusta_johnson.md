@@ -1,8 +1,8 @@
 <b>Augusta Johnson</b>
 
-b --
+b Oct 16 1874
 
-d --
+d Mar 10 1962
 
 [Robert Mortimer Johnson](../g5/robert_mortimer_johnson.md)
 
@@ -19,3 +19,5 @@ m [Thompson Earnest Fowler](thompson_earnest_fowler.md)
 - Robin Fowler
 
 <hr>
+
+Data from [ref](http://files.usgwarchives.net/tx/bell/cemetery/bartlett.txt).
