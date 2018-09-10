@@ -10,7 +10,16 @@ d Nov 16 1910 Caddo Parish, LA
 
 m [James Martin Foster](james_martin_foster.md)
 
+- Ernest Flavel Foster 1860-1862
 - [William Long Foster](../g4/william_long_foster.md)
+- James Martin Foster 1871-1928
+- John Gray Foster 1878-1901
+- Theresa Olive Foster 1879-1920
+- Lucile (McMillin) Foster 1879-1949
+- Newton Blanchard Foster 1880-1881
+- Erastus Fullilove Foster 1884-1888
+
+missing some
 
 <hr>
 

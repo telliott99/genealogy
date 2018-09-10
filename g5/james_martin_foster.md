@@ -12,17 +12,17 @@ d Dec 12 1900 Shreveport, Caddo Parish, LA
 
 m [Mary Eleanor Long](mary_eleanor_long.md)
 
-- Claiborne Lee Foster 1868-188 (killed at Fort Reno)
-
 <hr>
-
-<img src="../figs/JM_Foster.jpg" style="width: 200px;" />
 
 [ref](https://www.findagrave.com/memorial/48101097/james-martin-foster)
 
+<img src="../figs/JM_Foster.jpg" style="width: 200px;" />
+
 Buried at Oakland Cemetery, Shreveport.
 
-Possibly birth date Apr 25 based on obit.  Attended Western Military Institute at Drennon Springs, KY.  His two brothers served in the Confederate army.  Jacob Flavel Foster was killed at Chancellorsville.
+Possibly birth date Apr 25 based on obit.  Attended Western Military Institute at Drennon Springs, KY.  He and his two brothers served in the Confederate army.  Jacob Flavel Foster was killed at Chancellorsville.
+
+JM is called Captain, but he did not serve, instead stayed to manage to plantation.
 
 Not clear on who is related to 
 
