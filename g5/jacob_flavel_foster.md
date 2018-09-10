@@ -13,4 +13,6 @@ d May 02 1863 Chancellorsville, VA
 
 <hr>
 
+Member of Sigma Alpha Epsilon on UNC Chapel Hill, graduated? 1861
+
 Private soldier in 2nd Louisiana Regiment, army of Northern Virginia.  Captured at Sharpsburg and exchanged. Killed at the battle of Chancellorsville.

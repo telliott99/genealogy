@@ -16,3 +16,12 @@ m [Flavel Foster](flavel_foster.md)
 <hr>
 
 Buried at Hollingsworth Cemetery, Preston, Caddo Parish, LA.
+
+Mary Hollingsworth family goes back to 1682
+http://en.wikipedia.org/wiki/Valentine_Hollingsworth
+> Jacob > Jacob > Samuel > Samuel > Valentine Hollingsworth
+
+http://en.wikipedia.org/wiki/Valentine_Hollingsworth
+Quaker
+1682
+Wilmington Delaware
