@@ -6,7 +6,7 @@ d --
 
 [Norman Elliott](../g2/norman_elliott.md)
 
-[Jean Francis Foster](../g2/jean_frances_foster.md)
+[Jean Francis Foster](../g2/jean_francis_foster.md)
 
 <hr>
 

@@ -24,7 +24,7 @@ Buried at Laughlin Cemetery, Milam Co., TX.
 
 Sibs: see mother [Dinelah Huff](../g6/dinelah_huff.md).
 
-Spent the Civil War in California.  Wylie was born in California.  Charles was sheriff in Santa Cruz, AZ and chief of police in Nogales, AZ, which is probably not a coincidence.
+Spent the Civil War in California.  Wylie was born in California.  Charles was sheriff in Santa Cruz, AZ and Chief of Police in Nogales, AZ.  It is likely not a coincidence that [my mother](jean_francis_foster.md) was born in Nogales.
 
 Sources:
 
