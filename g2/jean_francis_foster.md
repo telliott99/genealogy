@@ -12,16 +12,16 @@ d Jun 25 1975 Laguna Beach, CA
 
 m [Norman Elliott](../g2/norman_elliott.md) Oct 10 1944 Los Angeles, CA
 
-- James Gerard
+- James Gerard 1950-
 
-- William Michael
+- William Michael 1953-
 
 - [Thomas Anthony](../g1/thomas_anthony_elliott.md)
 
-- Robert Norman
+- Robert Norman 1958-
 
-- Katherine Maria
+- Katherine Maria 1959-
 
 <hr>
 
-Middle name is correctly spelled.
+"Francis" is correctly spelled.

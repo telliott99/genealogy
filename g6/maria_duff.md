@@ -12,7 +12,7 @@ m [Abner Kuykendall](abner_kuykendall.md)
 - Mathew Johnson Kuykendall 1838-1913
 - George Richardson Kuykendall 1841-1908
 - Robert Baylor Kuykendall 1844-1932
-- [Mildred Maria Kuykendall](mildred_maria_kuykendall.md)
+- [Mildred Maria Kuykendall](../g5/mildred_maria_kuykendall.md)
 - Abram Smith Kuykendall 1850-1875
 - Pierre Moran Kuykendall 1855-1913
 

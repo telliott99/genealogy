@@ -1,12 +1,12 @@
 <b>Flavel Foster</b>
 
-b --
+b Dec 07 1801 GA
 
-d --
+d Jan 05 1869 Arlatex, Caddo Parish, LA
 
 <hr>
 
-m [Mary Hollingsworth](mary_eleanor_long.md)
+m [Mary Amelia Hollingsworth](mary_amelia_hollingsworth.md)
 
 - [James Martin Foster](../g5/james_martin_foster.md)
 - [Claiborne J. Foster](../g5/claiborne_j_foster.md)

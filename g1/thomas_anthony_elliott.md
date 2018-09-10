@@ -1,6 +1,6 @@
 <b>Thomas Anthony Elliott</b>
 
-b Los Angeles, CA
+b 1955 Los Angeles, CA
 
 d --
 
