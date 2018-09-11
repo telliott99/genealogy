@@ -2,7 +2,7 @@
 
 b Jan 27 1898 Bartlett, TX
 
-d Feb __ 1970 Litchfield, IL
+d Feb -- 1970 Litchfield, IL
 
 [Thompson Earnest Fowler](../g4/thompson_earnest_fowler.md)
 
@@ -19,3 +19,4 @@ m [James Heflin Foster](james_heflin_foster.md) Dec 25 1918
 m William Leonhard
 
 <hr>
+
