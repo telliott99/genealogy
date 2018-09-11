@@ -14,10 +14,12 @@ m [Thompson Earnest Fowler](thompson_earnest_fowler.md)
 
 - [Gene Fowler](../g3/gene_fowler.md)
 
-- Thompson Earnest Fowler, Jr.
+- [Thompson Fletcher Fowler](../g3/thompson_fletcher_fowler_2.md)
 
 - Robin Fowler
 
 <hr>
 
 Data from [ref](http://files.usgwarchives.net/tx/bell/cemetery/bartlett.txt).
+
+[ref](https://www.findagrave.com/memorial/49183952/thompson-fletcher-fowler)

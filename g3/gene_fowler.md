@@ -1,4 +1,4 @@
-[Gene Fowler](gene_fowler.md)
+<b>Gene Fowler</b>
 
 b Jan 27 1898 Bartlett, TX
 
