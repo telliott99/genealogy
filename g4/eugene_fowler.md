@@ -1,6 +1,6 @@
-<b>Eugene Fowler</b>
+<b>Eugene George Fowler</b>
 
-b Sep 12 1870
+b Sep 12 1870 Sacramento, CA
 
 d Jun 08 1931
 

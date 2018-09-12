@@ -4,7 +4,7 @@ b Jan 27 1898 Bartlett, TX
 
 d Feb -- 1970 Litchfield, IL
 
-[Thompson Earnest Fowler](../g4/thompson_earnest_fowler.md)
+[Thompson Ernest Fowler](../g4/thompson_ernest_fowler.md)
 
 [Augusta Johnson](../g4/augusta_johnson.md)
 

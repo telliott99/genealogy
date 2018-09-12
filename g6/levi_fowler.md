@@ -10,7 +10,7 @@ m [Dinelah Huff](dinelah_huff.md)
 
 - James Henderson
 - [Thompson Fletcher Fowler](../g5/thompson_fletcher_fowler.md)
-- Tilman Fowler
+- Tillman Fowler
 - Mary Ellen
 - Levi
 - Newton

@@ -12,7 +12,9 @@ d Dec 17 1842 Livingston, Sumter Co., AL
 
 m [Elizabeth Hubbard Saunders](elizabeth_hubbard_saunders.md) (Betsy) Jun 27 1808 Columbia Co., GA
 
-- [Alabama Frances Mims](../g5/alabama_frances_mims.md)
+- [Alabama Frances Mims](../g5/alabama_frances_mims.md) 1825-1894
+- Seaborn David Mims 1827-1862
+- more
 
 <hr>
 

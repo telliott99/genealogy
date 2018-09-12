@@ -1,6 +1,6 @@
 <b>Mildred Maria Kuykendall</b>
 
-b Oct 30 1847
+b Oct 30 1847 Moody, TX ? (RF)
 
 d Jun 19 1936 Bartlett, TX
 
@@ -13,7 +13,7 @@ d Jun 19 1936 Bartlett, TX
 m [Thompson Fletcher Fowler](thompson_fletcher_fowler.md) Dec 16 1869
 
 - [Eugene Fowler](../g4/eugene_fowler.md)
-- [Thompson Earnest Fowler](../g4/thompson_earnest_fowler.md)
+- [Thompson Ernest Fowler](../g4/thompson_ernest_fowler.md)
 
 <hr>
 

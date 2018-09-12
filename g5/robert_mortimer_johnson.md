@@ -2,10 +2,15 @@
 
 b --
 
-d -- TX
+d -- TX > 1910
 
 <hr>
 
-m [Abby Chandler](abby_chandler.md)
+m [Abigail Chandler](abby_chandler.md)
 
-- [Augusta Johnson](../g4/augusta_johnson.md)
+- [Abigail Augusta Johnson](../g4/augusta_johnson.md)
+
+<hr>
+
+CSA according to RF memoir, married in Arkansas before the war.
+

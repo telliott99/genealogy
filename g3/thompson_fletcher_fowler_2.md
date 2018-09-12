@@ -4,7 +4,7 @@ b Aug 12 1901
 
 d Mar 10 1970
 
-[Thompson Earnest Fowler](../g4/thompson_earnest_fowler.md)
+[Thompson Ernest Fowler](../g4/thompson_ernest_fowler.md)
 
 [Augusta Johnson](../g4/augusta_johnson.md)
 

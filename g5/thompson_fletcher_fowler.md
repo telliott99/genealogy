@@ -12,17 +12,20 @@ d Jun 14 1886 Bell Co., TX
 
 m Martha Smithwick
 
-- Charles Louis Fowler
-- Wylie F. Fowler
+- [Charles Louis Fowler](../g4/charles_louis_fowler.md) 1860-1931
+
+- [Wylie F. Fowler](../g4/wylie_f_fowler.md) 1863-1932
 
 m [Mildred Maria Kuykendall](mildred_maria_kuykendall.md) Dec 16 1869
 
 - [Eugene Fowler](../g4/eugene_fowler.md)
-- [Thompson Earnest Fowler](../g4/thompson_earnest_fowler.md)
+- [Thompson Ernest Fowler](../g4/thompson_ernest_fowler.md)
 
 <hr>
 
-Buried at Laughlin Cemetery, Milam Co., TX.  
+Buried at Laughlin Cemetery, Milam Co., TX. 
+
+According to Robin Fowler, came to TX with his father-in-law Noah Smithwick, then they went to California. 
 
 Sibs: see mother [Dinelah Huff](../g6/dinelah_huff.md).
 

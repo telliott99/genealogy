@@ -1,8 +1,8 @@
-<b>Thompson Earnest Fowler</b>
+<b>Thompson Ernest Fowler</b>
 
-b Jul 11 1874 Milam County, TX
+b Jul 11 1874 Davilla Milam County, TX
 
-d Apr 11 1917
+d Apr 11 1917 Temple, TX
 
 [Thompson Fletcher Fowler](../g5/thompson_fletcher_fowler.md)
 
@@ -14,9 +14,10 @@ m [Augusta Johnson](augusta_johnson.md)
 
 - [Gene Fowler](../g3/gene_fowler.md)
 - [Thompson Fletcher Fowler](../g3/thompson_fletcher_fowler_2.md)
-- Robin Fowler
+- [Robin Fowler](../g3/robin_fowler.md) 
 
 <hr>
 
 NE has birth month as Sep, this month is based on the grave marker.  TEF is buried at the Bartlett City Cemetery (Sec 2, Row 3).
 
+NE has his middle name as Earnest, but Robin Fowler (his son) has it as Ernest, so I have changed to reflect that.  According to Robin, he was called "Tom", as was his son.
