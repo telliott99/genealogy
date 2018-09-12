@@ -12,6 +12,15 @@ d Dec 12 1900 Shreveport, Caddo Parish, LA
 
 m [Mary Eleanor Long](mary_eleanor_long.md)
 
+- Ernest Flavel Foster 1860-1862
+- [William Long Foster](../g4/william_long_foster.md)
+- James Martin Foster 1871-1928
+- John Gray Foster 1878-1901
+- Theresa Olive Foster 1879-1920
+- Lucile (McMillin) Foster 1879-1949
+- Newton Blanchard Foster 1880-1881
+- Erastus Fullilove Foster 1884-1888
+
 <hr>
 
 [ref](https://www.findagrave.com/memorial/48101097/james-martin-foster)

@@ -13,10 +13,12 @@ d Jun 14 1886 Bell Co., TX
 m Martha Smithwick
 
 - Charles Louis Fowler
-
 - Wylie F. Fowler
 
 m [Mildred Maria Kuykendall](mildred_maria_kuykendall.md) Dec 16 1869
+
+- [Eugene Fowler](../g4/eugene_fowler.md)
+- [Thompson Earnest Fowler](../g4/thompson_earnest_fowler.md)
 
 <hr>
 

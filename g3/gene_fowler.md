@@ -13,7 +13,6 @@ d Feb -- 1970 Litchfield, IL
 m [James Heflin Foster](james_heflin_foster.md) Dec 25 1918
 
 - [Jean Francis Foster](../g2/jean_francis_foster.md)
-
 - James Foster
 
 m William Leonhard

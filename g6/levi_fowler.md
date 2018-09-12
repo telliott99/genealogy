@@ -8,6 +8,13 @@ d Oct 20 1868 Johnson Co., TX
 
 m [Dinelah Huff](dinelah_huff.md)
 
+- James Henderson
+- [Thompson Fletcher Fowler](../g5/thompson_fletcher_fowler.md)
+- Tilman Fowler
+- Mary Ellen
+- Levi
+- Newton
+
 <hr>
 
 [ref](http://freepages.rootsweb.com/~fowler/genealogy/combined/fam15054.htm)

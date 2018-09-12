@@ -12,6 +12,9 @@ d May 01 1935 Phoenix, Az
 
 m [Gene Fowler](gene_fowler.md)
 
+- [Jean Francis Foster](../g2/jean_francis_foster.md)
+- James Foster
+
 <hr>
 
 NE lists death as 13 May, 1934.  This date is from the gravestone and the obituary.

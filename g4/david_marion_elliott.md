@@ -12,4 +12,6 @@ d Jan 28 1917 Los Angeles, CA
 
 m [Clara Etta Main](clara_etta_main.md) Dec 31 1876
 
+- [James Edgar Elliott](../g3/james_edgar_elliott.md)
+
 <hr>

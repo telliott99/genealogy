@@ -12,4 +12,10 @@ d May 11 1916 Shreveport, LA
 
 m [Launa Mims Davis](launa_mims_davis.md) Jun 19 1888
 
+- [James Heflin Foster](../g3/james_heflin_foster.md)
+- Luella D. (Crenshaw)
+- Francese (Rainsberger)
+- Eleanor (Meriwether)
+- [Lucile Foster](../g3/lucille_foster.md) (Bogan)
+
 <hr>

@@ -13,9 +13,7 @@ d Mar 10 1962
 m [Thompson Earnest Fowler](thompson_earnest_fowler.md)
 
 - [Gene Fowler](../g3/gene_fowler.md)
-
 - [Thompson Fletcher Fowler](../g3/thompson_fletcher_fowler_2.md)
-
 - Robin Fowler
 
 <hr>

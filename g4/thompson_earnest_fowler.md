@@ -12,6 +12,10 @@ d Apr 11 1917
 
 m [Augusta Johnson](augusta_johnson.md)
 
+- [Gene Fowler](../g3/gene_fowler.md)
+- [Thompson Fletcher Fowler](../g3/thompson_fletcher_fowler_2.md)
+- Robin Fowler
+
 <hr>
 
 NE has birth month as Sep, this month is based on the grave marker.  TEF is buried at the Bartlett City Cemetery (Sec 2, Row 3).

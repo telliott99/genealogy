@@ -13,9 +13,7 @@ d Oct 15 1949 Los Angeles, CA
 m [James Edgar Elliott](james_edgar_elliott.md) Jul 02 1920
 
 - June Elliott 
-
 - [Norman Elliott](../g2/norman_elliott.md)
-
 - John Elliott
 
 <hr>

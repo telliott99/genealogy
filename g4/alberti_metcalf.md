@@ -12,4 +12,6 @@ d Jun 25 1928 Indianapolis, IN
 
 m [Lenora Fisher](lenora_fisher.md) Oct 03 1888
 
+- [Jessie Metcalf](../g3/jessie_metcalf.md)
+
 <hr>

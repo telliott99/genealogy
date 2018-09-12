@@ -8,6 +8,8 @@ d 1872 Denmark, NY
 
 m [Mary Jane Thorpe](mary_jane_thorpe.md)
 
+- [Alberti Metcalf](../g4/alberti_metcalf.md)
+
 <hr>
 
 [ref](https://www.findagrave.com/memorial/159152201/edward-metcalf)

@@ -12,6 +12,10 @@ Margaret Virginia Whatley
 
 m [Lucille Foster](lucille_foster.md)
 
+- Harney Skofield Bogan, Jr. (Beau)
+- Lucille Bogan (Urbas)
+- Virginia Bogan (Gilmore)
+
 <hr>
 
 [ref](https://www.findagrave.com/memorial/59659335/lucile-bogan)

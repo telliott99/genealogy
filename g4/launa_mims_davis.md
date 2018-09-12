@@ -16,7 +16,7 @@ m [William Long Foster](william_long_foster.md) Jun 19 1888
 - Luella D. (Crenshaw)
 - Francese (Rainsberger)
 - Eleanor (Meriwether)
-- [Lucile Foster](../g3/lucille_foster.md) Bogan 1900-1986
+- [Lucile Foster](../g3/lucille_foster.md) (Bogan)
 
 <hr>
 

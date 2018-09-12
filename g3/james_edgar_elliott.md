@@ -12,4 +12,8 @@ d Dec 10 1940 Los Angeles, CA
 
 m [Jessie Metcalf](jessie_metcalf.md) Jul 02 1920
 
+- June Elliott 
+- [Norman Elliott](../g2/norman_elliott.md)
+- John Elliott
+
 <hr>
