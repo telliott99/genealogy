@@ -4,7 +4,7 @@ b Aug 11 1775 Guilford Co., NC
 
 d Dec 16 1848 Preston, Caddo Parish, LA
 
-[Jacob Joseph Hollingsworth](../g9/jacob_hollingsworth_sr.md)
+[Jacob Joseph Hollingsworth](../g8/jacob_hollingsworth_sr.md)
 
 Mary Brooks
 

@@ -13,3 +13,5 @@ d Oct 14 1842 Livingston, Sumter Co., AL
 m [Seaborn Mims](seaborn_mims.md) Jun 27 1808 Columbia Co., GA
 
 - [Alabama Frances Mims](../g5/alabama_frances_mims.md)
+
+<hr>

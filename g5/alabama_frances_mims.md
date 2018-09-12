@@ -6,7 +6,7 @@ d 1894
 
 [Seaborn Mims](../g6/seaborn_mims.md)
 
-[Elizabeth Hubbard Saunders](../g6/elizabeth_hubbard_saunders) (Betsy)
+[Elizabeth Hubbard Saunders](../g6/elizabeth_hubbard_saunders.md) (Betsy)
 
 <hr>
 

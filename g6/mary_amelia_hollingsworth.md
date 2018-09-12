@@ -25,6 +25,6 @@ Parents buried at Keatchie, LA, Hollingsworth Cemetery?
 
 Grave marker inscriptions notarized and sent with Bogan application.  Bogan says Sep 28 for Sarah's death.
 
-Note:  Find a Grave doesn't list her as offspring.
+Find a Grave doesn't list her as offspring.
 
-Death given as Sep 28 1852:
+
