@@ -17,3 +17,7 @@ o [Clara Etta Main](clara_etta_main.md) Dec 31 1876
 - [James Edgar Elliott](../g3/james_edgar_elliott.md)
 
 <hr>
+
+Buried in Indiana.
+
+[ref](https://www.findagrave.com/memorial/75888090/clara-etta-elliott)

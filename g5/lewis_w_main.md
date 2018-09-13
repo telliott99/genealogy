@@ -2,9 +2,9 @@
 
 <b>Lewis W. Main</b>
 
-b
+b Apr 15 1830
 
-d 1862 Montezuma, IN
+d Oct 22 1861 Montezuma, IN
 
 f
 
@@ -12,6 +12,17 @@ m
 
 <hr>
 
+o Matilda Nov 03 1840 - Mar 31 1873
+
+- Lewis F. Main 1858-1935
+
 o [Lydia Catherine Roberts](lydia_catherine_roberts.md)
 
 - [Clara Etta Main](../g4/clara_etta_main.md)
+
+<hr>
+
+Buried at Westview Cemetery
+Prairie City, Jasper County, Iowa, USA
+
+[ref](https://www.findagrave.com/memorial/76746881/lewis-w-main)

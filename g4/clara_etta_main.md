@@ -2,7 +2,7 @@
 
 <b>Clara Etta Main</b>
 
-b May 04 1859 Iowa
+b May 04 1860 Prairie City, Jasper Co., IA
 
 d Nov 12 1934 Hillsdale, IN
 
@@ -14,8 +14,17 @@ m [Lydia Catherine Roberts](../g5/lydia_catherine_roberts.md)
 
 o [David Marion Elliott](david_marion_elliott.md) Dec 31 1876
 
-- [James Edgar Elliott](../g3/james_edgar_elliott.md)
+- Alanson C. Elliott 1880-1970
+- [James Edgar Elliott](../g3/james_edgar_elliott.md) 1890-1940
+- Rosa Mae (Mack) 1892-1982
 
 <hr>
 
+Buried at Oakland Cemetery
+Montezuma, Parke County, Indiana, USA
+
 Norman Elliott lists birth year as 1859 or 1860.
+
+[ref](https://www.findagrave.com/memorial/75888090/clara-etta-elliott)
+
+The ref does not mention James Edgar.
