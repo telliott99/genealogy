@@ -1,12 +1,18 @@
+<gen=g6>
+
 <b>Maria Duff</b>
 
 b Dec 12 1811 Edmonson Co., KY
 
 d Jun 14 1892 Johnson Co., TX
 
+f
+
+m
+
 <hr>
 
-m [Abner Kuykendall](abner_kuykendall.md)
+o [Abner Kuykendall](abner_kuykendall.md)
 
 - Mary Elizabeth Kuykendall 1836-1918
 - Mathew Johnson Kuykendall 1838-1913

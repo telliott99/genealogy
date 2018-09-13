@@ -1,16 +1,18 @@
+<gen=g9>
+
 <b>Cornelius Jacobsen Van Kuykendall</b>
 
 b May 30 1686 Kingston, Ulster Co., NY
 
 d 1753 Kingston, Ulster Co., NY
 
-[Leur Jacobsen Van Kuykendall](../g10/leur_jacobsen_van_kuykendall.md)
+f [Leur Jacobsen Van Kuykendall](../g10/leur_jacobsen_van_kuykendall.md)
 
-[Grietje Aerts](../g10/grietje_aerts.md)
+m [Grietje Aerts](../g10/grietje_aerts.md)
 
 <hr>
 
-m Marritjen Westvaal ([Mary Westfall])(mary_westfall.md)
+o Marritjen Westvaal ([Mary Westfall])(mary_westfall.md)
 
 - [Abraham Kuykendall](../g8/abraham_kuykendall.md)
 - Luer Lewis Kuykendall

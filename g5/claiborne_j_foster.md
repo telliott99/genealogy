@@ -1,16 +1,18 @@
+<gen=g5>
+
 <b>Claiborne J. Foster</b>
 
 b Aug 04 1834
 
 d Jun 22 1898
 
-[Flavel Foster](../g6/flavel_foster.md)
+f [Flavel Foster](../g6/flavel_foster.md)
 
-[Mary Amelia Hollingsworth](../g6/mary_amelia_hollingsworth.md)
+m [Mary Amelia Hollingsworth](../g6/mary_amelia_hollingsworth.md)
 
 <hr>
 
-m Eunice Burruss 1843-1930
+o Eunice Burruss 1843-1930
 
 
 <hr>

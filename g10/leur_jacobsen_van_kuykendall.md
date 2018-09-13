@@ -1,16 +1,18 @@
+<gen=g10>
+
 <b>Leur Jacobsen van Kuykendall</b>
 
 b May 25 1650 Fort Orange (Albany), New Netherlands (Albany, NY)
 
 d 1720 Port Jervis, Orange Co., NY
 
-[Jacob Luursen van Kuykendall](../g11/jacob_luursen_van_kuykendall.md)
+f [Jacob Luursen van Kuykendall](../g11/jacob_luursen_van_kuykendall.md)
 
-Stijntje Wiggersz Douwes
+m Stijntje Wiggersz Douwes
 
 <hr>
 
-m [Grietje Aerts](grietje_aerts.md) about 1680
+o [Grietje Aerts](grietje_aerts.md) about 1680
 
 Also called Margrietjen Artze Pietersen)
 

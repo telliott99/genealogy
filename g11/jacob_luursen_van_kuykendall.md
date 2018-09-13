@@ -1,16 +1,18 @@
+<gen=g11>
+
 <b>Jacob Luursen van Kuykendall</b>
 
 b Aug 22 1616 Wageningen, Gelderland, Netherlands
 
 d Apr 29 1655 Fort Orange, New Netherlands
 
-Luur Cornelisson van Kuykendall 1590-1619 Netherlands
+f Luur Cornelisson van Kuykendall 1590-1619 Netherlands
 
-N.N. (Christijntje) 1594-1622 Netherlands
+m N.N. (Christijntje) 1594-1622 Netherlands
 
 <hr>
 
-m Stijntje Douwes
+o Stijntje Douwes
 
 - Styntie Christina (Jacobs)
 - Agnietie

@@ -1,16 +1,18 @@
+<gen=g3>
+
 <b>Harney Skofield Bogan</b>
 
 b Apr 18 1896 Prudhomme, Acadia Parish, LA
 
 d Feb 18 1983 Shreveport, Caddo Parish, LA
 
-Samuel Skofield Bogan
+f Samuel Skofield Bogan
 
-Margaret Virginia Whatley
+m Margaret Virginia Whatley
 
 <hr>
 
-m [Lucille Foster](lucille_foster.md)
+o [Lucille Foster](lucille_foster.md)
 
 - Harney Skofield Bogan, Jr. (Beau)
 - Lucille Bogan (Urbas)

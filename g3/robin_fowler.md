@@ -1,15 +1,17 @@
+<gen=g3>
+
 <b>Robin Fowler</b>
 
 b Sep 25 1903 Davilla, TX
 
 d
 
-[Thompson Ernest Fowler](../g4/thompson_ernest_fowler.md)
+f [Thompson Ernest Fowler](../g4/thompson_ernest_fowler.md)
 
-[Augusta Johnson](../g4/augusta_johnson.md)
+m [Augusta Johnson](../g4/augusta_johnson.md)
 
 <hr>
 
-m 
+o Jane
 
 <hr>

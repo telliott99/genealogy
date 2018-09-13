@@ -1,14 +1,18 @@
+<gen=g5>
+
 <b>Mary Eleanor Long</b>
 
 b 1842
 
 d Nov 16 1910 Caddo Parish, LA
 
-[William Long](../g6/william_long.md)
+f [William Long](../g6/william_long.md)
+
+m
 
 <hr>
 
-m [James Martin Foster](james_martin_foster.md)
+o [James Martin Foster](james_martin_foster.md)
 
 - Ernest Flavel Foster 1860-1862
 - [William Long Foster](../g4/william_long_foster.md)

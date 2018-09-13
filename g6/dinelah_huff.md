@@ -1,12 +1,18 @@
+<gen=g6>
+
 <b>Dinelah Huff</b>
 
 b May 10 1811 KY
 
 d Jul 06 1870 Johnson Co., TX
 
+f
+
+m
+
 <hr>
 
-m [Levi Fowler](levi_fowler.md)
+o [Levi Fowler](levi_fowler.md)
 
 - James Henderson
 - [Thompson Fletcher Fowler](../g5/thompson_fletcher_fowler.md)

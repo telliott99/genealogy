@@ -1,16 +1,18 @@
+<gen=g7>
+
 <b>Nancy Johnson</b>
 
-[ ]
+b
 
-[ ]
+d
 
-Col. William Johnson
+f Col. William Johnson
 
-Maria Rebecca Larkin
+m Maria Rebecca Larkin
 
 <hr>
 
-m [Mathew Kuykendall](mathew_kuykendall.md) May 11 1780 Mecklenberg Co., TN
+o [Mathew Kuykendall](mathew_kuykendall.md) May 11 1780 Mecklenberg Co., TN
 
 Fourteen children including
 

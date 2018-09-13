@@ -1,22 +1,24 @@
-<b>Samuel Hollingsworth Sr.</b>
+<gen=g10>
+
+<b>Samuel Hollingsworth</b>
 
 b 1672 Belfast
 
 d Sep 1748
 
-[Valentine Hollingsworth](../g11/valentine_hollingsworth.md)
+f [Valentine Hollingsworth](../g11/valentine_hollingsworth.md)
 
-[Anne Calvert](../g11/ann_calvert.md)
+m [Anne Calvert](../g11/ann_calvert.md)
 
 <hr>
 
-m Hannah Harlan 1701
+o Hannah Harlan 1701
 
 (Hannah b 1681 County Down, emigrated 1687, d 1748)
 
 - Enoch 1702-1752
 - John
-- [Samuel](../g9/samuel_hollingsworth_jr.md) 1717-1751
+- [Samuel](../g9/samuel_hollingsworth_1717.md) 1717-1751
 - George
 - Betty
 

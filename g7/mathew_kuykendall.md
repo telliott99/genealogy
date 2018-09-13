@@ -1,17 +1,19 @@
+<gen=g7>
+
 <b>Mathew Kuykendall</b>
 
 b Oct 24 1758 Mecklenberg Co., NC
 
 d Aug 15 1841 DeSoto Co., MI
 
-[Abraham Kuykendall](../g8/abraham_kuykendall.md)
+f [Abraham Kuykendall](../g8/abraham_kuykendall.md)
 
-Elizabeth (Burleson, Van Zandt)
+m Elizabeth (Burleson, Van Zandt)
 
 
 <hr>
 
-m [Nancy Johnson](nancy_johnson.md)
+o [Nancy Johnson](nancy_johnson.md)
 
 - William 1790-1841
 - Abraham May 12 1792

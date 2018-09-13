@@ -1,12 +1,18 @@
+<gen=g7>
+
 <b>Sarah Martin</b>
 
 b Jul 01 1783 North Carolina
 
 d Sep 19 1851 Caddo Parish, LA (Sep 28?)
 
+f
+
+m
+
 <hr>
 
-m [Jacob Hollingsworth, Jr.](jacob_hollingsworth_jr.md)
+o [Jacob Hollingsworth, Jr.](jacob_hollingsworth_jr.md)
 
 - [Mary Amelia](../g6/mary_amelia_hollingsworth.md)
 

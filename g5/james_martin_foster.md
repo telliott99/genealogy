@@ -1,16 +1,18 @@
+<gen=g5>
+
 <b>James Martin Foster</b>
 
 b Apr 23 1831 Monroe Co., AL
 
 d Dec 12 1900 Shreveport, Caddo Parish, LA
 
-[Flavel Foster](../g6/flavel_foster.md)
+f [Flavel Foster](../g6/flavel_foster.md)
 
-[Mary Amelia Hollingsworth](../g6/mary_amelia_hollingsworth.md)
+m [Mary Amelia Hollingsworth](../g6/mary_amelia_hollingsworth.md)
 
 <hr>
 
-m [Mary Eleanor Long](mary_eleanor_long.md)
+o [Mary Eleanor Long](mary_eleanor_long.md)
 
 - Ernest Flavel Foster 1860-1862
 - [William Long Foster](../g4/william_long_foster.md)

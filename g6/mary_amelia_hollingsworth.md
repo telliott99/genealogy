@@ -1,16 +1,18 @@
+<gen=g6>
+
 <b>Mary Amelia Hollingsworth</b>
 
 b Oct 05 1802 GA
 
 d Apr 29 1864 Keatchie, De Soto Parish, LA
 
-[Jacob Hollingsworth, Jr.](../g7/jacob_hollingsworth_jr.md)
+f [Jacob Hollingsworth](../g7/jacob_hollingsworth_1775.md) 1775-1848
 
-[Sarah Martin](../g7/sarah_martin.md)
+m [Sarah Martin](../g7/sarah_martin.md)
 
 <hr>
 
-m [Flavel Foster](flavel_foster.md)
+o [Flavel Foster](flavel_foster.md)
 
 - Emily Caroline (Gibbs) 1829-1857
 - [James Martin Foster](../g5/james_martin_foster.md)

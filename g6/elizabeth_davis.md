@@ -1,3 +1,5 @@
+<gen=g6>
+
 <b>Elizabeth??</b>
 
 b 1805 GA
@@ -6,9 +8,9 @@ d
 
 <hr>
 
-m1 Mitchell Sims
+o Mitchell Sims
 
-m2 [James C. Davis](james_c_davis.md)
+o [James C. Davis](james_c_davis.md)
 
 - [Lewis Richard Davis](../g5/lewis_richard_davis.md)
 

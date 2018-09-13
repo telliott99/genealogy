@@ -1,16 +1,18 @@
+<gen=g7>
+
 <b>Jacob Hollingsworth, Jr.</b>
 
 b Aug 11 1775 Guilford Co., NC
 
 d Dec 16 1848 Preston, Caddo Parish, LA
 
-[Jacob Joseph Hollingsworth](../g8/jacob_hollingsworth_sr.md)
+f [Jacob Joseph Hollingsworth](../g8/jacob_hollingsworth_1742.md) c.1742-1822
 
-Mary Brooks
+m Mary Brooks
 
 <hr>
 
-m [Sarah Martin](sarah_martin.md)
+o [Sarah Martin](sarah_martin.md)
 
 - [Mary Amelia](../g6/mary_amelia_hollingsworth.md)
 - Samuel 1806-1870

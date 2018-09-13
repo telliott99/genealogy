@@ -1,16 +1,18 @@
+<gen=g8>
+
 <b>Abraham Kuykendall</b>
 
 b Oct 18 1719 Kingston, Ulster Co., NY
 
 d Apr 01 1812 Rutherford Co., NC
 
-[Cornelius Jacobsen Van Kuykendall](../g9/cornelius_kuykendall.md)
+f [Cornelius Jacobsen Van Kuykendall](../g9/cornelius_kuykendall.md)
 
-[Mary Westfall](../g9/mary_westfall.md)
+m [Mary Westfall](../g9/mary_westfall.md)
 
 <hr>
 
-m [Elizabeth Fidle](elizabeth_fidle.md) (also reported as Burleson)
+o [Elizabeth Fidle](elizabeth_fidle.md) (also reported as Burleson)
 
 - James 1755-1832
 - Jane (McMinn) 1755-1834

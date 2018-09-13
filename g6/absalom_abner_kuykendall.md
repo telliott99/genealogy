@@ -1,16 +1,18 @@
+<gen=g6>
+
 <b>Abner Kuykendall</b>
 
 b Aug 25 1814 Cookeville, Putnam Co., TN
 
 d Jan 02 1901 Bexar Co., TX
 
-[Mathew Kuykendall](../g7/mathew_kuykendall.md)
+f [Mathew Kuykendall](../g7/mathew_kuykendall.md)
 
-[Nancy Johnson](../g7/nancy_johnson.md)
+m [Nancy Johnson](../g7/nancy_johnson.md)
 
 <hr>
 
-m1 Nancy Dean Sep 15 1834
+o Nancy Dean Sep 15 1834
 
 - Ruth Clarinda (Jett) 1835-1926
 - John Calloway 1836-1912
@@ -22,7 +24,7 @@ m1 Nancy Dean Sep 15 1834
 - Wiley Preston 1850-1936
 - Absolom Russell 1852-1941
 
-m2 Drusilla Dragoo 1855
+= Drusilla Dragoo 1855
 
 - Druzilla Amanda (Jackson) 1856-1942
 - Matthew Johnson 1858-1893

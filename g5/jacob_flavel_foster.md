@@ -1,12 +1,14 @@
+<gen=g5>
+
 <b>Jacob Flavel Foster</b>
 
 b --
 
 d May 02 1863 Chancellorsville, VA
 
-[Flavel Foster](../g6/flavel_foster.md)
+f [Flavel Foster](../g6/flavel_foster.md)
 
-[Mary Amelia Hollingsworth](../g6/mary_amelia_hollingsworth.md)
+m [Mary Amelia Hollingsworth](../g6/mary_amelia_hollingsworth.md)
 
 <hr>
 

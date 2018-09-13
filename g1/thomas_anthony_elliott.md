@@ -1,19 +1,21 @@
+<gen=g1>
+
 <b>Thomas Anthony Elliott</b>
 
 b 1955 Los Angeles, CA
 
 d --
 
-[Norman Elliott](../g2/norman_elliott.md)
+f [Norman Elliott](../g2/norman_elliott.md)
 
-[Jean Francis Foster](../g2/jean_francis_foster.md)
+m [Jean Francis Foster](../g2/jean_francis_foster.md)
 
 <hr>
 
-m Meenal Bhopatkar
+o Meenal Bhopatkar
 
 - [Sean Anil Elliott](../g0/sean_anil_elliott.md)
  
-m Joan Carlyn Olson
+o Joan Carlyn Olson
 
 <hr>

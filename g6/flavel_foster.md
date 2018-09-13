@@ -1,16 +1,18 @@
+<gen=g6>
+
 <b>Flavel Foster</b>
 
 b Dec 07 1801 GA
 
 d Jan 05 1869 Arlatex, Caddo Parish, LA
 
-[ ]
+f
 
-Elizabeth
+m Elizabeth
 
 <hr>
 
-m [Mary Amelia Hollingsworth](mary_amelia_hollingsworth.md)
+o [Mary Amelia Hollingsworth](mary_amelia_hollingsworth.md)
 
 
 - Emily Caroline (Gibbs) 1829-1857

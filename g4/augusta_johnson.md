@@ -1,19 +1,21 @@
+<gen=g4>
+
 <b>Abigail Augusta Johnson</b>
 
 b Oct 16 1874
 
 d Mar 10 1962
 
-[Robert Mortimer Johnson](../g5/robert_mortimer_johnson.md)
+f [Robert Mortimer Johnson](../g5/robert_mortimer_johnson.md)
 
-[Abigail Chandler](../g5/abby_chandler.md)
+m [Abigail Chandler](../g5/abby_chandler.md)
 
 <hr>
 
-m [Thompson Ernest Fowler](thompson_ernest_fowler.md)
+o [Thompson Ernest Fowler](thompson_ernest_fowler.md)
 
 - [Gene Fowler](../g3/gene_fowler.md)
-- [Thompson Fletcher Fowler](../g3/thompson_fletcher_fowler_2.md)
+- [Thompson Fletcher Fowler](../g3/thompson_fletcher_fowler_1901.md)
 - Robin Fowler
 
 <hr>

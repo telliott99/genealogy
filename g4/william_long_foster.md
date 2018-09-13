@@ -1,16 +1,18 @@
+<gen=g4>
+
 <b>William Long Foster</b>
 
 b Oct 10 1861 De Soto Parish, LA
 
 d May 11 1916 Shreveport, LA
 
-[James Martin Foster](../g5/james_martin_foster.md)
+f [James Martin Foster](../g5/james_martin_foster.md)
 
-[Mary Eleanor Long](../g5/mary_eleanor_long.md)
+m [Mary Eleanor Long](../g5/mary_eleanor_long.md)
 
 <hr>
 
-m [Launa Mims Davis](launa_mims_davis.md) Jun 19 1888
+o [Launa Mims Davis](launa_mims_davis.md) Jun 19 1888
 
 - [James Heflin Foster](../g3/james_heflin_foster.md)
 - Luella D. (Crenshaw)

@@ -1,16 +1,18 @@
+<gen=g10>
+
 <b>Grietje Aerts</b>
 
 b Aug 16 1663 Kingston, Ulster, NY
 
 d 1744 Minisink, Orange, N
 
-Aert Pietersz Tack
+f Aert Pietersz Tack
 
-Annetje Ariens van Etten
+m Annetje Ariens van Etten
 
 <hr>
 
-m [Luur Jacobsen van Kuykendall](leur_van_kuykendall.md)
+o [Luur Jacobsen van Kuykendall](leur_van_kuykendall.md)
 
 - Styntie
 - Jacob

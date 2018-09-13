@@ -1,10 +1,18 @@
+<gen=g11>
+
 <b>Valentine Hollingsworth</b>
 
 b 6 mo. 1632  Belleniskcrannel Parish, Sego, Armagh Co., Ireland (Aug 15)
 
 d Oct 13 1710 Newark, DE
 
-m1 Ann Ree Apr 07 1655
+f
+
+m
+
+<hr>
+
+o Ann Ree Apr 07 1655
 
 - Enoch
 - Mary
@@ -12,13 +20,15 @@ m1 Ann Ree Apr 07 1655
 - Thomas
 - Catherine
 
-m2 [Ann Calvert](ann_calvert.md) Apr 12 1672 Ireland
+o [Ann Calvert](ann_calvert.md) Apr 12 1672 Ireland
 
 
-- [Samuel](../g10/samuel_hollingsworth_sr.md)
+- [Samuel](../g10/samuel_hollingsworth_1672.md)
 - Enoch
 - Valentine
 - John Valentine
+
+<hr>
 
 [ref](https://www.findagrave.com/memorial/14190134/valentine-hollingsworth)
 

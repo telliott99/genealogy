@@ -1,16 +1,18 @@
+<gen=g7>
+
 <b>Elizabeth Kirkham</b>
 
 b 1751 VA
 
 d 1814 GA
 
-[ ] 
+f 
 
-[ ] 
+m
 
 <hr>
 
-m [Shadrach Mims](shadrach_mims.md) 
+o [Shadrach Mims](shadrach_mims.md) 
 
 - [Seaborn Mims](../g6/seaborn_mims.md)
 - Shadrach Mims 1804 GA - 1885 AL

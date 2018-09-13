@@ -1,16 +1,18 @@
+<gen=g6>
+
 <b>Abner Kuykendall</b>
 
 b Jan 06 1807 Cookeville, Putnam Co., TN
 
 d Nov 09 1867 Johnson Co., TX
 
-[Mathew Kuykendall](../g7/mathew_kuykendall.md)
+f [Mathew Kuykendall](../g7/mathew_kuykendall.md)
 
-[Nancy Johnson](../g7/nancy_johnson.md)
+m [Nancy Johnson](../g7/nancy_johnson.md)
 
 <hr>
 
-m [Maria Duff](maria_duff.md)
+o [Maria Duff](maria_duff.md)
 
 - Mary Elizabeth Kuykendall 1836-1918
 - Mathew Johnson Kuykendall 1838-1913

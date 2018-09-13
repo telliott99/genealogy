@@ -1,18 +1,20 @@
+<gen=g8>
+
 <b>Jacob Joseph Hollingsworth</b>
 
 b c.1742 Chester Co., PA
 
 d Nov 1822 Franklin Co., GA
 
-[Samuel Hollingsworth Jr.](samuel_hollingsworth_jr.md)
+f [Samuel Hollingsworth](../g9/samuel_hollingsworth_1717.md) 1717-1751
 
-Barbara Shewin
+m Barbara Shewin
 
 <hr>
 
-m [Mary Brooks](mary_brooks.md) 1768 NC
+o [Mary Brooks](mary_brooks.md) 1768 NC
 
-- [Jacob](../g7/jacob_hollingsworth_jr.md)
+- [Jacob](../g7/jacob_hollingsworth_1775.md)
 - Benjamin
 - James
 

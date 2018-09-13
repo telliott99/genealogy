@@ -1,12 +1,18 @@
+<gen=g8>
+
 <b>Elizabeth Fidle</b>
 
 b Jan 16 1728 Kingston, Ulster Co., NY
 
 d 1800 Buncombe Co., NC
 
+f
+
+m
+
 <hr>
 
-m [Abraham Kuykendall](abraham_kuykendall.md)
+o [Abraham Kuykendall](abraham_kuykendall.md)
 
 - James 1755-1832
 - Jane (McMinn) 1755-1834

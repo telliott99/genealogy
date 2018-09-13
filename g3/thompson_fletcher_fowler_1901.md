@@ -1,15 +1,18 @@
+<gen=g3>
+
 <b>Thompson Fletcher Fowler</b>
 
 b Aug 12 1901
 
 d Mar 10 1970
 
-[Thompson Ernest Fowler](../g4/thompson_ernest_fowler.md)
+f [Thompson Ernest Fowler](../g4/thompson_ernest_fowler.md)
 
-[Augusta Johnson](../g4/augusta_johnson.md)
+m [Augusta Johnson](../g4/augusta_johnson.md)
 
 <hr>
 
+o
 
 <hr>
 

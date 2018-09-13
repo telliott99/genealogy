@@ -1,12 +1,18 @@
+<gen=g6>
+
 <b>William Long</b>
 
-b -- Ireland
+b Ireland
 
-d --
+d
+
+f
+
+m
 
 <hr>
 
-m Emily C. Boggs
+o Emily C. Boggs
 
 - [Mary Eleanor Long](../g5/mary_eleanor_long.md)
 

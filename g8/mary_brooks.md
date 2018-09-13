@@ -1,14 +1,20 @@
+<gen=g8>
+
 <b>Mary Brooks</b>
 
 b c.1742 Chester Co., PA
 
 d Nov 1822 Franklin Co., GA
 
+f
+
+m
+
 <hr>
 
-m [Jacob Joseph Hollingsworth](jacob_hollingsworth_sr.md) 1768 NC
+o [Jacob Joseph Hollingsworth](jacob_hollingsworth_1742.md) 1768 NC
 
-- [Jacob](../g7/jacob_hollingsworth_jr.md)
+- [Jacob](../g7/jacob_hollingsworth_1775.md)
 - Benjamin
 - James
 

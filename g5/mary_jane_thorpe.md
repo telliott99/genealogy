@@ -1,11 +1,17 @@
+<gen=g5>
+
 <b>Mary Jane Thorpe</b>
 
 b 1820
 
 d 1862 Denmark, NY
 
+f
+
+m
+
 <hr>
 
-m [Edward Metcalf](edward_metcalf.md)
+o [Edward Metcalf](edward_metcalf.md)
 
 - [Alberti Metcalf](../g4/alberti_metcalf.md)

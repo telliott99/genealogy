@@ -1,19 +1,21 @@
+<gen=g4>
+
 <b>Thompson Ernest Fowler</b>
 
 b Jul 11 1874 Davilla Milam County, TX
 
 d Apr 11 1917 Temple, TX
 
-[Thompson Fletcher Fowler](../g5/thompson_fletcher_fowler.md)
+f [Thompson Fletcher Fowler](../g5/thompson_fletcher_fowler.md)
 
-[Mildred Maria Kuykendall](../g5/mildred_maria_kuykendall.md)
+m [Mildred Maria Kuykendall](../g5/mildred_maria_kuykendall.md)
 
 <hr>
 
-m [Augusta Johnson](augusta_johnson.md)
+o [Augusta Johnson](augusta_johnson.md)
 
 - [Gene Fowler](../g3/gene_fowler.md)
-- [Thompson Fletcher Fowler](../g3/thompson_fletcher_fowler_2.md)
+- [Thompson Fletcher Fowler](../g3/thompson_fletcher_fowler_1901.md)
 - [Robin Fowler](../g3/robin_fowler.md) 
 
 <hr>
