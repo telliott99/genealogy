@@ -8,7 +8,7 @@ d Mar 10 1962
 
 f [Robert Mortimer Johnson](../g5/robert_mortimer_johnson.md)
 
-m [Abigail Chandler](../g5/abby_chandler.md)
+m [Abby Ann West](../g5/abby_ann_west.md)
 
 <hr>
 

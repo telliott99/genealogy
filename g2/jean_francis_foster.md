@@ -23,3 +23,5 @@ o [Norman Elliott](../g2/norman_elliott.md) Oct 10 1944 Los Angeles, CA
 <hr>
 
 "Francis" is how she spelled it.
+
+Fran was born in Nogales.  She and her mother lived in Phoenix before Gene divorced and moved to Los Angeles (San Marino) in the mid 1930s.  We five were born and raised in Los Angeles near Western Ave.  (111 S. Van Ness, for much of the time).

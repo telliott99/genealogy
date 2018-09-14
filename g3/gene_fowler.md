@@ -8,7 +8,7 @@ d Feb -- 1970 Litchfield, IL
 
 f [Thompson Ernest Fowler](../g4/thompson_ernest_fowler.md)
 
-m [Augusta Johnson](../g4/augusta_johnson.md)
+m [Abigail Augusta Johnson](../g4/abigail_augusta_johnson.md)
 
 <hr>
 

@@ -14,9 +14,9 @@ m [Lydia Catherine Roberts](../g5/lydia_catherine_roberts.md)
 
 o [David Marion Elliott](david_marion_elliott.md) Dec 31 1876
 
-- Alanson C. Elliott 1880-1970
+- [Alanson C. Elliott](../g3/alanson_c_elliott.md)
 - [James Edgar Elliott](../g3/james_edgar_elliott.md) 1890-1940
-- Rosa Mae (Mack) 1892-1982
+- [Rosa Mae Elliott](../g3/rosa_may_elliott.md) (Mack) 1892-1982
 
 <hr>
 

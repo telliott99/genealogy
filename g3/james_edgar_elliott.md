@@ -19,3 +19,6 @@ o [Jessie Metcalf](jessie_metcalf.md) Jul 02 1920
 - John Elliott
 
 <hr>
+
+Known as Ed.  Lived in various places before settling in Los Angeles.  Served as a Los Angeles police officer (badge # _____).
+
