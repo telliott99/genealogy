@@ -21,3 +21,8 @@ o [Launa Mims Davis](launa_mims_davis.md) Jun 19 1888
 - [Lucile Foster](../g3/lucille_foster.md) (Bogan)
 
 <hr>
+
+Buried at Greenwood Cemetery
+Shreveport, Caddo Parish, Louisiana, USA.
+
+[ref](https://www.findagrave.com/memorial/78541080/william-long-foster/photo)

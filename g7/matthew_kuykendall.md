@@ -1,6 +1,6 @@
 <gen=g7>
 
-<b>Mathew Kuykendall</b>
+<b>Matthew Kuykendall</b>
 
 b Oct 24 1758 Mecklenberg Co., NC
 
@@ -13,7 +13,7 @@ m Elizabeth (Burleson, Van Zandt)
 
 <hr>
 
-o [Nancy Johnson](nancy_johnson.md)
+o [Nancy Johnson](nancy_johnson.md) May 11 1780
 
 - William 1790-1841
 - Abraham May 12 1792
@@ -23,6 +23,8 @@ o [Nancy Johnson](nancy_johnson.md)
 <hr>
 
 [ref](https://www.findagrave.com/memorial/178356104/mathew-kuykendall)
+
+[ref](http://www.robinrichmond.com/family/familygroup.php?familyID=F143&tree=rr) says birth Feb 09.
 
 Find a grave goes back farther:
 

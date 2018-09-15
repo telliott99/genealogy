@@ -27,3 +27,5 @@ o [Dinelah Huff](dinelah_huff.md)
 used for rest of the family tree.
 
 [Levi's gravestone](https://www.findagrave.com/memorial/49713508/levi-fowler)
+
+<img src="../figs/levi_fowler.jpg"  style="width: 250px;" />

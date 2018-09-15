@@ -2,13 +2,13 @@
 
 <b>Dinelah Huff</b>
 
-b May 10 1811 KY
+b May 10 1811 Cumberland Co., KY
 
 d Jul 06 1870 Johnson Co., TX
 
-f
+f [Daniel Huff](../g7/daniel_huff.md)
 
-m
+m Rachel Jackson
 
 <hr>
 
@@ -22,5 +22,10 @@ o [Levi Fowler](levi_fowler.md)
 - Newton
 
 <hr>
+
+Buried at Oakland Cemetery
+Grandview, Johnson County, Texas, USA
+
+[ref](https://www.findagrave.com/memorial/22092521/dinelah-fowler)
 
 [ref](http://freepages.rootsweb.com/~fowler/genealogy/combined/fam15054.htm)

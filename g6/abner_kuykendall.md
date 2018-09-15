@@ -6,7 +6,7 @@ b Jan 06 1807 Cookeville, Putnam Co., TN
 
 d Nov 09 1867 Johnson Co., TX
 
-f [Mathew Kuykendall](../g7/mathew_kuykendall.md)
+f [Matthew Kuykendall](../g7/matthew_kuykendall.md)
 
 m [Nancy Johnson](../g7/nancy_johnson.md)
 

@@ -8,9 +8,8 @@ To start exploring, you could look at [me](g1/thomas_anthony_elliott.md), or bro
 
 I have adopted a standard nomenclature (finally).  
 
-There are three sections, with six lines in the first section:  generation as e.g. gen=g6, name in bold, born, died, father, mother.  These lines should be present even if there is no data.  
+There are three sections.  The first has six lines:  generation as e.g. gen=g6, name in bold, born (b), died (d), father (f), mother (m).  These lines and identifiers are present even if there is no data.  
 
 In the second section are listed marriages (I chose o as the symbol for that), and then children in a list.  If there's a second marriage they are just listed in order.
 
 The third section is for any other data or references (or even pictures of people or their gravestones), and for discussion of discrepancies.
-

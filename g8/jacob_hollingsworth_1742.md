@@ -14,9 +14,15 @@ m Barbara Shewin
 
 o [Mary Brooks](mary_brooks.md) 1768 NC
 
+- Samuel
 - [Jacob](../g7/jacob_hollingsworth_1775.md)
 - Benjamin
 - James
+- Thomas
+- Hannah
+- Mary (Wofford) [ref](http://www.hollygardens.com/hollingsw/pafg11.htm#2862C)
+- Sarah
+- John
 
 <hr>
 

@@ -1,18 +1,18 @@
 <gen=g7>
 
-<b>Nancy Johnson</b>
+<b>Nancy Johnson (Kuykendall)</b>
 
-b
+b Jul 10 1765 Mecklenberg Co. NC
 
-d
+d Sep 04 1825 Franklin Co., TN
 
-f Col. William Johnson
+f [William Johnson](../g8/william_johnson.md)
 
 m Maria Rebecca Larkin
 
 <hr>
 
-o [Mathew Kuykendall](mathew_kuykendall.md) May 11 1780 Mecklenberg Co., TN
+o [Matthew Kuykendall](matthew_kuykendall.md) May 11 1780 Mecklenberg Co., TN
 
 Fourteen children including
 
@@ -25,14 +25,18 @@ Fourteen children including
 - John
 - James
 - Mildred
-- Mathew
+- Matthew
 - Abner Jan 06 1807 m. Maria or Marian Duff, d Nov 08 1867
 - Jacob
 - Nancy
 - Absalom Abner b Aug 25 1814 Franklin Co., TN m Nancy Dean Sep 15 1834 then Drusilla Dragoo
-
-[ref](https://www.wikitree.com/genealogy/Kuykendall-Family-Tree-47) This AA is different b/c different sibs.
+sibs.
 
 <hr>
+
+
+[ref](https://www.wikitree.com/genealogy/Kuykendall-Family-Tree-47) This AA is different than ours. 
+
+[ref](http://www.robinrichmond.com/family/familygroup.php?familyID=F143&tree=rr)
 
 Parents buried in the "Old Miller Cemetery" near Christiana, Rutherford Co, Tennessee.

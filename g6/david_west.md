@@ -40,3 +40,5 @@ o Lucinda Lattimer May 11 1841 Dover, Pope Co., AS
 [ref](https://www.findagrave.com/memorial/31169496/david-west)
 
 [data](../family_data/johnson/david_west.txt)
+
+<img src="../figs/david_west.jpg" style="width: 200px;" />

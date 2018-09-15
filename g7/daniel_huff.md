@@ -1,0 +1,38 @@
+<gen=g7>
+
+<b>Daniel Huff</b>
+
+b 1764 VA
+
+d Oct 27 1853 Clinton Co., KY
+
+f [Philip Huff](../g8/philip_huff.md)
+
+m Rachel Jackson
+
+<hr>
+
+o Hannah Hale Aug 30 1790
+
+o Jemima "Mima" Turman Feb 01 1796
+
+o Polly Stinson 1806 Wayne Co., KY
+
+o Lescenter Sublett Qualls
+
+not clear which mothers
+
+- Philip 1785-1854
+- Hawkins 1791-1846
+- Elizabeth 1795-1829
+- Rachel
+- [Dinelah](../g6/dinelah_huff.md) 1811-1870
+- Lewis
+- Harrison
+- Joshua
+
+<hr>
+
+[ref](https://www.wikitree.com/wiki/Huff-125) says Dinelah married Levi Fowler and they lived in Carter Co., TN.  It has extensive info about Daniel Huff.
+
+Started in VA, then Daniel and Philip moved to Jefferson Co., TN.  In 1800 and 1802 he was Captain tn the 1st Battalion, 46th (Cumberland) Regiment of KY Militia

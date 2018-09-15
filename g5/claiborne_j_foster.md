@@ -14,6 +14,7 @@ m [Mary Amelia Hollingsworth](../g6/mary_amelia_hollingsworth.md)
 
 o Eunice Burruss 1843-1930
 
+- [Jacob Flavel Foster](../g4/jacob_flavel_foster_1873.md)
 
 <hr>
 
@@ -24,3 +25,5 @@ o Eunice Burruss 1843-1930
 Captain, Co. G, 27th Regiment of Louisiana Infantry, Gen F.A. Shoup's brigade, M.L. Smith's division, Army of Mississippi.  Commended for gallantry at the siege of Vicksburg (May 18-Jun 4 1863).  Captured and paroled.  Exchanged 1864.
 
 Buried at Greenwood Cemetery, Shreveport.
+
+His son 

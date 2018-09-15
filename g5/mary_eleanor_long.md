@@ -15,8 +15,9 @@ m
 o [James Martin Foster](james_martin_foster.md)
 
 - Ernest Flavel Foster 1860-1862
-- [William Long Foster](../g4/william_long_foster.md)
-- James Martin Foster 1871-1928
+- [William Long Foster](../g4/william_long_foster.md) 1861-1916
+- [Claiborne Lee Foster](../g4/claiborne_lee_foster.md) 1865-1888
+- [James Martin Foster](../g4/james_martin_foster_1871.md) 1871-1928
 - John Gray Foster 1878-1901
 - Theresa Olive Foster 1879-1920
 - Lucile (McMillin) Foster 1879-1949

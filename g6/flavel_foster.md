@@ -8,7 +8,7 @@ d Jan 05 1869 Arlatex, Caddo Parish, LA
 
 f
 
-m Elizabeth
+m [Elizabeth](../g7/elizabeth_foster.md)
 
 <hr>
 
@@ -19,6 +19,7 @@ o [Mary Amelia Hollingsworth](mary_amelia_hollingsworth.md)
 - [James Martin Foster](../g5/james_martin_foster.md)
 - [Claiborne J. Foster](../g5/claiborne_j_foster.md)
 - [Jacob Flavel Foster](../g5/jacob_flavel_foster.md)
+- Mary Frances (Foster) [ref](https://www.findagrave.com/memorial/116387395/mary-frances-foster)
 
 <hr>
 
@@ -33,6 +34,10 @@ So Flavel's mother is Elizabeth Foster d 1835
 - John W. 
 
 ref says Richardson and Flavel married sisters, Amanda M. and Mary Hollingsworth, which agrees with what I know.  Flavel moved his family to DeSoto Parish, LA.  Later Amanda moved there with her second husband.
+
+Mother Elizabeth's [will](https://books.google.com/books?id=G-vwlPP4LKgC&pg=RA1-PA33&lpg=RA1-PA33&dq=%22elizabeth+foster%22+alabama+flavel+richardson&source=bl&ots=Mva5RXPVjW&sig=GHTYDgnKUdZfEhLRAWN6-_s3E20&hl=en&sa=X&ved=2ahUKEwic3ufI87rdAhXNg-AKHVHkB4wQ6AEwBHoECAYQAQ#v=onepage&q=%22elizabeth%20foster%22%20alabama%20flavel%20richardson&f=false)
+
+Many other Fosters mentioned nearby in the same book.
 
 
 

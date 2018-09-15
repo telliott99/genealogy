@@ -6,9 +6,9 @@ b c.1742 Chester Co., PA
 
 d Nov 1822 Franklin Co., GA
 
-f
+f Thomas Brooks of VA
 
-m
+m Mary Blacknall
 
 <hr>
 

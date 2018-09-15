@@ -16,7 +16,9 @@ o [Mary Eleanor Long](mary_eleanor_long.md)
 
 - Ernest Flavel Foster 1860-1862
 - [William Long Foster](../g4/william_long_foster.md)
-- James Martin Foster 1871-1928
+- [Claiborne Lee Foster](../g4/claiborne_lee_foster.md)
+- Jacob Flavel Foster 1863-1864 (JM's or Claiborne?) [ref](https://www.findagrave.com/memorial/48101086/jacob-flavel-foster)
+- [James Martin Foster](../g4/james_martin_foster_1871.md) 1871-1928
 - John Gray Foster 1878-1901
 - Theresa Olive Foster 1879-1920
 - Lucile (McMillin) Foster 1879-1949
@@ -31,12 +33,11 @@ o [Mary Eleanor Long](mary_eleanor_long.md)
 
 Buried at Oakland Cemetery, Shreveport.
 
-Possibly birth date Apr 25 based on obit.  Attended Western Military Institute at Drennon Springs, KY.  He and his two brothers served in the Confederate army.  Jacob Flavel Foster was killed at Chancellorsville.
+Possibly birth date Apr 25 based on obit.  Attended Western Military Institute at Drennon Springs, KY.  He and his two brothers served in the Confederate army.  [Jacob Flavel Foster](../g5/jacob_flavel_foster.md)
+ was killed at Chancellorsville.
 
-JM is called Captain, but he did not serve, instead stayed to manage to plantation.
+JM is called Captain, was in the army but did not fight, instead stayed to manage to plantation.
 
-Not clear on who is related to 
-
-- Claiborne Lee Foster 1868-1888 (killed at Fort Reno).
+Claiborne Lee Foster 1868-1888, killed at Fort Reno, Indian Territory (Oklahome) is his son according to [this](http://www.oaklandcemeteryla.org/Tour/Stop-6.aspx).
 
 There is also a James Madison Hollingsworth (cousin?) born 1830 Monroe Co., AL.  He served as a CSA Captain, Co. F, 19th Louisiana Infantry.  Promoted to Colonel.  Fought at Shiloh.
