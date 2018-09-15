@@ -12,7 +12,7 @@ m
 
 <hr>
 
-o [James Martin Foster](james_martin_foster.md)
+o [James Martin Foster](james_martin_foster_1831.md)
 
 - Ernest Flavel Foster 1860-1862
 - [William Long Foster](../g4/william_long_foster.md) 1861-1916

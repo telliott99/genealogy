@@ -6,7 +6,7 @@ b Oct 10 1861 De Soto Parish, LA
 
 d May 11 1916 Shreveport, LA
 
-f [James Martin Foster](../g5/james_martin_foster.md)
+f [James Martin Foster](../g5/james_martin_foster_1831.md)
 
 m [Mary Eleanor Long](../g5/mary_eleanor_long.md)
 

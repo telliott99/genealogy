@@ -30,15 +30,25 @@ for e in data:
                'mother':mother, 
                'path':path}
 
-def dict_for_name(n):
+# problem:  duplicate names, must search for more 
+
+def dict_for_name(n, g=None):
     # do not require the full name
     for k in D:
         if k.startswith(n):
+            if g and not D[k]['gen'] == g:
+                continue
             return D[k]
 
+p = dict_for_name(input)
+
+#----------------------------------------
+
 def get_parents(d):
+    # restrict name search to the previous generation
+    g = str(int(d['gen']) + 1)
     try:
-        f = dict_for_name(d['father'])
+        f = dict_for_name(d['father'], g)
     except:
         f = None
     try:

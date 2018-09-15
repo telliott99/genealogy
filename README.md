@@ -42,10 +42,10 @@ Jean Francis Foster
     James Heflin Foster
         William Long Foster
             James Martin Foster
-                James Martin Foster
-                Mary Eleanor Long (Foster)
+                Flavel Foster
+                Mary Amelia Hollingsworth (Foster)
             Mary Eleanor Long (Foster)
-                William Long Foster
+                William Long
                 *
         Launa Mims Davis
             Lewis Richard Davis
@@ -64,53 +64,15 @@ Jean Francis Foster
                 Maria Duff (Kuykendall)
         Abigail Augusta Johnson (Fowler)
             Robert Mortimer Johnson
-                William Johnson
+                *
                 *
             Abby Ann West (Johnson)
                 David West
                 Lucinda Latimer (West)
->
+> 
 ```
 
-The same output for my father's side shows how much work there is left to do:
-
-```
-> python search.py "Norman"
-Norman Elliott
-    James Edgar Elliott
-        David Marion Elliott
-            Alanson Elliott
-                David Elliott
-                *
-            Sarah Fisher (Elliott)
-                *
-                *
-        Clara Etta Main
-            Lewis W. Main
-                *
-                *
-            Lydia Catherine Roberts (Main)
-                *
-                *
-    Jessie Metcalf
-        Alberti Metcalf
-            Edward Metcalf
-                *
-                *
-            Mary Jane Thorpe (Metcalf)
-                *
-                *
-        Lenora Fisher
-            Henry J. Fisher
-                *
-                *
-            Oceana Jackson (Fisher)
-                *
-                *
->
-```
-
-The only name I have beyond what he uncovered, is Alanson Elliott's father, and he already knew that too.
+The same output for my father's side shows how much work there is left to do.  The only name I have beyond what he uncovered, is Alanson Elliott's father, and he already knew that too.
 
 ####  Some highlights:
 

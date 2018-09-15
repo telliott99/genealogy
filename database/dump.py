@@ -36,7 +36,7 @@ def extract_date(s):
     return no_data
 
 def process(L,f):
-    gen = L[0].split('=')[1].split('>')[0]
+    gen = L[0].split('=')[1].split('>')[0][1:] # no 'g'
     name = L[1].split('<b>')[1].split('<')[0]
     father = extract_name(L[4].strip())
     mother = extract_name(L[5].strip())
@@ -50,7 +50,16 @@ def process(L,f):
     # if f.split('/')[0] != gen: 1/0
     pL = [gen,name,full,father,mother,f]
     print '\n'.join(pL) + '\n'
+    
 
+def test():
+    fn = p + '/g5/james_martin_foster.md'
+    fh = open(fn)
+    L = fh.read()
+    fh.close()
+    L = L.strip().split('\n')
+    L = [e for e in L if not e == '']
+    process(L,fn)
 
 for f in L:
     fh = open(f)
@@ -63,5 +72,4 @@ for f in L:
         print data
         sys.exit()
 
-    
     
