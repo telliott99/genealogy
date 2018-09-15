@@ -1,6 +1,6 @@
 <gen=g5>
 
-<b>Oceana Jackson</b>
+<b>Oceana Jackson (Fisher)</b>
 
 b 1840
 

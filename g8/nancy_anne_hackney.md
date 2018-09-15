@@ -1,6 +1,6 @@
 <gen=g8>
 
-<b>Nancy Anne Hackney</b>
+<b>Nancy Anne Hackney (Davis)</b>
 
 b Dec 18 1723 Christ Church Par., Middlesex, VA
 

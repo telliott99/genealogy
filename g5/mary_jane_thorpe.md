@@ -1,6 +1,6 @@
 <gen=g5>
 
-<b>Mary Jane Thorpe</b>
+<b>Mary Jane Thorpe (Metcalf)</b>
 
 b 1820
 

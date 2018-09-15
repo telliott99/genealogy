@@ -1,6 +1,6 @@
 <gen=g6>
 
-<b>Elizabeth Hubbard Saunders (Betsy)</b>
+<b>Elizabeth Hubbard Saunders (Mims) {Betsy}</b>
 
 b Apr 19 1792 GA
 

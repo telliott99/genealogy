@@ -12,7 +12,7 @@ m Deborah
 
 <hr>
 
-o  [Mary Squires](mary_polly_squires.md) (known as Polly)
+o  [Mary Squires](mary_squires.md) (known as Polly)
 
 - Herman
 - [Alanson Elliott](../g5/alanson_elliott.md) 1815-1859

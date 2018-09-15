@@ -1,6 +1,6 @@
 <gen=g11>
 
-<b>Ann Calvert</b>
+<b>Ann Calvert (Hollingsworth)</b>
 
 b 9 mo. 1650 County Down, Ireland
 

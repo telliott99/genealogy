@@ -1,6 +1,6 @@
 <gen=g8>
 
-<b>Elizabeth Fidle</b>
+<b>Elizabeth Fidle (Kuykendall)</b>
 
 b Jan 16 1728 Kingston, Ulster Co., NY
 

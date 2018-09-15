@@ -6,9 +6,9 @@ b Aug 22 1616 Wageningen, Gelderland, Netherlands
 
 d Apr 29 1655 Fort Orange, New Netherlands
 
-f Luur Cornelisson van Kuykendall 1590-1619 Netherlands
+f Luur Cornelisson van Kuykendall
 
-m N.N. (Christijntje) 1594-1622 Netherlands
+m N.N. (Christijntje)
 
 <hr>
 
@@ -20,6 +20,10 @@ o Stijntje Douwes
 - [Leur Jacobsen van Kuykendall](../g10/leur_jacobsen_van_kuykendall.md)
 
 <hr>
+
+father 1590-1619 Netherlands
+
+mother 1594-1622 Netherlands
 
 Good refs on the web about this guy.
 

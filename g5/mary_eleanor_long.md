@@ -1,6 +1,6 @@
 <gen=g5>
 
-<b>Mary Eleanor Long</b>
+<b>Mary Eleanor Long (Foster)</b>
 
 b 1842
 

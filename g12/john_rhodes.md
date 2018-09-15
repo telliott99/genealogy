@@ -6,9 +6,9 @@ b 1620 Island of Guernsey, Channel Islands
 
 d 1717 Middlesex, VA
 
-John Edwards Rhodes 1600-c.1638
+f John Edwards Rhodes
 
-Comfort Rhodes 1605-?
+m Comfort Rhodes
 
 <hr>
 
@@ -21,6 +21,10 @@ o
 - Richard Rhodes
 
 <hr>
+
+father 1600-c.1638
+
+mother 1605-?
 
 [ref](https://www.wikitree.com/wiki/Rhodes-813)
 

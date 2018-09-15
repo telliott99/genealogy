@@ -1,6 +1,6 @@
 <gen=g5>
 
-<b>Alabama Frances Mims</b>
+<b>Alabama Frances Mims (Davis)</b>
 
 b c.1825
 
@@ -8,7 +8,7 @@ d 1894
 
 f [Seaborn Mims](../g6/seaborn_mims.md)
 
-m [Elizabeth Hubbard Saunders](../g6/elizabeth_hubbard_saunders.md) (Betsy)
+m [Elizabeth Hubbard Saunders](../g6/elizabeth_hubbard_saunders.md) {Betsy}
 
 <hr>
 

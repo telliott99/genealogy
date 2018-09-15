@@ -6,13 +6,13 @@ b Jul 20 1753 MD
 
 d Apr 27 1830 Sumner Co., TN
 
-f Levi West
+f [Levi West](../g8/levi_west.md)
 
 m Mary Williams
 
 <hr>
 
-o Tryphenia Mets/Mead (West) Jul 01 1773 Dobbs, NC [ref](https://www.findagrave.com/memorial/62662227/tryphenia-west)
+o [Tryphenia Metts Mead (West)](tryphenia_metts_mead.md) Jul 01 1773 Dobbs, NC
 
 - Thomas 1778-1862
 - Phoebe (Hunter) 1787-1859

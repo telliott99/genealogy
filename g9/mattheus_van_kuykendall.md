@@ -8,7 +8,7 @@ d 1754 Anson Co., NC
 
 f [Leur Jacobsen van Kuykendall](../g10/leur_jacobsen_van_kuykendall.md)
 
-m Margaret Artze Pieterson aka [Grietje Aerts](grietje_aerts.md)
+m [Grietje Margaret Artze Pieterson](grietje_aerts.md)
 
 <hr>
 

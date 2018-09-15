@@ -1,6 +1,6 @@
 <gen=g9>
 
-<b>Alice Nichols Rhodes</b>
+<b>Alice Nichols Rhodes (Hackney)</b>
 
 b Jul 16 1687, Christ Church Par., Middlesex Co, VA
 

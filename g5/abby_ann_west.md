@@ -1,6 +1,6 @@
 <gen=g5>
 
-<b>Abby Ann West</b>
+<b>Abby Ann West (Johnson)</b>
 
 b Nov 27 1850
 
@@ -15,7 +15,7 @@ m [Lucinda Latimer](../g6/lucinda_latimer.md) (West) 1821-1903
 o [Robert Mortimer Johnson](robert_mortimer_johnson.md)
 
 - [Daniel Robert Johnson](../g4/daniel_robert_johnson.md) 1875-1965
-- [Abigail Augusta Johnson](../g4/abigail_augusta_johnson.md) 1875-1962
+- [Abigail Augusta Johnson](../g4/abigail_augusta_johnson.md) (Fowler) 1875-1962
 
 <hr>
 

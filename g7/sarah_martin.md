@@ -1,6 +1,6 @@
 <gen=g7>
 
-<b>Sarah Martin</b>
+<b>Sarah Martin (Hollingsworth)</b>
 
 b Jul 01 1783 North Carolina
 

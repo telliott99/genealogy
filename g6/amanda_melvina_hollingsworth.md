@@ -1,6 +1,6 @@
 <gen=g6>
 
-<b>Amanda Melvina Hollingsworth</b>
+<b>Amanda Melvina Hollingsworth (Foster)</b>
 
 b 1812
 

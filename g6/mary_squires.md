@@ -1,6 +1,6 @@
 <gen=g6>
 
-<b>Mary Polly Squires</b>
+<b>Mary Squires {Polly}</b>
 
 b Feb 13 1793 Sandgate, Bennington Co., VT
 

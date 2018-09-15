@@ -8,7 +8,7 @@ d Mar 16 1859 Willing, NY
 
 f [David Elliott](../g6/david_elliott_1784.md) 1784-1854
 
-m [Mary Polly Squires](../g6/mary_polly_squires.md) 1793-1886
+m [Mary Polly Squires](../g6/mary_squires.md) 1793-1886
 
 <hr>
 

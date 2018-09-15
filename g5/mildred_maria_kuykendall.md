@@ -1,6 +1,6 @@
 <gen=g5>
 
-<b>Mildred Maria Kuykendall</b>
+<b>Mildred Maria Kuykendall (Fowler) {Minnie}</b>
 
 b Oct 30 1847 Moody, TX ? (RF)
 
@@ -18,7 +18,5 @@ o [Thompson Fletcher Fowler](thompson_fletcher_fowler.md) Dec 16 1869
 - [Thompson Ernest Fowler](../g4/thompson_ernest_fowler.md)
 
 <hr>
-
-Known as "Minnie".
 
 [ref](https://www.findagrave.com/memorial/24908137/mildred-maria-fowler)

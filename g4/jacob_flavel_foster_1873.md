@@ -1,6 +1,6 @@
 <gen=g4>
 
-<b>Jacob Flavel Foster_</b>
+<b>Jacob Flavel Foster</b>
 
 b Jan 05 1873 Shreveport, Caddo Parish, LA
 

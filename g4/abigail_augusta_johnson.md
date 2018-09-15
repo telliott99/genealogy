@@ -1,6 +1,6 @@
 <gen=g4>
 
-<b>Abigail Augusta Johnson</b>
+<b>Abigail Augusta Johnson (Fowler)</b>
 
 b Oct 16 1874
 

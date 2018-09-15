@@ -1,6 +1,6 @@
 <gen=g9>
 
-<b>Mary Westfall (Marritjen Westvaal)</b>
+<b>Marritjen Westvaal {Mary Westfall}</b>
 
 b Aug 16 1685 Kingston, Ulster Co., 
 

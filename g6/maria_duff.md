@@ -1,6 +1,6 @@
 <gen=g6>
 
-<b>Maria Duff</b>
+<b>Maria Duff (Kuykendall)</b>
 
 b Dec 12 1811 Edmonson Co., KY
 

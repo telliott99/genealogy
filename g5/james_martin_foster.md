@@ -8,7 +8,7 @@ d Dec 12 1900 Shreveport, Caddo Parish, LA
 
 f [Flavel Foster](../g6/flavel_foster.md)
 
-m [Mary Amelia Hollingsworth](../g6/mary_amelia_hollingsworth.md)
+m [Mary Amelia Hollingsworth](../g6/mary_amelia_hollingsworth.md) (Foster)
 
 <hr>
 

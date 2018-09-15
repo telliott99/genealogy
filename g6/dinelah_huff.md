@@ -1,6 +1,6 @@
 <gen=g6>
 
-<b>Dinelah Huff</b>
+<b>Dinelah Huff (Fowler)</b>
 
 b May 10 1811 Cumberland Co., KY
 
