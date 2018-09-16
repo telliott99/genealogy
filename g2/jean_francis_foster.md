@@ -1,6 +1,6 @@
 <gen=g2>
 
-<b>Jean Francis Foster</b>
+<b>Jean Francis Foster</b> <b>(Elliott)</b>
 
 b Nov 01 1925 Nogales, AZ
 

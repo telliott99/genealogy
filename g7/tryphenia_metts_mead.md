@@ -1,6 +1,6 @@
 <gen=g7>
 
-<b>Tryphenia Metts Mead (West)</b>
+<b>Tryphenia Metts Mead</b> <b>(West)</b>
 
 b Apr 27 1755 Jones Co., NC
 

@@ -1,6 +1,6 @@
 <gen=g7>
 
-<b>Elizabeth Kirkham (Mims)</b>
+<b>Elizabeth Kirkham</b> <b>(Mims)</b>
 
 b 1751 VA
 

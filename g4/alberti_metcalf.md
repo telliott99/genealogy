@@ -21,3 +21,5 @@ o [Lenora Fisher](lenora_fisher.md) Oct 03 1888
 o Oct 03 1888
 
 [This](https://books.google.com/books?id=Hvk7AAAAIAAJ&pg=PA893&lpg=PA893&dq=alberti+metcalf&source=bl&ots=eWJn2u7UW3&sig=7rouSuegph9Nh3UZAIL9vPE0se4&hl=en&sa=X&ved=2ahUKEwjxk9XTzLjdAhVS2lMKHaXIDmkQ6AEwBHoECAUQAQ#v=onepage&q=alberti%20metcalf&f=false) is a lawsuit involving Alberti.  He was living in Indianapolis.
+
+[grave](https://www.findagrave.com/memorial/45986909/alberti-charles-metcalf) -1928

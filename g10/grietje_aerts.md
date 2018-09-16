@@ -1,6 +1,6 @@
 <gen=g10>
 
-<b>Grietje Aerts</b>
+<b>Grietje Aerts</b> <b>(Kuykendall)</b>
 
 b Aug 16 1663 Kingston, Ulster, NY
 

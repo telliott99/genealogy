@@ -1,6 +1,6 @@
 <gen=g6>
 
-<b>Mary Amelia Hollingsworth (Foster)</b>
+<b>Mary Amelia Hollingsworth</b> <b>(Foster)</b>
 
 b Oct 05 1802 GA
 

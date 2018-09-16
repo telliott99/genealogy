@@ -6,7 +6,7 @@ b Oct 24 1758 Mecklenberg Co., NC
 
 d Aug 15 1841 DeSoto Co., MI
 
-f [Abraham Kuykendall](../g8/abraham_kuykendall.md)
+f [Abraham Kuykendall](../g8/abraham_kuykendall_1807.md)
 
 m Elizabeth (Burleson, Van Zandt)
 
@@ -17,7 +17,7 @@ o [Nancy Johnson](nancy_johnson.md)
 
 - William 1790-1841
 - Abraham May 12 1792
-- [Abner Kuykendall](../g6/abner_kuykendall.md)
+- [Abner Kuykendall](../g6/abner_kuykendall_1807).md)
 - [Absalom Abner Kuykendall](../g6/absalom_abner_kuykendall.md)
 
 <hr>

@@ -1,6 +1,6 @@
 <gen=g3>
 
-<b>Lucille Foster</b>
+<b>Lucille Foster</b> <b>(Bogan)</b>
 
 b Dec 11 1900
 

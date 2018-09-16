@@ -1,6 +1,6 @@
 <gen=g9>
 
-<b>Marritjen Westvaal {Mary Westfall}</b>
+<b>Marritjen Westvaal {Mary Westfall}</b> <b>(Kuykendall)</b>
 
 b Aug 16 1685 Kingston, Ulster Co., 
 
@@ -12,7 +12,7 @@ m Marietje Jacobz Cool Westvaal
 
 <hr>
 
-o [Cornelius Jacobsen Van Kuykendall](../g9/cornelius_kuykendall.md)
+o [Cornelius Jacobsen van Kuykendall](../g9/cornelius_kuykendall.md)
 
 - [Abraham Kuykendall](../g8/abraham_kuykendall.md)
 - Luer Lewis Kuykendall

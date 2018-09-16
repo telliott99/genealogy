@@ -1,6 +1,6 @@
 <gen=g8>
 
-<b>Mary Brooks (Hollingsworth)</b>
+<b>Mary Brooks</b> <b>(Hollingsworth)</b>
 
 b c.1742 Chester Co., PA
 

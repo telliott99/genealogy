@@ -1,6 +1,6 @@
 <gen=g5>
 
-<b>Lydia Catherine Roberts (Main)</b>
+<b>Lydia Catherine Roberts</b> <b>(Main)</b>
 
 b 1840
 

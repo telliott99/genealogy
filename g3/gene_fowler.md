@@ -1,6 +1,6 @@
 <gen=g3>
 
-<b>Gene Fowler</b>
+<b>Gene Fowler</b> <b>(Foster)</b>
 
 b Jan 27 1898 Bartlett, TX
 

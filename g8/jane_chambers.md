@@ -1,6 +1,6 @@
 <gen=g8>
 
-<b>Jane Chambers Rankin</b>
+<b>Jane Chambers</b> <b>(Rankin)</b>
 
 b 1752
 

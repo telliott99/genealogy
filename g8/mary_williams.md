@@ -1,6 +1,6 @@
 <gen=g8>
 
-<b>Mary Williams (West)</b>
+<b>Mary Williams</b> <b>(West)</b>
 
 b Sep 20 1731 VA
 

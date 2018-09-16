@@ -1,6 +1,6 @@
 <gen=g4>
 
-<b>Lenora Fisher</b>
+<b>Lenora Fisher</b> <b>(Metcalf)</b>
 
 b Apr 12 1861 Napoleon, IN
 
@@ -19,3 +19,9 @@ o [Alberti Metcalf](alberti_metcalf.md)
 <hr>
 
 o Oct 03 1888
+
+[grave](https://www.findagrave.com/memorial/45986936/lenora-f.-metcalf)
+
+Buried at Crown Hill Cemetery
+Indianapolis, Marion County, Indiana, USA)
+

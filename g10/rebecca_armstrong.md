@@ -1,6 +1,6 @@
 <gen=g10>
 
-<b>Rebecca Armstrong</b>
+<b>Rebecca Armstrong</b> <b>(Rankin)</b>
 
 b 1700 Letterkenny Parish, Donegal county, Ireland
 

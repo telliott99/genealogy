@@ -1,12 +1,12 @@
 <gen=g5>
 
-<b>Mildred Maria Kuykendall (Fowler) {Minnie}</b>
+<b>Mildred Maria Kuykendall</b> <b> {Minnie} (Fowler)</b>
 
 b Oct 30 1847 Moody, TX ? (RF)
 
 d Jun 19 1936 Bartlett, TX
 
-f [Abner Kuykendall](../g6/abner_kuykendall.md)
+f [Abner Kuykendall](../g6/abner_kuykendall_1807.md)
 
 m [Maria Duff](../g6/maria_duff.md)
 

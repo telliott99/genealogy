@@ -1,6 +1,6 @@
 <gen=g5>
 
-<b>Sarah Fisher (Elliott)</b>
+<b>Sarah Fisher</b> <b>(Elliott)</b>
 
 b 1821
 

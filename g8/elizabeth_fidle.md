@@ -1,6 +1,6 @@
 <gen=g8>
 
-<b>Elizabeth Fidle (Kuykendall)</b>
+<b>Elizabeth Fidle</b> <b>(Kuykendall)</b>
 
 b Jan 16 1728 Kingston, Ulster Co., NY
 
@@ -16,11 +16,18 @@ o [Abraham Kuykendall](abraham_kuykendall.md)
 
 - James 1755-1832
 - Jane (McMinn) 1755-1834
-- [Mathew Kuykendall](mathew_kuykendall.md) 1758-1841
+- Esther
+- John
+- [Matthew Kuykendall](../g7/matthew_kuykendall.md) 1758-1841
 - Simon 1769-1820
-- Abraham Westfall Kuykendall 1770-1871
+
+14 total
 
 <hr>
+
+o 1743
+
+[grave](https://www.findagrave.com/memorial/6740564/abraham-kuykendall) and notation in [grave](https://www.findagrave.com/memorial/92128957/elizabeth-kuykendall) disagree about her last name, possibly Burleson.
 
 Buried at 	Mud Creek Baptist Church Cemetery, Flat Rock, Henderson County, NC.
 

@@ -1,6 +1,6 @@
 <gen=g3>
 
-<b>Jessie Metcalf</b>
+<b>Jessie Metcalf</b> <b>(Elliott)</b>
 
 b Nov 03 1892 Indianapolis, IN
 

@@ -1,6 +1,6 @@
 <gen=g10>
 
-<b>Philadelphia Rawlings (Williams)</b>
+<b>Philadelphia Rawlings</b> <b>(Williams)</b>
 
 b 1670 Dorchester, MD
 

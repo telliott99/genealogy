@@ -1,6 +1,6 @@
 <gen=g6>
 
-<b>Salinda Rankin</b>
+<b>Salinda Rankin</b> <b>(Johnson)</b>
 
 b 1823
 

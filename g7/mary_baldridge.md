@@ -1,6 +1,6 @@
 <gen=g7>
 
-<b>Mary Baldridge (Fowler)</b>
+<b>Mary Baldridge</b> <b>(Fowler)</b>
 
 b Dec 20 1771
 

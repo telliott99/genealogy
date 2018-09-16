@@ -1,6 +1,6 @@
 <gen=g6>
 
-<b>Mary Squires (Elliott) {Polly}</b>
+<b>Mary Squires</b> <b>(Elliott) {Polly}</b>
 
 b Feb 13 1793 Sandgate, Bennington Co., VT
 

@@ -1,6 +1,6 @@
 <gen=g6>
 
-<b>Elizabeth (Davis)</b>
+<b>Elizabeth Davis</b> <b>(Sims)</b>
 
 b 1805 Morgan, Calhoun Co., GA
 

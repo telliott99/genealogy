@@ -1,6 +1,6 @@
 <gen=g10>
 
-<b>Hannah Cloyce (Elliott)</b>
+<b>Hannah Cloyce</b> <b>(Elliott)</b>
 
 b
 

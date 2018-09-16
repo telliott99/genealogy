@@ -1,6 +1,6 @@
 <gen=g5>
 
-<b>Eunice Burruss</b>
+<b>Eunice Burruss</b> <b>(Foster)</b>
 
 b 
 

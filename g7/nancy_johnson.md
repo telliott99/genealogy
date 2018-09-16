@@ -1,6 +1,6 @@
 <gen=g7>
 
-<b>Nancy Johnson (Kuykendall)</b>
+<b>Nancy Johnson</b> <b>(Kuykendall)</b>
 
 b Jul 10 1765 Mecklenberg Co. NC
 
@@ -26,7 +26,7 @@ Fourteen children including
 - James
 - Mildred
 - Matthew
-- [Abner Kuykendall](../g6/abner_kuykendall.md) Jan 06 1807 m. Maria or Marian Duff, d Nov 08 1867
+- [Abner Kuykendall](../g6/abner_kuykendall_1807.md) Jan 06 1807 m. Maria or Marian Duff, d Nov 08 1867
 - Jacob
 - Nancy
 - [Absalom Abner Kuykendall(absalom_abner_kuykendall.md)

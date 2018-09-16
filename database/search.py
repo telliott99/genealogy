@@ -3,7 +3,7 @@ import sys
 try:
     input = sys.argv[1]
 except:
-    'please input a full name'
+    'Please input a name to search'
     sys.exit()
 
 y = None
@@ -52,7 +52,9 @@ for e in data:
 # the year requirement is for initial search
 # the generation requirement is for tree building
 
-def key_for_value(property, value, g=None, year=None):
+# strict doesn't work
+
+def key_for_value(property, value, g=None, year=None, strict=False):
     # do not need to have the full name
     for k in D:
         sD = D[k]
@@ -60,30 +62,49 @@ def key_for_value(property, value, g=None, year=None):
             continue
         if year and not sD['born'] == year:
             continue
-        if value in sD[property]:
-            return k
+        if not strict:
+            if value in sD[property]:
+                return k
+        else:
+            if value == sD[property]:
+                return k
     return None
 
 #----------------------------------------
 
 
-def get_parent(k, kind='father'):
-    if not k in D:
+def get_parent(k_in, kind='father'):
+    # key not in D, includes key == None
+    if not k_in or not k_in in D:
         return None
+                
+    t = None
+    #t = "Abner Kuykendall"
     
-    # 3 situations
-    # find a key
+    # restrict name search to the previous generation
+    curr_gen = D[k_in]['gen']
+    next_gen = str(int(curr_gen) + 1)
+
+    # find a key or
     # find only a name (no page)
     # find nothing
-        
-    # restrict name search to the previous generation
-    g = str(int(D[k]['gen']) + 1)
-    
-    n = D[k][kind]
+       
+    n = D[k_in][kind]
     try:
-        k = key_for_value('name', n, g=g)
+        k = key_for_value('name', n, g=next_gen)
+        if k == None:
+            k = n
     except:
         k = n
+    
+    # debug
+    if t and t in k_in:
+        print "get parents"
+        print curr_gen
+        print k_in
+        print k 
+        print n
+
     return k
  
 def pp(k,level):
@@ -100,7 +121,7 @@ def get_parents(k):
 
 #----------------------------------------
 
-k = key_for_value('name', input, year=y)
+k = key_for_value('name', input, year=y, strict=False)
 if not k in D:
     print "Not found"
     sys.exit()
@@ -124,9 +145,16 @@ for p in f,m:
            pp(ggp,3)
            if not ggp:
                continue
-           gggf, gggm = get_parents(ggp)
-           pp(gggf,4)
-           pp(gggm,4)
+           gggf, gggm = get_parents(ggp) 
+           
+           for gggp in gggf,gggm:
+               pp(gggp,4)
+               if not gggp:
+                   continue
+               ggggf, ggggm = get_parents(gggp)
+               pp(ggggf,5)
+               pp(ggggm,5)
+
     
   
     

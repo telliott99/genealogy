@@ -1,6 +1,6 @@
 <gen=g4>
 
-<b>Clara Etta Main</b>
+<b>Clara Etta Main</b> <b>(Elliott)</b>
 
 b May 04 1860 Prairie City, Jasper Co., IA
 

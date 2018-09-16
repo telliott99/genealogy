@@ -1,6 +1,6 @@
 <gen=g9>
 
-<b>Isabella Mebane</b>
+<b>Isabella Mebane</b> <b>(Cusick)</b>
 
 b 1730
 

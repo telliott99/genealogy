@@ -1,6 +1,6 @@
 <gen=g3>
 
-<b>Rosa Mae Elliott (Mack)</b>
+<b>Rosa Mae Elliott</b> <b>(Mack)</b>
 
 b Aug 07 1892 Pike Co., IN
 
@@ -19,6 +19,8 @@ o Forrest W. Mack
 - Leigh Spencer 1926-2002
 
 <hr>
+
+called "Mae"
 
 o 1921
 

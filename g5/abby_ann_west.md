@@ -1,6 +1,6 @@
 <gen=g5>
 
-<b>Abby Ann West (Johnson)</b>
+<b>Abby Ann West</b> <b>(Johnson)</b>
 
 b Nov 27 1850
 

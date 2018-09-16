@@ -1,3 +1,11 @@
+Jessie Marin Elliott
+b 1982
+d *
+f William Michael Elliott
+m Nancy Klauber
+o *
+g0/jessie_marin_elliott.md
+
 Sean Anil Elliott
 b 1996
 d *
@@ -14,6 +22,14 @@ m Jean Francis Foster
 o Meenal Bhopatkar
 o Joan Carlyn Olson
 g1/thomas_anthony_elliott.md
+
+William Michael Elliott
+b 1953
+d *
+f Norman Elliott
+m Jean Francis Foster
+o Nancy Klauber
+g1/william_michael_elliott.md
 
 Norman Elliott
 b 1923
@@ -32,7 +48,7 @@ m Gene Fowler
 o Norman Elliott
 g2/jean_francis_foster.md
 
-Rosa Mae Elliott (Mack)
+Rosa Mae Elliott
 b 1892
 d 1982
 f David Marion Elliott
@@ -49,7 +65,7 @@ o Dorothy (Fowler)
 o *
 g3/thompson_fletcher_fowler_1901.md
 
-Jane Palmer (Fowler)
+Jane Palmer
 b 1919
 d 2006
 f *
@@ -130,7 +146,7 @@ m Clara Etta Main
 o *
 g3/alanson_c_elliott.md
 
-Abigail Augusta Johnson (Fowler)
+Abigail Augusta Johnson
 b 1874
 d 1962
 f Robert Mortimer Johnson
@@ -210,7 +226,7 @@ m Lydia Catherine Roberts
 o David Marion Elliott
 g4/clara_etta_main.md
 
-Marguerrite Crain (Foster)
+Marguerrite Crain
 b *
 d 1890
 f *
@@ -258,7 +274,7 @@ m Martha Smithwick
 o *
 g4/wylie_f_fowler.md
 
-Launa Mims Davis (Foster)
+Launa Mims Davis
 b 1865
 d 1939
 f Lewis Richard Davis
@@ -266,8 +282,8 @@ m Alabama Frances Mims
 o William Long Foster
 g4/launa_mims_davis.md
 
-Oceana Jackson (Fisher)
-b 1840
+Oceana Jackson
+b 1841
 d 1918
 f *
 m *
@@ -283,14 +299,14 @@ o *
 g5/jacob_flavel_foster.md
 
 Henry J. Fisher
-b *
-d *
+b 1835
+d 1866
 f *
 m *
 o Oceana Jackson
 g5/henry_j_fisher.md
 
-Abby Ann West (Johnson)
+Abby Ann West
 b 1850
 d 1932
 f David West
@@ -298,7 +314,7 @@ m Lucinda Latimer
 o Robert Mortimer Johnson
 g5/abby_ann_west.md
 
-Lydia Catherine Roberts (Main)
+Lydia Catherine Roberts
 b 1840
 d 1925
 f *
@@ -322,7 +338,7 @@ m Elizabeth Hubbard Saunders
 o Lewis Richard Davis
 g5/alabama_frances_mims.md
 
-Mary Jane Thorpe (Metcalf)
+Mary Jane Thorpe
 b 1820
 d 1862
 f *
@@ -364,7 +380,7 @@ m Mary Amelia Hollingsworth
 o Eunice Burruss
 g5/claiborne_j_foster.md
 
-Sarah Fisher (Elliott)
+Sarah Fisher
 b 1821
 d 1872
 f *
@@ -380,7 +396,7 @@ m *
 o Mary Jane Thorpe
 g5/edward_metcalf.md
 
-Mildred Maria Kuykendall (Fowler) {Minnie}
+Mildred Maria Kuykendall
 b 1847
 d 1936
 f Abner Kuykendall
@@ -404,7 +420,7 @@ m *
 o Claiborne J. Foster
 g5/eunice_burruss.md
 
-Mary Eleanor Long (Foster)
+Mary Eleanor Long
 b 1842
 d 1910
 f William Long
@@ -436,7 +452,15 @@ m Elizabeth Kirkham
 o Elizabeth Hubbard Saunders
 g6/seaborn_mims.md
 
-Dinelah Huff (Fowler)
+Abner Kuykendall
+b 1807
+d 1867
+f Matthew Kuykendall
+m Nancy Johnson
+o Maria Duff
+g6/abner_kuykendall_1807.md
+
+Dinelah Huff
 b 1811
 d 1870
 f Daniel Huff
@@ -453,7 +477,7 @@ o Millet Payne {Milly}
 o Lucinda Lattimer
 g6/david_west.md
 
-Mary Squires (Elliott) {Polly}
+Mary Squires
 b 1793
 d 1886
 f *
@@ -469,7 +493,7 @@ m Mary Baldridge
 o Dinelah Huff
 g6/levi_fowler.md
 
-Lucinda Latimer (West)
+Lucinda Latimer
 b 1821
 d 1903
 f Erastus Latimer
@@ -477,15 +501,15 @@ m *
 o David West
 g6/lucinda_latimer.md
 
-Abner Kuykendall
+Absalom Abner Kuykendall
 b 1814
 d 1901
-f Mathew Kuykendall
+f Matthew Kuykendall
 m Nancy Johnson
 o Nancy Dean
 g6/absalom_abner_kuykendall.md
 
-Elizabeth Hubbard Saunders (Mims) {Betsy}
+Elizabeth Hubbard Saunders
 b 1792
 d 1842
 f *
@@ -493,7 +517,7 @@ m *
 o Seaborn Mims
 g6/elizabeth_hubbard_saunders.md
 
-Maria Duff (Kuykendall)
+Maria Duff
 b 1811
 d 1892
 f *
@@ -508,14 +532,6 @@ f *
 m *
 o Salinda Rankin
 g6/william_johnson.md
-
-Abner Kuykendall
-b 1807
-d 1867
-f Matthew Kuykendall
-m Nancy Johnson
-o Maria Duff
-g6/abner_kuykendall.md
 
 Amanda Melvina Hollingsworth (Foster)
 b 1812
@@ -542,7 +558,7 @@ m Isabela Rankin
 o William Johnson
 g6/salinda_rankin.md
 
-Mary Amelia Hollingsworth (Foster)
+Mary Amelia Hollingsworth
 b 1802
 d 1864
 f Jacob Hollingsworth
@@ -574,7 +590,7 @@ m Elizabeth Foster
 o Amanda Melvina Hollingsworth
 g6/richardson_foster.md
 
-Elizabeth (Davis)
+Elizabeth Davis
 b 1805
 d *
 f *
@@ -607,7 +623,7 @@ m Elizabeth (Burleson, Van Zandt)
 o Nancy Johnson
 g7/matthew_kuykendall.md
 
-Mary Baldridge (Fowler)
+Mary Baldridge
 b 1771
 d 1854
 f William Todd
@@ -615,7 +631,7 @@ m Ann Rambo
 o Thomas Fowler
 g7/mary_baldridge.md
 
-Tryphenia Metts Mead (West)
+Tryphenia Metts Mead
 b 1755
 d 1831
 f Thomas Metts Metz Mead
@@ -631,7 +647,7 @@ m *
 o Elizabeth Kirkham
 g7/shadrach_mims.md
 
-Sarah Sally Perkins (Davis)
+Sarah Sally Perkins
 b 1777
 d 1836
 f *
@@ -639,7 +655,7 @@ m *
 o Lewis Cookson Davis
 g7/sarah_sally_perkins.md
 
-Sarah Martin (Hollingsworth)
+Sarah Martin
 b 1783
 d 1851
 f *
@@ -655,7 +671,7 @@ m Mary Cusick
 o Robert Rankin
 g7/isabela_rankin.md
 
-Elizabeth (Foster)
+Elizabeth Foster
 b 1777
 d 1835
 f *
@@ -682,7 +698,7 @@ o Polly Stinson
 o Lescenter Sublett Qualls
 g7/daniel_huff.md
 
-Elizabeth Kirkham (Mims)
+Elizabeth Kirkham
 b 1751
 d 1814
 f *
@@ -715,7 +731,7 @@ m *
 o Mary Baldridge
 g7/thomas_fowler_1770.md
 
-Nancy Johnson (Kuykendall)
+Nancy Johnson
 b 1765
 d 1825
 f William Johnson
@@ -731,6 +747,14 @@ m Mary Williams
 o Tryphenia Metts Mead (West)
 g7/andrew_west.md
 
+Elizabeth Fidle
+b 1728
+d 1800
+f *
+m *
+o Abraham Kuykendall
+g8/elizabeth_fidle.md
+
 Philip Huff
 b 1747
 d 1822
@@ -739,7 +763,7 @@ m *
 o Rachel Jackson
 g8/philip_huff.md
 
-Jane Chambers Rankin
+Jane Chambers
 b 1752
 d 1836
 f John Chambers
@@ -747,7 +771,7 @@ m *
 o William Rankin
 g8/jane_chambers.md
 
-Nancy Anne Hackney (Davis)
+Nancy Anne Hackney
 b 1723
 d 1780
 f William Hackney
@@ -755,7 +779,7 @@ m Alice Nichols Rhodes
 o Absalom Davis
 g8/nancy_anne_hackney.md
 
-Mary Williams (West)
+Mary Williams
 b 1731
 d 1787
 f Andrew Gray Williams
@@ -823,7 +847,7 @@ m *
 o Hannah Mead
 g8/thomas_metts_mead.md
 
-Mary Cusick (Rankin) {Polly}
+Mary Cusick
 b 1759
 d *
 f William Cusick
@@ -836,24 +860,17 @@ b 1719
 d 1812
 f Cornelius Jacobsen Van Kuykendall
 m Mary Westfall
-o Elizabeth Jones Burleson
+o Elizabeth Fidle
+o Bathsheba
 g8/abraham_kuykendall.md
 
-Mary Brooks (Hollingsworth)
+Mary Brooks
 b 1742
 d 1822
 f Thomas Brooks
 m Mary Blacknall
 o Jacob Joseph Hollingsworth
 g8/mary_brooks.md
-
-Elizabeth Fidle (Kuykendall)
-b 1728
-d 1800
-f *
-m *
-o Abraham Kuykendall
-g8/elizabeth_jones_burleson.md
 
 William Rankin
 b 1744
@@ -892,7 +909,7 @@ b 1685
 d 1753
 f Johannes Juriaanz Westvaal
 m Marietje Jacobz Cool Westvaal
-o Cornelius Jacobsen Van Kuykendall
+o Cornelius Jacobsen van Kuykendall
 g9/mary_westfall.md
 
 Andrew Gray Williams
@@ -920,7 +937,7 @@ m Grietje Aerts
 o Marritjen Westvaal
 g9/cornelius_kuykendall.md
 
-Rebecca Armstrong (Rankin)
+Rebecca Armstrong
 b 1700
 d 1773
 f *
@@ -985,7 +1002,7 @@ m *
 o Alice Nichols Rhodes
 g9/william_hackney.md
 
-Alice Nichols Rhodes (Hackney)
+Alice Nichols Rhodes
 b 1687
 d *
 f Hezekiah Rhodes
@@ -1035,7 +1052,7 @@ m *
 o *
 g10/godfrey_fowler_1670.md
 
-Philadelphia Rawlings (Williams)
+Philadelphia Rawlings
 b 1670
 d 1746
 f John Rawlings
@@ -1052,7 +1069,7 @@ m Hannah Barbee
 o Elizabeth Nichols
 g10/hezekiah_rhodes.md
 
-Elizabeth Nichols (Rhodes)
+Elizabeth Nichols
 b 1666
 d 1727
 f Henry Nichols
@@ -1076,7 +1093,7 @@ m Anne Calvert
 o Hannah Harlan
 g10/samuel_hollingsworth_1672.md
 
-Hannah Cloyce (Elliott)
+Hannah Cloyce
 b *
 d *
 f Peter Cloyce
@@ -1156,7 +1173,7 @@ m *
 o Hannah Barbee
 g11/christopher_rhodes.md
 
-Susannah Duparks (West)
+Susannah Duparks
 b 1643
 d 1702
 f *
@@ -1164,7 +1181,7 @@ m *
 o George West
 g11/susannah_duparks.md
 
-Ann Calvert (Hollingsworth)
+Ann Calvert
 b 1650
 d 1697
 f *

@@ -1,6 +1,6 @@
 <gen=g4>
 
-<b>Launa Mims Davis (Foster)</b>
+<b>Launa Mims Davis</b> <b>(Foster)</b>
 
 b Jul 06 1865 Selma, Dallas Co., AL
 
@@ -8,7 +8,7 @@ d Sep 22 1939 Shreveport, LA
 
 f [Lewis Richard Davis](../g5/lewis_richard_davis.md)
 
-m [Alabama Frances Mims](../g5/alabama_frances_mims.md)
+m [Alabama Frances Mims](../g5/alabama_frances_mims.md) (Davis)
 
 <hr>
 

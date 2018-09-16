@@ -1,6 +1,6 @@
 <gen=g11>
 
-<b>Susannah Duparks (West)</b>
+<b>Susannah Duparks</b> <b>(West)</b>
 
 b Jun 07 1643 County Antrim, Ireland
 

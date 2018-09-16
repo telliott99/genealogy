@@ -1,6 +1,6 @@
 <gen=g10>
 
-<b>Elizabeth Nichols (Rhodes)</b>
+<b>Elizabeth Nichols</b> <b>(Rhodes)</b>
 
 b c.1666 Middlesex, VA
 

@@ -1,6 +1,6 @@
 <gen=g7>
 
-<b>Isabela Rankin</b>
+<b>Isabela Rankin</b> <b>(Rankin)</b>
 
 b 1791 Guilford NC
 

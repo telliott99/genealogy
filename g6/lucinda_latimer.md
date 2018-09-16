@@ -1,6 +1,6 @@
 <gen=g6>
 
-<b>Lucinda Latimer (West)</b>
+<b>Lucinda Latimer</b> <b>(West)</b>
 
 b Sep 17 1821 TN
 

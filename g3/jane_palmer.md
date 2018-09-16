@@ -1,6 +1,6 @@
 <gen=g3>
 
-<b>Jane Palmer (Fowler)</b>
+<b>Jane Palmer</b> <b>(Fowler)</b>
 
 b Dec 25 1919
 

@@ -4,7 +4,7 @@
 
 b Oct 18 1719 Kingston, Ulster Co., NY
 
-d Apr 01 1812 Rutherford Co., NC (or Buncombe Co.)
+d Apr 01 1812 Flat Rock, Rutherford Co., NC
 
 f [Cornelius Jacobsen Van Kuykendall](../g9/cornelius_kuykendall.md)
 
@@ -12,12 +12,18 @@ m [Mary Westfall](../g9/mary_westfall.md)
 
 <hr>
 
-o [Elizabeth Jones Burleson](elizabeth_jones_burleson.md) 
+o [Elizabeth Fidle](elizabeth_fidle.md) 
 
 - James 1755-1832
 - Jane (McMinn) 1755-1834
+- Esther
+- John
 - [Matthew Kuykendall](../g7/matthew_kuykendall.md) 1758-1841
 - Simon 1769-1820
+
+14 total
+
+o Bathsheba
 
 <hr>
 

@@ -1,8 +1,8 @@
 <gen=g5>
 
-<b>Oceana Jackson (Fisher)</b>
+<b>Oceana Jackson</b> <b>(Fisher)</b>
 
-b 1840
+b 1841
 
 d 1918
 
@@ -21,4 +21,4 @@ o [Henry J. Fisher](henry_j_fisher.md)
 [grave](https://www.findagrave.com/memorial/66512913/oceana-j.-fisher)
 
 Buried at Williams Cemetery
-Napoleon, Ripley County, Indiana, USA
+Bateson, Ripley Co., Indiana, USA

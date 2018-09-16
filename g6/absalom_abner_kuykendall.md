@@ -1,12 +1,12 @@
 <gen=g6>
 
-<b>Abner Kuykendall</b>
+<b>Absalom Abner Kuykendall</b>
 
 b Aug 25 1814 Cookeville, Putnam Co., TN
 
 d Jan 02 1901 Bexar Co., TX
 
-f [Mathew Kuykendall](../g7/mathew_kuykendall.md)
+f [Matthew Kuykendall](../g7/matthew_kuykendall.md)
 
 m [Nancy Johnson](../g7/nancy_johnson.md)
 

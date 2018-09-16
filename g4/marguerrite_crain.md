@@ -1,6 +1,6 @@
 <gen=g4>
 
-<b>Marguerrite Crain (Foster)</b>
+<b>Marguerrite Crain</b> <b>(Foster)</b>
 
 b 
 

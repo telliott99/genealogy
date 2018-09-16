@@ -4,7 +4,7 @@
 
 b Apr 15 1830
 
-d Oct 22 1861 Montezuma, IN
+d Oct 22 1861 Montezuma, Parke Co., IN
 
 f
 
@@ -22,9 +22,11 @@ o [Lydia Catherine Roberts](lydia_catherine_roberts.md)
 
 <hr>
 
-o Matilda Nov 03 1840 - Mar 31 1873
+o1 Matilda b Nov 03 1840 d Mar 31 1873
 
 Buried at Westview Cemetery
 Prairie City, Jasper County, Iowa, USA
 
 [grave](https://www.findagrave.com/memorial/76746881/lewis-w-main)
+
+"Main" not found in 1860 census Parke Co.

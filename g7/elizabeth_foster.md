@@ -1,6 +1,6 @@
 <gen=g7>
 
-<b>Elizabeth (Foster)</b>
+<b>Elizabeth Foster</b>
 
 b Sep 15 1777
 

@@ -1,6 +1,6 @@
 <gen=g8>
 
-<b>Mary Cusick (Rankin) {Polly}</b>
+<b>Mary Cusick</b> <b>(Rankin) {Polly}</b>
 
 b 1759 Dauphin, PA
 

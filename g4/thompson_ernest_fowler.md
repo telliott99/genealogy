@@ -12,13 +12,15 @@ m [Mildred Maria Kuykendall](../g5/mildred_maria_kuykendall.md)
 
 <hr>
 
-o [Augusta Johnson](augusta_johnson.md)
+o [Augusta Johnson](../g4/abigail_augusta_johnson.md)
 
 - [Gene Fowler](../g3/gene_fowler.md)
 - [Thompson Fletcher Fowler](../g3/thompson_fletcher_fowler_1901.md)
 - [Robin Fowler](../g3/robin_fowler.md) 
 
 <hr>
+
+[grave](https://www.findagrave.com/memorial/24908101/t.-e.-fowler)
 
 NE has birth month as Sep, this month is based on the grave marker.  TEF is buried at the Bartlett City Cemetery (Sec 2, Row 3).
 

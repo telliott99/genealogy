@@ -1,6 +1,6 @@
 <gen=g7>
 
-<b>Sarah Sally Perkins (Davis)</b>
+<b>Sarah Sally Perkins</b> <b>(Davis)</b>
 
 b 1777 GA
 
