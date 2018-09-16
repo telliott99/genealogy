@@ -12,6 +12,10 @@ m [Oceana Jackson](../g5/oceana_jackson.md)
 
 <hr>
 
-o [Alberti Metcalf](alberti_metcalf.md) Oct 03 1888
+o [Alberti Metcalf](alberti_metcalf.md)
 
 - [Jessie Metcalf](../g3/jessie_metcalf.md)
+
+<hr>
+
+o Oct 03 1888

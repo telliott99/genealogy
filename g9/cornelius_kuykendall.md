@@ -12,7 +12,7 @@ m [Grietje Aerts](../g10/grietje_aerts.md)
 
 <hr>
 
-o Marritjen Westvaal ([Mary Westfall])(mary_westfall.md)
+o [Marritjen Westvaal](mary_westfall.md) (Mary Westfall)
 
 - [Abraham Kuykendall](../g8/abraham_kuykendall.md)
 - Luer Lewis Kuykendall

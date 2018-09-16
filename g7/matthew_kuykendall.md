@@ -13,7 +13,7 @@ m Elizabeth (Burleson, Van Zandt)
 
 <hr>
 
-o [Nancy Johnson](nancy_johnson.md) May 11 1780
+o [Nancy Johnson](nancy_johnson.md)
 
 - William 1790-1841
 - Abraham May 12 1792
@@ -21,6 +21,8 @@ o [Nancy Johnson](nancy_johnson.md) May 11 1780
 - [Absalom Abner Kuykendall](../g6/absalom_abner_kuykendall.md)
 
 <hr>
+
+o May 11 1780
 
 [ref](https://www.findagrave.com/memorial/178356104/mathew-kuykendall)
 

@@ -12,7 +12,7 @@ m
 
 <hr>
 
-o Hannah Mead 1735-1821 Carteret Co., NC
+o Hannah Mead
 
 - Tryphenia Metts (West)
 - Barbara
@@ -21,6 +21,8 @@ o Hannah Mead 1735-1821 Carteret Co., NC
 - Thomas
 
 <hr>
+
+o 1735-1821 Carteret Co., NC
 
 [ref](https://www.geni.com/people/Thomas-Mead/6000000009484192947)
 

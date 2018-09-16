@@ -4,7 +4,7 @@
 
 b c. 1640 
 
-d c. 1690 possibly (by Indians)
+d c. 1690 (possibly by Indians)
 
 f
 
@@ -12,7 +12,7 @@ m
 
 <hr>
 
-o 
+o *
 
 - [Daniel Elliott](../g10/daniel_elliott_1662.md)
 

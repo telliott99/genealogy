@@ -12,15 +12,17 @@ m Comfort Rhodes
 
 <hr>
 
-o Ann Browne 1621 England
+o Ann Browne
 
-o 
+o *
 
 - Anna Woods
 - [Christopher Rhodes](../g11/chrisopher_rhodes.md)
 - Richard Rhodes
 
 <hr>
+
+o 1621 England
 
 father 1600-c.1638
 

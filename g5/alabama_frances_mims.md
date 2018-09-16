@@ -12,11 +12,13 @@ m [Elizabeth Hubbard Saunders](../g6/elizabeth_hubbard_saunders.md) {Betsy}
 
 <hr>
 
-o  [Lewis Richard Davis](lewis_richard_davis.md) Nov 15 1848 Dallas Co., AL
+o [Lewis Richard Davis](lewis_richard_davis.md)
 
 - [Launa Mims Davis](../g4/launa_mims_davis.md)
 
 <hr>
+
+o Nov 15 1848 Dallas Co., AL
 
 NE has b 1832 d 1894.  
 

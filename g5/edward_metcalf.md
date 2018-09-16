@@ -12,7 +12,7 @@ m
 
 <hr>
 
-o  [Mary Jane Thorpe](mary_jane_thorpe.md)
+o [Mary Jane Thorpe](mary_jane_thorpe.md)
 
 - [Alberti Metcalf](../g4/alberti_metcalf.md)
 

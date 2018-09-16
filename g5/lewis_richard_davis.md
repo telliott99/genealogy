@@ -12,11 +12,13 @@ m [Elizabeth Davis](../g6/elizabeth_davis.md) 1805 GA-
 
 <hr>
 
-o [Alabama Frances Mims](alabama_frances_mims.md) Nov 15 1848
+o [Alabama Frances Mims](alabama_frances_mims.md)
 
 - [Launa Mims Davis](../g4/launa_mims_davis.md)
 
 <hr>
+
+o Nov 15 1848
 
 NE has death 1873.
 

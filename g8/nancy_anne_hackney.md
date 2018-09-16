@@ -17,8 +17,6 @@ o [Absalom Davis](../g8/absalom_davis.md)
 - 15 children including
 - [Lewis Cookson Davis](../g7/lewis_cookson_davis.md) 1757-1835
 
-<hr>
-
 <hr> 
 
 [ref](http://genweb.jrac.com/genweb.php?DB=gwdb33&ID=I2927&query=li)

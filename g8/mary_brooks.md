@@ -12,13 +12,15 @@ m Mary Blacknall
 
 <hr>
 
-o [Jacob Joseph Hollingsworth](jacob_hollingsworth_1742.md) 1768 NC
+o [Jacob Joseph Hollingsworth](jacob_hollingsworth_1742.md)
 
 - [Jacob](../g7/jacob_hollingsworth_1775.md)
 - Benjamin
 - James
 
 <hr>
+
+o 1768 NC
 
 Find a grave has different dates.
 

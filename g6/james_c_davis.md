@@ -12,11 +12,13 @@ m [Sarah Sally Perkins](../g7/sarah_sally_perkins.md) 1777 GA - 1836
 
 <hr>
 
-o [Elizabeth --](../g6/elizabeth_davis.md) 1826 Morgan, Calhoun Co., GA
+o [Elizabeth --](../g6/elizabeth_davis.md)
 
 - [Lewis Richard Davis](../g5/lewis_richard_davis.md)
 
 <hr>
+
+o 1826 Morgan, Calhoun Co., GA
 
 [ref](http://genweb.jrac.com/genweb.php?DB=gwdb33&ID=I5868&query=li)
 

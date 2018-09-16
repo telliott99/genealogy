@@ -12,7 +12,7 @@ m
 
 <hr>
 
-o [David West](david_west.md) May 11 1841 Dover, Pope Co., AS
+o [David West](david_west.md)
 
 - Erastus Latimore
 - Tryphenia
@@ -24,6 +24,8 @@ o [David West](david_west.md) May 11 1841 Dover, Pope Co., AS
 - Emma B.
 
 <hr>
+
+o May 11 1841 Dover, Pope Co., AS
 
 [ref](https://www.findagrave.com/memorial/31169554/lucinda-west)
 

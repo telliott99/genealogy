@@ -12,8 +12,7 @@ m Mary Johnson
 
 <hr>
 
-o Maria Rebecca Larkin (Johnson) b 1745
-d Feb 1816 Rutherford Co., TN
+o Maria Rebecca Larkin (Johnson)
 
 o Martha Stone
 
@@ -24,8 +23,9 @@ o Martha Stone
 - Mary Ann Marge Frances (Miller)
 + 7
 
-
 <hr>
+
+o1  b 1745, d Feb 1816 Rutherford Co., TN
 
 Buried at Miller Cemetery
 Christiana, Rutherford County, Tennessee, USA

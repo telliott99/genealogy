@@ -12,13 +12,15 @@ m [Clara Etta Main](../g4/clara_etta_main.md)
 
 <hr>
 
-o [Jessie Metcalf](jessie_metcalf.md) Jul 02 1920
+o [Jessie Metcalf](jessie_metcalf.md)
 
 - June Elliott 
 - [Norman Elliott](../g2/norman_elliott.md)
 - John Elliott
 
 <hr>
+
+o Jul 02 1920
 
 Known as Ed.  Lived in various places before settling in Los Angeles.  Served as a Los Angeles police officer (badge # _____).
 

@@ -12,7 +12,7 @@ m [Mary Eleanor Long](../g5/mary_eleanor_long.md)
 
 <hr>
 
-o [Launa Mims Davis](launa_mims_davis.md) Jun 19 1888
+o [Launa Mims Davis](launa_mims_davis.md)
 
 - [James Heflin Foster](../g3/james_heflin_foster.md)
 - Luella D. (Crenshaw)
@@ -21,6 +21,8 @@ o [Launa Mims Davis](launa_mims_davis.md) Jun 19 1888
 - [Lucile Foster](../g3/lucille_foster.md) (Bogan)
 
 <hr>
+
+o Jun 19 1888
 
 Buried at Greenwood Cemetery
 Shreveport, Caddo Parish, Louisiana, USA.

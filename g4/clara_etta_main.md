@@ -12,13 +12,15 @@ m [Lydia Catherine Roberts](../g5/lydia_catherine_roberts.md)
 
 <hr>
 
-o [David Marion Elliott](david_marion_elliott.md) Dec 31 1876
+o [David Marion Elliott](david_marion_elliott.md)
 
 - [Alanson C. Elliott](../g3/alanson_c_elliott.md)
 - [James Edgar Elliott](../g3/james_edgar_elliott.md) 1890-1940
 - [Rosa Mae Elliott](../g3/rosa_may_elliott.md) (Mack) 1892-1982
 
 <hr>
+
+o Dec 31 1876
 
 Buried at Oakland Cemetery
 Montezuma, Parke County, Indiana, USA

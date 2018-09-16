@@ -6,13 +6,13 @@ b Jan 09 1792 Swansboro, Onslow Co., NC
 
 d May 13 1880 Pope Co., AS
 
-f Andrew West
+f [Andrew West](../g7/andrew_west.md)
 
-m Tryphenia Mets/Mead
+m [Tryphenia Mets/Mead](../g7/tryphenia_metts_mead.md)
 
 <hr>
 
-o Millet Payne [Milly] Nov 11 1816 Cross Plains, Robertson Co., TN
+o Millet Payne {Milly}
 
 - Joseph
 - Warren M.
@@ -24,7 +24,7 @@ o Millet Payne [Milly] Nov 11 1816 Cross Plains, Robertson Co., TN
 - Eliza Ann
 - Victoria Alexander
 
-o Lucinda Lattimer May 11 1841 Dover, Pope Co., AS
+o Lucinda Lattimer
 
 - Erastus Latimore
 - Tryphenia
@@ -36,6 +36,10 @@ o Lucinda Lattimer May 11 1841 Dover, Pope Co., AS
 - Emma B.
 
 <hr>
+
+o1 Nov 11 1816 Cross Plains, Robertson Co., TN
+
+o2 May 11 1841 Dover, Pope Co., AS
 
 [ref](https://www.findagrave.com/memorial/31169496/david-west)
 

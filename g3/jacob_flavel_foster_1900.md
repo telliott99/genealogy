@@ -12,9 +12,11 @@ m Marguerrite Crain (Foster)
 
 <hr>
 
-o Ruth Bratton (Foster) 1898-1978 [ref](https://www.findagrave.com/memorial/80417007/ruth-foster)
+o Ruth Bratton (Foster)
 
 <hr>
+
+Ruth Bratton 1898-1978 [ref](https://www.findagrave.com/memorial/80417007/ruth-foster)
 
 [ref](https://www.findagrave.com/memorial/47678409/jacob-flavel-foster)
 

@@ -12,10 +12,12 @@ m [Lenora Fisher](../g4/lenora_fisher.md)
 
 <hr>
 
-o [James Edgar Elliott](james_edgar_elliott.md) Jul 02 1920
+o [James Edgar Elliott](james_edgar_elliott.md)
 
 - June Elliott 
 - [Norman Elliott](../g2/norman_elliott.md)
 - John Elliott
 
 <hr>
+
+o Jul 02 1920

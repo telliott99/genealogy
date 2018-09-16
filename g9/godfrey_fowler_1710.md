@@ -12,9 +12,11 @@ m Susannah Archer
 
 <hr>
 
-o Sarah Oct 11 1736
+o Sarah
 
 - [Thomas Fowler](../g8/thomas_fowler_1739.md)
 
 <hr>
+
+o Oct 11 1736
 

@@ -12,17 +12,21 @@ m Elizabeth West
 
 <hr>
 
-o Sarah (West) 1705 MD
+o Sarah (West)
 
 - George West
 
-o Sara Betty Lowe (born c.1700-
+o Sara Betty Lowe
 
 - [Levi West](../g8/levi_west.md) 1726-1787
 
 o Betty Johnson (West)
 
 <hr>
+
+o1 1705 MD
+
+Sara Lowe born c.1700-
 
 [ref](https://www.geni.com/people/George-West/6000000004882335061)
 

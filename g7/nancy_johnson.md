@@ -12,7 +12,7 @@ m Maria Rebecca Larkin
 
 <hr>
 
-o [Matthew Kuykendall](matthew_kuykendall.md) May 11 1780 Mecklenberg Co., TN
+o [Matthew Kuykendall](matthew_kuykendall.md)
 
 Fourteen children including
 
@@ -34,6 +34,7 @@ sibs.
 
 <hr>
 
+o May 11 1780 Mecklenberg Co., TN
 
 [ref](https://www.wikitree.com/genealogy/Kuykendall-Family-Tree-47) This AA is different than ours. 
 

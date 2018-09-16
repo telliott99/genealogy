@@ -12,11 +12,11 @@ m Rachel Jackson
 
 <hr>
 
-o Hannah Hale Aug 30 1790
+o Hannah Hale
 
-o Jemima "Mima" Turman Feb 01 1796
+o Jemima "Mima" Turman
 
-o Polly Stinson 1806 Wayne Co., KY
+o Polly Stinson
 
 o Lescenter Sublett Qualls
 
@@ -32,6 +32,14 @@ not clear which mothers
 - Joshua
 
 <hr>
+
+o1 Aug 30 1790
+
+o2 Feb 01 1796
+
+o3 1806 Wayne Co., KY
+
+o4
 
 [ref](https://www.wikitree.com/wiki/Huff-125) says Dinelah married Levi Fowler and they lived in Carter Co., TN.  It has extensive info about Daniel Huff.
 

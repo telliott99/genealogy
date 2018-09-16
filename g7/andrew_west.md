@@ -12,7 +12,7 @@ m Mary Williams
 
 <hr>
 
-o [Tryphenia Metts Mead (West)](tryphenia_metts_mead.md) Jul 01 1773 Dobbs, NC
+o [Tryphenia Metts Mead (West)](tryphenia_metts_mead.md)
 
 - Thomas 1778-1862
 - Phoebe (Hunter) 1787-1859
@@ -20,6 +20,8 @@ o [Tryphenia Metts Mead (West)](tryphenia_metts_mead.md) Jul 01 1773 Dobbs, NC
 - Rachel (Taylor) 1794-1862
 
 <hr>
+
+o Jul 01 1773 Dobbs, NC
 
 Buried at West Cemetery
 Rock Bridge, Sumner County, Tennessee, USA

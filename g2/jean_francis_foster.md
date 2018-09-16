@@ -12,7 +12,7 @@ m [Gene Fowler](../g3/gene_fowler.md)
 
 <hr>
 
-o [Norman Elliott](../g2/norman_elliott.md) Oct 10 1944 Los Angeles, CA
+o [Norman Elliott](../g2/norman_elliott.md)
 
 - James Gerard 1950-
 - William Michael 1953-
@@ -21,6 +21,8 @@ o [Norman Elliott](../g2/norman_elliott.md) Oct 10 1944 Los Angeles, CA
 - Katherine Maria 1959-
 
 <hr>
+
+o Oct 10 1944 Los Angeles, CA
 
 "Francis" is how she spelled it.
 

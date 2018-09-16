@@ -12,8 +12,10 @@ m
 
 <hr>
 
-o [Seaborn Mims](seaborn_mims.md) Jun 27 1808 Columbia Co., GA
+o [Seaborn Mims](seaborn_mims.md)
 
 - [Alabama Frances Mims](../g5/alabama_frances_mims.md)
 
 <hr>
+
+o Jun 27 1808 Columbia Co., GA

@@ -12,11 +12,13 @@ m [Maria Duff](../g6/maria_duff.md)
 
 <hr>
 
-o [Thompson Fletcher Fowler](thompson_fletcher_fowler.md) Dec 16 1869
+o [Thompson Fletcher Fowler](thompson_fletcher_fowler.md)
 
 - [Eugene Fowler](../g4/eugene_fowler.md)
 - [Thompson Ernest Fowler](../g4/thompson_ernest_fowler.md)
 
 <hr>
+
+o Dec 16 1869
 
 [ref](https://www.findagrave.com/memorial/24908137/mildred-maria-fowler)

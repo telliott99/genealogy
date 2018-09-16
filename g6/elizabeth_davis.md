@@ -14,12 +14,13 @@ m
 
 o Mitchell Sims
 
-o [James C. Davis](james_c_davis.md) 1826
+o [James C. Davis](james_c_davis.md)
 
 - [Lewis Richard Davis](../g5/lewis_richard_davis.md)
 
-
 <hr>
+
+o2 1826
 
 Buried at Old Whetston Place, Autaugaville, Autauga Co, AL
 

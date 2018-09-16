@@ -12,12 +12,14 @@ m [Clara Etta Main](../g4/clara_etta_main.md)
 
 <hr>
 
-o Forrest W. Mack 1921
+o Forrest W. Mack
 
 - Richard A. 1922-2011
 - Robert Elliott 1924-1978
 - Leigh Spencer 1926-2002
 
 <hr>
+
+o 1921
 
 [ref](https://www.findagrave.com/memorial/14205251/rosa-mae-mack)

@@ -18,7 +18,7 @@ The first has six invariant lines:  generation as e.g. gen=g6, name in bold, bor
 
 If a person was known by some familiar name it is added as {name}.  For a woman, her married (husband's) name is given in parentheses.
 
-In the second section are listed marriages (I chose o as the symbol for that, to be distinguished from m for mother), and then children in a list.  If there's a second marriage they are just listed in order.
+In the second section are listed marriages (I chose o as the symbol for that, to be distinguished from m for mother), and then children in a list.  If there's a second marriage they are just listed in order.  I decided to separate info on the date and place of marriage and put it in the third section, also marked with an o.
 
 The third section is for any other data or references (or even pictures of people or their gravestones), and for discussion of discrepancies.
 

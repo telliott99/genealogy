@@ -12,13 +12,15 @@ m Sarah Provender
 
 <hr>
 
-o  Mehitable Aldrich (has parents) Dec 20 1739
+o  Mehitable Aldrich
 
 - Sarah
 - Daniel
 - [David Elliott](../g7/david_elliott_1744.md) 1744-1793
 
 <hr>
+
+o (has parents) Dec 20 1739
 
 fought in the Rev. war
 Buried in Kingsbury Cemetery, plot 9 row F.

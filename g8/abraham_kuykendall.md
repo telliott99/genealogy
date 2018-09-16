@@ -14,8 +14,6 @@ m [Mary Westfall](../g9/mary_westfall.md)
 
 o [Elizabeth Jones Burleson](elizabeth_jones_burleson.md) 
 
-(also reported as Fidle)
-
 - James 1755-1832
 - Jane (McMinn) 1755-1834
 - [Matthew Kuykendall](../g7/matthew_kuykendall.md) 1758-1841
@@ -23,7 +21,7 @@ o [Elizabeth Jones Burleson](elizabeth_jones_burleson.md)
 
 <hr>
 
-Known as Abram.
+Known as Abram.  Spouse also reported as Fidle.
 
 Buried at Mud Creek Baptist Church Cemetery, Flat Rock, Henderson County, NC.
 

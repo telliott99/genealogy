@@ -12,7 +12,7 @@ m
 
 <hr>
 
-o [George West](../g11/george_west1.md)
+o [George West](../g11/george_west_1639.md)
 
 - [Thomas West](../g10/thomas_west.md)
 - Robert

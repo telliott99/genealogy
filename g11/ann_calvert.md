@@ -12,7 +12,7 @@ m
 
 <hr>
 
-o [Valentine Hollingsworth](valentine_hollingsworth.md) Apr 12 1672 Ireland
+o [Valentine Hollingsworth](valentine_hollingsworth.md)
 
 - Enoch
 - Mary
@@ -23,3 +23,7 @@ o [Valentine Hollingsworth](valentine_hollingsworth.md) Apr 12 1672 Ireland
 - Enoch
 - Valentine
 - John Valentine
+
+<hr>
+
+ o Apr 12 1672 Ireland

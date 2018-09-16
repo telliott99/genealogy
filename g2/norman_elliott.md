@@ -12,7 +12,7 @@ m [Jessie Metcalf](../g3/jessie_metcalf.md)
 
 <hr>
 
-o [Jean Francis Foster](../g2/jean_francis_foster.md) Oct 10 1944 Los Angeles, CA
+o [Jean Francis Foster](../g2/jean_francis_foster.md) 
 
 - James Gerard 1950-
 - William Michael 1953-
@@ -20,6 +20,10 @@ o [Jean Francis Foster](../g2/jean_francis_foster.md) Oct 10 1944 Los Angeles, C
 - Robert Norman 1958-
 - Katherine Maria 1959-
 
-o Amy Lou Halberg Dec 04 1976 Del Mar, CA
+o Amy Lou Halberg
 
 <hr>
+
+o Oct 10 1944 Los Angeles, CA
+
+o Dec 04 1976 Del Mar, CA

@@ -12,7 +12,7 @@ m Hannah Mead
 
 <hr>
 
-o [Andrew West](../g7/andrew_west.md) Jul 01 1773 Dobbs, NC
+o [Andrew West](../g7/andrew_west.md)
 
 - Hannah Meadows
 - Thomas
@@ -23,6 +23,8 @@ o [Andrew West](../g7/andrew_west.md) Jul 01 1773 Dobbs, NC
 - John F.
 
 <hr>
+
+o Jul 01 1773 Dobbs, NC
 
 Buried at Rock Bridge, Sumner County, Tennessee, United States
 

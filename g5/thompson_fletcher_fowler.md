@@ -18,12 +18,14 @@ o Martha Smithwick
 
 - [Wylie F. Fowler](../g4/wylie_f_fowler.md) 1863-1932
 
-o [Mildred Maria Kuykendall](mildred_maria_kuykendall.md) Dec 16 1869
+o [Mildred Maria Kuykendall](mildred_maria_kuykendall.md)
 
 - [Eugene Fowler](../g4/eugene_fowler.md)
 - [Thompson Ernest Fowler](../g4/thompson_ernest_fowler.md)
 
 <hr>
+
+o2 Dec 16 1869
 
 Buried at Laughlin Cemetery, Milam Co., TX. 
 

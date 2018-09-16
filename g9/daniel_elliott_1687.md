@@ -12,7 +12,7 @@ m Hannah Cloyce
 
 <hr>
 
-o Sarah Provender Feb 1707/1708
+o Sarah Provender
 
 - Hannah
 - Mary
@@ -22,5 +22,7 @@ o Sarah Provender Feb 1707/1708
 - Lydia
 
 <hr>
+
+o Feb 1707/1708
 
 [ref](http://www.themorrisclan.net/GENEALOGY/ELLIOTT%20Daniel%20and%20Sarah%20Provender.html)

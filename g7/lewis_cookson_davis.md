@@ -16,7 +16,7 @@ o Sarah Anderson
 
 - 8 children
 
-o [Sarah Sally Perkins](sarah_sally_perkins.md) Oct 14 1798 Lincoln Co., GA
+o [Sarah Sally Perkins](sarah_sally_perkins.md)
 
 - Alvin
 - [James C. Davis](../g6/james_c_davis.md)
@@ -28,6 +28,8 @@ o [Sarah Sally Perkins](sarah_sally_perkins.md) Oct 14 1798 Lincoln Co., GA
 - Lewis Cookson
 
 <hr>
+
+o2 Oct 14 1798 Lincoln Co., GA
 
 Buried Old Whetston Place (Pigford Place) Autaugaville, AL
 

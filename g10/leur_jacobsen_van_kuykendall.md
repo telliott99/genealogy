@@ -12,7 +12,7 @@ m Stijntje Wiggersz Douwes
 
 <hr>
 
-o [Grietje Aerts](grietje_aerts.md) about 1680
+o [Grietje Aerts](grietje_aerts.md)
 
 Also called Margrietjen Artze Pietersen)
 
@@ -28,6 +28,8 @@ Also called Margrietjen Artze Pietersen)
 - Stygen
 
 <hr>
+
+o about 1680
 
 [ref](https://www.findagrave.com/memorial/167407952/leur-jacobsen_van-kuykendall)
 

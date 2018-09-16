@@ -22,7 +22,7 @@ def extract_name(s):
     else:
         return s[1:].strip()
 
-def extract_date(s):
+def extract_year(s):
     dg = '0123456789 '
     sL = [c for c in s if c in dg]
     try:
@@ -34,37 +34,44 @@ def extract_date(s):
     except:
         pass
     return no_data
-
-def process(L,f):
-    gen = L[0].split('=')[1].split('>')[0][1:] # no 'g'
-    name = L[1].split('<b>')[1].split('<')[0]
-    father = extract_name(L[4].strip())
-    mother = extract_name(L[5].strip())
-
-    born = extract_date(L[2].strip())
-    died = extract_date(L[3].strip())
-    full = name + ' ' + '-'.join((born,died))
-    #full = full.replace(no_data,'')
     
+
+
+def process(data, f):
+    part1,part2,part3 = data.strip().split('<hr>')
+    
+    sL = part1.strip().split('\n')
+    sL = [e for e in sL if not e == '']
+    
+    # gen = sL[0].split('=')[1].split('>')[0][1:] # no 'g'
+    name = sL[1].split('<b>')[1].split('<')[0]
+    
+    born = extract_year(sL[2].strip())
+    died = extract_year(sL[3].strip())
+    
+    father = extract_name(sL[4].strip())
+    mother = extract_name(sL[5].strip())
+    
+    pL = [name,'b ' + born, 'd ' + died,
+          'f ' + father, 'm ' + mother ]
+    print '\n'.join(pL)
+    
+    sL = part2.strip().split('\n')
+    sL = [e for e in sL if not e == '']
+    spouseL = [e for e in sL if e.startswith('o')]
+    
+    if not spouseL:
+        print 'o *'
+    else:
+        for line in spouseL:
+            print 'o ' + extract_name(line)
     f = f.split('/',6)[-1]
-    # if f.split('/')[0] != gen: 1/0
-    pL = [gen,name,full,father,mother,f]
-    print '\n'.join(pL) + '\n'
+    print f
+    print
     
-
-def test():
-    fn = p + '/g5/james_martin_foster.md'
-    fh = open(fn)
-    L = fh.read()
-    fh.close()
-    L = L.strip().split('\n')
-    L = [e for e in L if not e == '']
-    process(L,fn)
-
 for f in L:
     fh = open(f)
-    data = fh.read().strip().split('\n')
-    data = [s for s in data if not s == '']
+    data = fh.read().strip()
     fh.close()
     try:
         process(data,f)

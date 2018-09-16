@@ -12,7 +12,7 @@ m
 
 <hr>
 
-o Ann Ree Apr 07 1655
+o Ann Ree
 
 - Enoch
 - Mary
@@ -20,7 +20,7 @@ o Ann Ree Apr 07 1655
 - Thomas
 - Catherine
 
-o [Ann Calvert](ann_calvert.md) Apr 12 1672 Ireland
+o [Ann Calvert](ann_calvert.md)
 
 
 - [Samuel](../g10/samuel_hollingsworth_1672.md)
@@ -29,6 +29,10 @@ o [Ann Calvert](ann_calvert.md) Apr 12 1672 Ireland
 - John Valentine
 
 <hr>
+
+o1 Apr 07 1655
+
+o2 Apr 12 1672 Ireland
 
 [ref](https://www.findagrave.com/memorial/14190134/valentine-hollingsworth)
 

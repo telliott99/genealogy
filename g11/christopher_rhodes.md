@@ -12,12 +12,14 @@ m
 
 <hr>
 
-o Hannah Barbee 1660
+o Hannah Barbee
 
 - [Hezekiah Rhodes](../g10/hezekiah_rhodes.md)
 - Hezekiah Ezechias Rhodes
 - William Rhodes
 
 <hr>
+
+o 1660
 
 [ref](https://www.wikitree.com/wiki/Rhodes-813)

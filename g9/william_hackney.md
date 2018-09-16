@@ -18,6 +18,5 @@ o [Alice Nichols Rhodes](../g9/alice_nichols_rhodes.md)
 
 <hr>
 
-<hr> 
 
 [ref](http://genweb.jrac.com/genweb.php?DB=gwdb33&ID=I27650&query=li)

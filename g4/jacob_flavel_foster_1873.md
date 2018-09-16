@@ -12,11 +12,13 @@ m
 
 <hr>
 
-o Marguerrite Crain (Foster) d Jul 22 1890
+o Marguerrite Crain (Foster)
 
 - [Jacob Flavel Foster](../g3/jacob_flavel_foster_1900.md) [ref](https://www.findagrave.com/memorial/47678409/jacob-flavel-foster)
 
 <hr>
+
+Marguerrite d Jul 22 1890.
 
 Graduate of Washington and Lee Univ.
 

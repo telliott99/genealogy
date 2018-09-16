@@ -12,7 +12,7 @@ m [Daniel Elliott](../g10/daniel_elliott_1662.md)
 
 <hr>
 
-o [Daniel Elliott](../g10/daniel_elliott_1662.md) 1685
+o [Daniel Elliott](../g10/daniel_elliott_1662.md)
 
 - [Daniel Elliott](../g9/daniel_elliott_1687.md) 1687-1737
 - Ebenezer
@@ -23,3 +23,5 @@ o [Daniel Elliott](../g10/daniel_elliott_1662.md) 1685
 - Peter
 
 <hr>
+
+o 1685

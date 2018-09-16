@@ -6,9 +6,9 @@ except:
     'please input a full name'
     sys.exit()
 
-depth = 2
+y = None
 try:
-    depth = int(sys.argv[2])
+    y = sys.argv[2]
 except:
     pass
     
@@ -22,66 +22,107 @@ fh.close()
 D = dict()
 for e in data:
     L = e.strip().split('\n')
-    gen,name,full,father,mother,path = L
-    D[full] = {'gen':gen,
-               'full':full,
-               'name':name, 
-               'father':father,
-               'mother':mother, 
-               'path':path}
+    name,born,died,father,mother = L[:5]
+    rest = L[6:]
+    born = born[2:]
+    died = died[2:]
+    father = father[2:]
+    mother = mother[2:]
+    
+    path = rest.pop()
+    spouseL = [spouse[2:] for spouse in rest]
+    gen = path.split('/')[0][1:]
+    k = name
+    if not born == '*':
+        k += ' ' + born
+    D[k] = {'gen':gen, 'name':name, 
+            'born':born, 'died':died, 
+            'father':father, 'mother':mother,
+            'spouseL':spouseL, 'path':path}
+
+#------------------------------------------------
 
 # problem:  duplicate names, must search for more 
+# decided to use birth year
 
-def dict_for_name(n, g=None):
-    # do not require the full name
+# the year requirement is for initial search
+# the generation requirement helps for tree building
+
+def key_for_value(property, value, g=None, year=None):
+    # do not need to have the full name
     for k in D:
-        if k.startswith(n):
-            if g and not D[k]['gen'] == g:
+        sD = D[k]
+        if sD[property].startswith(value):
+            if g and not sD['gen'] == g:
                 continue
-            return D[k]
-
-p = dict_for_name(input)
+            if year and not sD['born'] == year:
+                continue
+            return k
+    return None
 
 #----------------------------------------
 
-def get_parents(d):
+def get_parents(k):
+    # pass in the key for the starting individual
+    # it may happen that k is None
+    if not k:
+        return None
+        
+    f = D[k]['father']
     # restrict name search to the previous generation
-    g = str(int(d['gen']) + 1)
+    g = str(int(D[k]['gen']) + 1)
     try:
-        f = dict_for_name(d['father'], g)
+        kf = key_for_value('name',f, g)
     except:
-        f = None
+        kf = None
+    m = D[k]['mother']
     try:
-        m = dict_for_name(d['mother'])
+        km = key_for_value('name',m, g)
     except:
-        m = None
-    return f,m
+        km = None
+    return kf, km
  
-def pp(d,level):
-    sp = ' '*4
+def pp(k,level):
+    sp = ' '*3
     pL = [sp * level]
-    try:
-        pL.append(d['name'])
-    except:
+    if k:
+        pL.append(k)
+    else:
         pL.append('*')
     print ''.join(pL)
  
 #----------------------------------------
 
-d = dict_for_name(input)
-print d['name']
+k = key_for_value('name', input, year=y)
+print k
 
-for p in get_parents(d):
+L1 = get_parents(k)
+for p in L1:
     pp(p,1)
-    for gp in get_parents(p):
+
+    L2 = get_parents(p)
+    if not L2:
+        continue
+    for gp in L2:
         pp(gp,2)
-        for ggp in get_parents(gp):
+
+        L3 = get_parents(gp)
+        if not L3:
+            continue
+        for ggp in L3:
             pp(ggp,3)
-            for gggp in get_parents(ggp):
-                 pp(gggp,4)
-
-
-
+              
+            L4 = get_parents(ggp)
+            if not L4:
+                continue
+            for gggp in L4:
+                pp(gggp,4)
+ 
+                L5 = get_parents(gggp)
+                if not L5:
+                    continue
+                for ggggp in L5:
+                    pp(ggggp,5)
 
 
 

@@ -24,6 +24,5 @@ o Andrew Gray
 
 <hr>
 
-<hr> 
 
 [ref](https://www.geni.com/people/Andrew-Williams/6000000007077458421)

@@ -12,12 +12,14 @@ m [Grietje Margaret Artze Pieterson](grietje_aerts.md)
 
 <hr>
 
-o Jannet Westfall 1689-1754
+o Jannet Westfall
 
 - Petrus 1719-1783
 - Jacob 1721-?
 
 <hr>
+
+Jannet Westfall 1689-1754
 
 [ref](https://www.findagrave.com/memorial/178356104/mathew-kuykendall)
 

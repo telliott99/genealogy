@@ -12,12 +12,12 @@ m [Philadelphia Rawlings](../g10/philadelphia_rawlings.md)
 
 <hr>
 
-o Prudence Williams 1709-
+o Prudence Williams
 
 - [Mary Williams](../g8/mary_williams.md) (West)
 
 <hr>
 
-<hr> 
+Prudence Williams  1709-
 
 [ref](https://www.geni.com/people/Andrew-Williams/6000000007077458421)

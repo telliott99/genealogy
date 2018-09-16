@@ -12,7 +12,7 @@ m [Anne Calvert](../g11/ann_calvert.md)
 
 <hr>
 
-o Hannah Harlan 1701
+o Hannah Harlan
 
 (Hannah b 1681 County Down, emigrated 1687, d 1748)
 
@@ -23,6 +23,8 @@ o Hannah Harlan 1701
 - Betty
 
 <hr>
+
+o 1701
 
 Find a grave has a page from a history of the Harlan family with details.  The [will](../figs/samuel_hollingsworth_will.jpg) is from 1648 as well.
 

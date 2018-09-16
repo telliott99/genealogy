@@ -12,9 +12,8 @@ m Martha Smithwick
 
 <hr>
 
+o
 
 <hr>
 
 Served four years as sheriff of Santa Cruz County AZ and four years as chief of police in Nogales, AZ.
-<hr>
-

@@ -12,7 +12,7 @@ m
 
 <hr>
 
-o  [David Elliott](../g6/david_elliott_1784.md)
+o [David Elliott](../g6/david_elliott_1784.md)
 
 - Herman
 - [Alanson Elliott](../g5/alanson_elliott.md) 1815-1859

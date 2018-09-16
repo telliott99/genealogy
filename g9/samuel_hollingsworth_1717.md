@@ -12,8 +12,10 @@ m Hannah Harlin
 
 <hr>
 
-o Barbara Shewin 1738
+o Barbara Shewin
 
 - [Jacob](../g8/jacob_hollingsworth_1742.md)
 
 <hr>
+
+o 1738

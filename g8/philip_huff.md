@@ -12,7 +12,7 @@ m
 
 <hr>
 
-o Rachel Jackson 1763 Botetourt, VA d 1822 Franklin VA
+o Rachel Jackson
 
 - Philip -1820 Cumberland Co., KY
 - [Daniel](../g7/daniel_huff.md) - 1853 Clinton Co., KY
@@ -27,6 +27,8 @@ o Rachel Jackson 1763 Botetourt, VA d 1822 Franklin VA
 - James
 
 <hr>
+
+o 1763 Botetourt, VA d 1822 Franklin VA
 
 [ref](https://www.wikitree.com/wiki/Huff-94)
 

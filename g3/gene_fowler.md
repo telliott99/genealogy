@@ -12,7 +12,7 @@ m [Abigail Augusta Johnson](../g4/abigail_augusta_johnson.md)
 
 <hr>
 
-o [James Heflin Foster](james_heflin_foster.md) Dec 25 1918
+o [James Heflin Foster](james_heflin_foster.md)
 
 - [Jean Francis Foster](../g2/jean_francis_foster.md)
 - James Foster
@@ -20,4 +20,7 @@ o [James Heflin Foster](james_heflin_foster.md) Dec 25 1918
 o William Leonhard
 
 <hr>
+
+o1 Dec 25 1918
+
 

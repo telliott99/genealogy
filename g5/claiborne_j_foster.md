@@ -12,11 +12,13 @@ m [Mary Amelia Hollingsworth](../g6/mary_amelia_hollingsworth.md)
 
 <hr>
 
-o Eunice Burruss 1843-1930
+o Eunice Burruss
 
 - [Jacob Flavel Foster](../g4/jacob_flavel_foster_1873.md)
 
 <hr>
+
+Eunice Burruss 1843-1930
 
 [ref](https://www.findagrave.com/memorial/10610925/claiborne-jasper-foster)
 

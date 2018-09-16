@@ -12,13 +12,15 @@ m [Elizabeth Kirkham](../g7/elizabeth_kirkham.md)
 
 <hr>
 
-o [Elizabeth Hubbard Saunders](elizabeth_hubbard_saunders.md) (Betsy) Jun 27 1808 Columbia Co., GA
+o [Elizabeth Hubbard Saunders](elizabeth_hubbard_saunders.md) {Betsy}
 
 - [Alabama Frances Mims](../g5/alabama_frances_mims.md) 1825-1894
 - Seaborn David Mims 1827-1862
 - more
 
 <hr>
+
+o Jun 27 1808 Columbia Co., GA
 
 [ref](http://genweb.jrac.com/genweb.php?DB=gwdb33&ID=I31319&query=li)
 

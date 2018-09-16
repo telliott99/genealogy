@@ -12,7 +12,7 @@ m Elizabeth
 
 <hr>
 
-o Keziah 1733-1762 (c. 1743)
+o Keziah
 
 o [Nancy Anne Hackney](../g9/nancy_anne_hackney.md)
 
@@ -20,5 +20,7 @@ o [Nancy Anne Hackney](../g9/nancy_anne_hackney.md)
 - [Lewis Cookson Davis](../g8/lewis_cookson_davis.md)
 
 <hr>
+
+o1 1733-1762 (c. 1743)
 
 [ref](http://genweb.jrac.com/genweb.php?DB=gwdb33&ID=I2920&query=li)

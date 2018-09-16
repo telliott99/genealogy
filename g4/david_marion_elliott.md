@@ -12,12 +12,14 @@ m [Sarah Fisher](../g5/sarah_fisher.md)
 
 <hr>
 
-o [Clara Etta Main](clara_etta_main.md) Dec 31 1876
+o [Clara Etta Main](clara_etta_main.md)
 
 - [Alanson C. Elliott](../g3/alanson_c_elliott.md)
 - [James Edgar Elliott](../g3/james_edgar_elliott.md)
 
 <hr>
+
+o Dec 31 1876
 
 Buried in Indiana.
 

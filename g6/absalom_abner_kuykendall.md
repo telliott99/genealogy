@@ -12,7 +12,7 @@ m [Nancy Johnson](../g7/nancy_johnson.md)
 
 <hr>
 
-o Nancy Dean Sep 15 1834
+o Nancy Dean
 
 - Ruth Clarinda (Jett) 1835-1926
 - John Calloway 1836-1912
@@ -31,6 +31,10 @@ o Nancy Dean Sep 15 1834
 - David Edmond 1862-1897
 
 <hr>
+
+o1 Sep 15 1834
+
+o2 1855
 
 [ref](https://www.findagrave.com/memorial/22096814/abner-kuykendall),    [ref](http://freepages.rootsweb.com/~fowler/genealogy/combined/fam15054.htm)
 
