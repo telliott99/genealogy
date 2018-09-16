@@ -4,7 +4,7 @@
 
 b 1791 Guilford NC
 
-d 
+d 1861 Appleton, Pope Co., AS
 
 f [Robert Rankin](../g8/robert_rankin_1759.md)
 
@@ -29,6 +29,6 @@ o [Robert Rankin](robert_rankin_1792.md)
 
 o Dec 09 1812 Guilford, NC
 
-[ref](https://www.wikitree.com/wiki/Rankin-189)
+[wikitree](https://www.wikitree.com/wiki/Rankin-189)
 
 Isabela is given as the wife of Robert Rankin (1792-1845) but also as the daughter of Robert Rankin (1759-1840).  I guess it's possible, cousins or something.

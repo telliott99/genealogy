@@ -30,6 +30,6 @@ o Rachel Jackson
 
 o 1763 Botetourt, VA d 1822 Franklin VA
 
-[ref](https://www.wikitree.com/wiki/Huff-94)
+[wikitree](https://www.wikitree.com/wiki/Huff-94)
 
 Possibly:   The Huff brothers were sons of Philip Hoff who came to Philadelphia from Rotterdam, arriving December 30, 1768. He died in Montgomery Co VA ca 1823.

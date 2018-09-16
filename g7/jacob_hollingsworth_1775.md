@@ -27,6 +27,6 @@ o [Sarah Martin](sarah_martin.md)
 Buried at Hollingsworth Cemetery
 Preston, Caddo Parish, Louisiana, USA
 
-[ref](https://www.findagrave.com/memorial/116388364/jacob-hollingsworth)
+[grave](https://www.findagrave.com/memorial/116388364/jacob-hollingsworth)
 
 Except that Mary Amelia is not shown as offspring by Find a grave.  See her page for details.

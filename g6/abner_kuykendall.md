@@ -24,7 +24,11 @@ o [Maria Duff](maria_duff.md)
 
 <hr>
 
-[ref](https://www.findagrave.com/memorial/22096814/abner-kuykendall),    [ref](http://freepages.rootsweb.com/~fowler/genealogy/combined/fam15054.htm) [ref](https://www.findagrave.com/memorial/178356104/mathew-kuykendall)
+o Nov 08 1867
+
+[grave](https://www.findagrave.com/memorial/22096814/abner-kuykendall),    [ref](http://freepages.rootsweb.com/~fowler/genealogy/combined/fam15054.htm) 
+
+[grave](https://www.findagrave.com/memorial/178356104/mathew-kuykendall) Matthew
 
 There is a famous Abner Kuykendall who lived about this time [ref](https://tshaonline.org/handbook/online/articles/fku04).
 

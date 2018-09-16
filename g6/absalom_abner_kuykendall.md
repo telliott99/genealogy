@@ -36,11 +36,11 @@ o1 Sep 15 1834
 
 o2 1855
 
-[ref](https://www.findagrave.com/memorial/22096814/abner-kuykendall),    [ref](http://freepages.rootsweb.com/~fowler/genealogy/combined/fam15054.htm)
+[findagrave](https://www.findagrave.com/memorial/22096814/abner-kuykendall),    [ref](http://freepages.rootsweb.com/~fowler/genealogy/combined/fam15054.htm)
 
 There is a famous Abner Kuykendall who lived about this time [ref](https://tshaonline.org/handbook/online/articles/fku04).  Unfortunately, ours is probably a different Abner Kuykendall, by these dates  1777?-1834.  
 
-Another one is Abner Absalom Kuykendall [ref](https://www.wikitree.com/genealogy/Kuykendall-Family-Tree-47) 1818-1919.  This Abner has a brother Absalom Abner Kuykendall!
+Another one is Abner Absalom Kuykendall [wikitree](https://www.wikitree.com/genealogy/Kuykendall-Family-Tree-47) 1818-1919.  This Abner has a brother Absalom Abner Kuykendall!
 
 Find a grave says:
 
@@ -52,7 +52,7 @@ His grandfather Col. William Johnson is DAR Ancestor #A063829 (FAG Memorial #437
 
 So maybe he was also in Texas but he is not "the" Abner Kuykendall.
 
-Findagrave is pretty sure his father is Mathew [ref](https://www.findagrave.com/memorial/178356104/mathew-kuykendall)
+Findagrave is pretty sure his father is Mathew [grave](https://www.findagrave.com/memorial/178356104/mathew-kuykendall)
 
 Buried at 	Saints Oakwood Cemetery
 San Antonio, Bexar County, Texas, USA

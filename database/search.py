@@ -34,96 +34,101 @@ for e in data:
     gen = path.split('/')[0][1:]
     k = name
     if not born == '*':
-        k += ' ' + born
-    D[k] = {'gen':gen, 'name':name, 
+        k += ' ' + born    # keys must be unique
+        
+    D[k] = {'gen':gen, 
+            'name':name, 
             'born':born, 'died':died, 
             'father':father, 'mother':mother,
-            'spouseL':spouseL, 'path':path}
+            'spouseL':spouseL, 
+            'path':path}
 
 #------------------------------------------------
 
-# problem:  duplicate names, must search for more 
-# decided to use birth year
+# problem:  with duplicate names, unknown keys
+# must search for more 
+# use birth year
 
 # the year requirement is for initial search
-# the generation requirement helps for tree building
+# the generation requirement is for tree building
 
 def key_for_value(property, value, g=None, year=None):
     # do not need to have the full name
     for k in D:
         sD = D[k]
-        if sD[property].startswith(value):
-            if g and not sD['gen'] == g:
-                continue
-            if year and not sD['born'] == year:
-                continue
+        if g and not sD['gen'] == g:
+            continue
+        if year and not sD['born'] == year:
+            continue
+        if value in sD[property]:
             return k
     return None
 
 #----------------------------------------
 
-def get_parents(k):
-    # pass in the key for the starting individual
-    # it may happen that k is None
-    if not k:
+
+def get_parent(k, kind='father'):
+    if not k in D:
         return None
+    
+    # 3 situations
+    # find a key
+    # find only a name (no page)
+    # find nothing
         
-    f = D[k]['father']
     # restrict name search to the previous generation
     g = str(int(D[k]['gen']) + 1)
+    
+    n = D[k][kind]
     try:
-        kf = key_for_value('name',f, g)
+        k = key_for_value('name', n, g=g)
     except:
-        kf = None
-    m = D[k]['mother']
-    try:
-        km = key_for_value('name',m, g)
-    except:
-        km = None
-    return kf, km
+        k = n
+    return k
  
 def pp(k,level):
-    sp = ' '*3
-    pL = [sp * level]
+    sp = ' ' * 3
     if k:
-        pL.append(k)
+        print sp * level + k
     else:
-        pL.append('*')
-    print ''.join(pL)
- 
+        print sp * level + '*'
+
+def get_parents(k):
+    f = get_parent(k)
+    m = get_parent(k, kind="mother")
+    return (f,m)
+
 #----------------------------------------
 
 k = key_for_value('name', input, year=y)
+if not k in D:
+    print "Not found"
+    sys.exit()
+
 print k
 
-L1 = get_parents(k)
-for p in L1:
+f,m = get_parents(k)
+for p in f,m:
     pp(p,1)
-
-    L2 = get_parents(p)
-    if not L2:
+    if not p:
         continue
-    for gp in L2:
-        pp(gp,2)
+    gf, gm = get_parents(p)
 
-        L3 = get_parents(gp)
-        if not L3:
-            continue
-        for ggp in L3:
-            pp(ggp,3)
-              
-            L4 = get_parents(ggp)
-            if not L4:
-                continue
-            for gggp in L4:
-                pp(gggp,4)
- 
-                L5 = get_parents(gggp)
-                if not L5:
-                    continue
-                for ggggp in L5:
-                    pp(ggggp,5)
-
-
-
+    for gp in gf,gm:
+       pp(gp,2)
+       if not gp:
+           continue
+       ggf, ggm = get_parents(gp)
+    
+       for ggp in ggf,ggm:
+           pp(ggp,3)
+           if not ggp:
+               continue
+           gggf, gggm = get_parents(ggp)
+           pp(gggf,4)
+           pp(gggm,4)
+    
+  
+    
+    
 

@@ -1,6 +1,6 @@
 <gen=g6>
 
-<b>Mary Squires {Polly}</b>
+<b>Mary Squires (Elliott) {Polly}</b>
 
 b Feb 13 1793 Sandgate, Bennington Co., VT
 
@@ -21,7 +21,9 @@ o [David Elliott](../g6/david_elliott_1784.md)
 - David
 - Hester
 - Deborah
-- Mary (Billings) 1827-1893
+- Mary (Billings) {Polly} 1827-1893
+- Clarissa
+
 
 <hr>
 
@@ -30,4 +32,4 @@ Beech Hill Cemetery
 Allegany County, New York, USA
 (together with husband David and son David).
 
-[ref](https://www.findagrave.com/memorial/55873068/mary-polly-elliott)
+[grave](https://www.findagrave.com/memorial/55873068/mary-polly-elliott)

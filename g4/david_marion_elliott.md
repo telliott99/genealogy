@@ -23,4 +23,4 @@ o Dec 31 1876
 
 Buried in Indiana.
 
-[ref](https://www.findagrave.com/memorial/75888090/clara-etta-elliott)
+[grave](https://www.findagrave.com/memorial/75888090/clara-etta-elliott)

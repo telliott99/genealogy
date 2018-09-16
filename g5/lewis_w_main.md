@@ -27,4 +27,4 @@ o Matilda Nov 03 1840 - Mar 31 1873
 Buried at Westview Cemetery
 Prairie City, Jasper County, Iowa, USA
 
-[ref](https://www.findagrave.com/memorial/76746881/lewis-w-main)
+[grave](https://www.findagrave.com/memorial/76746881/lewis-w-main)

@@ -8,7 +8,7 @@ d Jun 15 1982 Stamford, Fairfield Co., CT
 
 f [Jacob Flavel Foster](../g4/jacob_flavel_foster_1873.md)
 
-m Marguerrite Crain (Foster)
+m [Marguerrite Crain](../g4/marguerrite_crain) (Foster)
 
 <hr>
 
@@ -16,9 +16,9 @@ o Ruth Bratton (Foster)
 
 <hr>
 
-Ruth Bratton 1898-1978 [ref](https://www.findagrave.com/memorial/80417007/ruth-foster)
+Ruth Bratton 1898-1978 [grave](https://www.findagrave.com/memorial/80417007/ruth-foster)
 
-[ref](https://www.findagrave.com/memorial/47678409/jacob-flavel-foster)
+[grave](https://www.findagrave.com/memorial/47678409/jacob-flavel-foster)
 
 Noted speech and drama teacher in New York state, with professorships at both Columbia and New York University at Brooklyn.
 

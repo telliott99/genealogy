@@ -41,6 +41,6 @@ o3 1806 Wayne Co., KY
 
 o4
 
-[ref](https://www.wikitree.com/wiki/Huff-125) says Dinelah married Levi Fowler and they lived in Carter Co., TN.  It has extensive info about Daniel Huff.
+[wikitree](https://www.wikitree.com/wiki/Huff-125) says Dinelah married Levi Fowler and they lived in Carter Co., TN.  It has extensive info about Daniel Huff.
 
 Started in VA, then Daniel and Philip moved to Jefferson Co., TN.  In 1800 and 1802 he was Captain tn the 1st Battalion, 46th (Cumberland) Regiment of KY Militia

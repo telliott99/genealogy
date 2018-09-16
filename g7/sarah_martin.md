@@ -18,7 +18,7 @@ o [Jacob Hollingsworth, Jr.](jacob_hollingsworth_1775.md)
 
 <hr>
 
-[ref](https://www.findagrave.com/memorial/116388581/sarah-hollingsworth) has different dates, but she is buried at Hollingsworth Cemetery
+[grave](https://www.findagrave.com/memorial/116388581/sarah-hollingsworth) has different dates, but she is buried at Hollingsworth Cemetery
 Preston, Caddo Parish, Louisiana, USA
 
 They have

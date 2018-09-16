@@ -28,6 +28,6 @@ father 1600-c.1638
 
 mother 1605-?
 
-[ref](https://www.wikitree.com/wiki/Rhodes-813)
+[wikitree](https://www.wikitree.com/wiki/Rhodes-813)
 
 Grandfather was Sir John Rodes, M.P. [ref](https://www.geni.com/people/Sir-John-Rodes-MP-of-Barlborough/6000000006900953235), and there's more...

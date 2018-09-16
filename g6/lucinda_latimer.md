@@ -27,7 +27,7 @@ o [David West](david_west.md)
 
 o May 11 1841 Dover, Pope Co., AS
 
-[ref](https://www.findagrave.com/memorial/31169554/lucinda-west)
+[grave](https://www.findagrave.com/memorial/31169554/lucinda-west)
 
 Possible sibs:
 

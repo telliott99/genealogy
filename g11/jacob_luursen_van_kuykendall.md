@@ -25,7 +25,7 @@ father 1590-1619 Netherlands
 
 mother 1594-1622 Netherlands
 
-Good refs on the web about this guy.
+Good refs on the web about Jacob Luursen.
 
 "Jacob was employed 1646 by the Dutch West Indies Co. Arrival circa 1646.; a stone mason and brick layer by trade, Brickmason / Dutch West India Company, Came from Holland to New Amsterdam in 1646"
 

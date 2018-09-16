@@ -29,4 +29,4 @@ o [Isabela Rankin](../g7/isabela_rankin.md)
 
 o Dec 09 1812 Guilford, NC
 
-[ref](https://www.wikitree.com/wiki/Rankin-190)
+[wikitree](https://www.wikitree.com/wiki/Rankin-190)

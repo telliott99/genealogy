@@ -25,7 +25,7 @@ o Margaret Ellen Phillips
 Buried at McFadden Cemetery
 Dover, Pope County, Arkansas, USA
 
-[ref](https://www.findagrave.com/memorial/43770484/john-bell-west)
+[J.B. West grave](https://www.findagrave.com/memorial/43770484/john-bell-west/photo#view-photo=71774435)
 
 This is the J.B. West of Pope Co. that A.A. Johnson used to visit, according to Robin Fowler.
 
@@ -35,7 +35,5 @@ The Railway Age
 March 6 1903
 
 <img src="../figs/john_bell_west.jpg" style="width: 200px;" />
-
-[ref](https://www.findagrave.com/memorial/43770484/john-bell-west/photo#view-photo=71774435)
 
 

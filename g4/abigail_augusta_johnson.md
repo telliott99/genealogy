@@ -22,6 +22,6 @@ o [Thompson Ernest Fowler](thompson_ernest_fowler.md)
 
 Data from [ref](http://files.usgwarchives.net/tx/bell/cemetery/bartlett.txt).
 
-[ref](https://www.findagrave.com/memorial/49183952/thompson-fletcher-fowler)
+[grave](https://www.findagrave.com/memorial/49183952/thompson-fletcher-fowler)
 
 Abigail according to Robin Fowler.

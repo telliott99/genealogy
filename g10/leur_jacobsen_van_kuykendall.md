@@ -31,7 +31,7 @@ Also called Margrietjen Artze Pietersen)
 
 o about 1680
 
-[ref](https://www.findagrave.com/memorial/167407952/leur-jacobsen_van-kuykendall)
+[grave](https://www.findagrave.com/memorial/167407952/leur-jacobsen_van-kuykendall)
 
 Also spelled Luur.
 

@@ -23,7 +23,7 @@ o [Marritjen Westvaal](mary_westfall.md) (Mary Westfall)
 
 <hr>
 
-[ref](https://www.findagrave.com/memorial/167406922/cornelius-jacobsen_van-kuykendall)
+[grave](https://www.findagrave.com/memorial/167406922/cornelius-jacobsen_van-kuykendall)
 
 [ref](https://www.geni.com/people/Cornelius-Van-Kuykendall/6000000000425817813)
 

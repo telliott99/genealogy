@@ -25,5 +25,5 @@ o [Cornelius Jacobsen Van Kuykendall](../g9/cornelius_kuykendall.md)
 
 o Oct 27 1705
 
-[ref](https://www.findagrave.com/memorial/167407448/mary-kuykendall)
+[grave](https://www.findagrave.com/memorial/167407448/mary-kuykendall)
 

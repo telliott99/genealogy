@@ -23,4 +23,4 @@ Willing, Allegany County, New York, USA
 
 Willing is not on the map anymore as a town.  Google puts in on the Pennsylvania state line about 75 miles east of Erie, PA.
 
-[ref](https://www.findagrave.com/memorial/68287414/alanson-elliott)
+[grave](https://www.findagrave.com/memorial/68287414/alanson-elliott)

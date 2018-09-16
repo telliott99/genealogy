@@ -30,7 +30,7 @@ Parrottsville, Cocke County, Tennessee, USA
 [ref](http://freepages.rootsweb.com/~fowler/genealogy/combined/fam15054.htm)
 used for family tree.
 
-[ref](https://www.findagrave.com/memorial/49564731/thomas-fowler)
+[grave](https://www.findagrave.com/memorial/49564731/thomas-fowler)
 
 > Dr. Thomas Fowler, a prominent physician and pioneer in East Tennessee. He lived in Parrottsville, Cocke County, Tennessee. He was the son of a Thomas Fowler of Virginia who lived to the age of 99. Member of the Methodist Episcopal Church. Married to Mary Baldridge. Father to 9 children.
 > 

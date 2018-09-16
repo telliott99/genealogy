@@ -19,4 +19,4 @@ o
 Buried at 	Forest Park East Cemetery
 Shreveport, Caddo Parish, LA
 
-[ref](https://www.findagrave.com/memorial/14563306/james-martin-foster)
+[grave](https://www.findagrave.com/memorial/14563306/james-martin-foster)

@@ -24,7 +24,7 @@ o [Nancy Johnson](nancy_johnson.md)
 
 o May 11 1780
 
-[ref](https://www.findagrave.com/memorial/178356104/mathew-kuykendall)
+[grave](https://www.findagrave.com/memorial/178356104/mathew-kuykendall)
 
 [ref](http://www.robinrichmond.com/family/familygroup.php?familyID=F143&tree=rr) says birth Feb 09.
 

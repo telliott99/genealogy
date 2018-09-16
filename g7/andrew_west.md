@@ -26,4 +26,4 @@ o Jul 01 1773 Dobbs, NC
 Buried at West Cemetery
 Rock Bridge, Sumner County, Tennessee, USA
 
-[ref](https://www.findagrave.com/memorial/62662112/andrew-west)
+[grave](https://www.findagrave.com/memorial/62662112/andrew-west)

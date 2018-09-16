@@ -19,4 +19,4 @@ o [Oceana Jackson](oceana_jackson.md)
 
 <hr>
 
-possibly [ref](https://www.findagrave.com/memorial/149637655/henry-j.-fisher)
+possibly [grave](https://www.findagrave.com/memorial/149637655/henry-j.-fisher)

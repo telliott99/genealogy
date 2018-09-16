@@ -23,7 +23,7 @@ o Dec 25 1918
 
 NE lists death as 13 May, 1934.  This date is from the gravestone and the obituary, and the death certificate.
 
-[ref](https://www.findagrave.com/memorial/78540945/james-heflin-foster)
+[grave](https://www.findagrave.com/memorial/78540945/james-heflin-foster)
 
 Sibs:
 

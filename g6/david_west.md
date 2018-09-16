@@ -41,7 +41,7 @@ o1 Nov 11 1816 Cross Plains, Robertson Co., TN
 
 o2 May 11 1841 Dover, Pope Co., AS
 
-[ref](https://www.findagrave.com/memorial/31169496/david-west)
+[grave](https://www.findagrave.com/memorial/31169496/david-west)
 
 [data](../family_data/johnson/david_west.txt)
 

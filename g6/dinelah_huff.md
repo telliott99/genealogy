@@ -26,6 +26,6 @@ o [Levi Fowler](levi_fowler.md)
 Buried at Oakland Cemetery
 Grandview, Johnson County, Texas, USA
 
-[ref](https://www.findagrave.com/memorial/22092521/dinelah-fowler)
+[grave](https://www.findagrave.com/memorial/22092521/dinelah-fowler)
 
 [ref](http://freepages.rootsweb.com/~fowler/genealogy/combined/fam15054.htm)

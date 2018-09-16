@@ -23,4 +23,4 @@ o Oct 22 1684
 
 [ref](http://genweb.jrac.com/genweb.php?DB=gwdb33&ID=I5730&query=li)
 
-[ref](https://www.wikitree.com/wiki/Rhodes-1001)
+[wikitree](https://www.wikitree.com/wiki/Rhodes-1001)

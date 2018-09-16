@@ -34,4 +34,4 @@ Christiana, Rutherford County, Tennessee, USA
 [geni](https://www.geni.com/people/William-Johnson-Sr/6000000019261827658
 )
 
-[ref](https://www.findagrave.com/memorial/43724130/mariah-rebecca-johnson)
+[grave](https://www.findagrave.com/memorial/43724130/mariah-rebecca-johnson)

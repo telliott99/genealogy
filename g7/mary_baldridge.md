@@ -24,7 +24,7 @@ o [Thomas Fowler](../g7/thomas_fowler_1770.md)
 
 <hr>
 
-[ref](https://www.findagrave.com/memorial/49565002/mary-fowler)
+[grave](https://www.findagrave.com/memorial/49565002/mary-fowler)
 
 [ref](https://wc.rootsweb.com/cgi-bin/igm.cgi?op=GET&db=head-wall&id=I21501)
 

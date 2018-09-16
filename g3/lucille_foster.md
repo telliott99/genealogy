@@ -20,5 +20,5 @@ o [Harney Skolfield Bogan](harney_skofield_bogan.md)
 
 <hr>
 
-[ref](https://www.findagrave.com/memorial/59659335/lucile-bogan)
+[grave](https://www.findagrave.com/memorial/59659335/lucile-bogan)
 

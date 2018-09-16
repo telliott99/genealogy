@@ -22,4 +22,4 @@ o Forrest W. Mack
 
 o 1921
 
-[ref](https://www.findagrave.com/memorial/14205251/rosa-mae-mack)
+[grave](https://www.findagrave.com/memorial/14205251/rosa-mae-mack)

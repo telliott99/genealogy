@@ -45,23 +45,32 @@ b 1901
 d 1970
 f Thompson Ernest Fowler
 m Augusta Johnson
+o Dorothy (Fowler)
 o *
 g3/thompson_fletcher_fowler_1901.md
+
+Jane Palmer (Fowler)
+b 1919
+d 2006
+f *
+m *
+o Robin Fowler
+g3/jane_palmer.md
 
 Jacob Flavel Foster
 b 1900
 d 1982
 f Jacob Flavel Foster
-m Marguerrite Crain (Foster)
+m Marguerrite Crain
 o Ruth Bratton (Foster)
 g3/jacob_flavel_foster_1900.md
 
 Robin Fowler
 b 1903
-d *
+d 1994
 f Thompson Ernest Fowler
 m Augusta Johnson
-o Jane
+o Jane Palmer
 g3/robin_fowler.md
 
 James Heflin Foster
@@ -201,6 +210,14 @@ m Lydia Catherine Roberts
 o David Marion Elliott
 g4/clara_etta_main.md
 
+Marguerrite Crain (Foster)
+b *
+d 1890
+f *
+m *
+o Jacob Flavel Foster
+g4/marguerrite_crain.md
+
 Charles Louis Fowler
 b 1860
 d 1931
@@ -221,7 +238,7 @@ Jacob Flavel Foster
 b 1873
 d 1910
 f Claiborne J. Foster
-m *
+m Eunice Burruss
 o Marguerrite Crain (Foster)
 g4/jacob_flavel_foster_1873.md
 
@@ -379,6 +396,14 @@ m Lucinda Latimer
 o Margaret Ellen Phillips
 g5/john_bell_west.md
 
+Eunice Burruss
+b *
+d *
+f *
+m *
+o Claiborne J. Foster
+g5/eunice_burruss.md
+
 Mary Eleanor Long (Foster)
 b 1842
 d 1910
@@ -428,7 +453,7 @@ o Millet Payne {Milly}
 o Lucinda Lattimer
 g6/david_west.md
 
-Mary Squires {Polly}
+Mary Squires (Elliott) {Polly}
 b 1793
 d 1886
 f *
@@ -529,7 +554,7 @@ Flavel Foster
 b 1801
 d 1869
 f *
-m Elizabeth
+m Elizabeth Foster
 o Mary Amelia Hollingsworth
 g6/flavel_foster.md
 
@@ -545,7 +570,7 @@ Richardson Foster
 b 1800
 d 1835
 f *
-m Elizabeth
+m Elizabeth Foster
 o Amanda Melvina Hollingsworth
 g6/richardson_foster.md
 
@@ -624,7 +649,7 @@ g7/sarah_martin.md
 
 Isabela Rankin
 b 1791
-d *
+d 1861
 f Robert Rankin
 m Mary Cusick
 o Robert Rankin
@@ -927,6 +952,15 @@ m Hannah Harlin
 o Barbara Shewin
 g9/samuel_hollingsworth_1717.md
 
+Lydia Steele
+b *
+d *
+f *
+m *
+o George Rankin
+o Arthur Frobis
+g9/lydia_steele.md
+
 Robert Rankin
 b 1700
 d 1773
@@ -958,6 +992,14 @@ f Hezekiah Rhodes
 m Elizabeth Nichols
 o William Hackney
 g9/alice_nichols_rhodes.md
+
+George Rankin
+b 1729
+d 1761
+f Robert Rankin
+m Rebecca Armstrong
+o Lydia Steele
+g9/george_rankin.md
 
 George West
 b 1699
@@ -1018,6 +1060,14 @@ m Alice
 o Hezekiah Rhodes
 g10/elizabeth_nichols.md
 
+Rebecca Armstrong
+b 1700
+d 1773
+f *
+m *
+o Robert Rankin
+g10/rebecca_armstrong.md
+
 Samuel Hollingsworth
 b 1672
 d 1748
@@ -1057,6 +1107,14 @@ f Thomas Davis
 m Elizabeth
 o *
 g10/richard_davis.md
+
+Robert Rankin
+b 1700
+d 1773
+f William Rankin
+m Dorothy Black (Rankin)
+o Rebecca Armstrong
+g10/robert_rankin.md
 
 Leur Jacobsen van Kuykendall
 b 1650

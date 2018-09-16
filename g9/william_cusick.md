@@ -18,3 +18,4 @@ o [Isabella Mebane](../g9/isabella_mebane.md) (Cusick)
 
 <hr>
 
+o Oct 03 1754 in Dauphin, PA

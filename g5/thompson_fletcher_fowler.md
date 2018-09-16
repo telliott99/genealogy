@@ -37,7 +37,7 @@ Spent the Civil War in California.  Wylie was born in California.  Charles was s
 
 Sources:
 
-[ref](https://www.findagrave.com/memorial/23179699/thompson-fletcher-fowler)
+[grave](https://www.findagrave.com/memorial/23179699/thompson-fletcher-fowler)
 
 [ref](http://freepages.rootsweb.com/~fowler/genealogy/combined/fam15054.htm)
 

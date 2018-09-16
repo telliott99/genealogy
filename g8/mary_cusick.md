@@ -22,3 +22,5 @@ o [Robert Rankin](../g8/robert_rankin_1759.md)
 - William Cusick
 
 <hr>
+
+d before 1803 Guilford, NC.

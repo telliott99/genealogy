@@ -18,4 +18,4 @@ o [Mary Jane Thorpe](mary_jane_thorpe.md)
 
 <hr>
 
-[ref](https://www.findagrave.com/memorial/159152201/edward-metcalf) buried at Carthage, Jefferson Co., NY.  Map has Denmark including area adjacent to Carthage, NY.  Far upstate NY, near Fort Drum.
+[grave](https://www.findagrave.com/memorial/159152201/edward-metcalf) buried at Carthage, Jefferson Co., NY.  Map has Denmark including area adjacent to Carthage, NY.  Far upstate NY, near Fort Drum.

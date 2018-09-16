@@ -27,6 +27,6 @@ Montezuma, Parke County, Indiana, USA
 
 Norman Elliott lists birth year as 1859 or 1860.
 
-[ref](https://www.findagrave.com/memorial/75888090/clara-etta-elliott)
+[grave](https://www.findagrave.com/memorial/75888090/clara-etta-elliott)
 
 The ref does not mention James Edgar.

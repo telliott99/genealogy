@@ -20,7 +20,7 @@ o [Lucille Foster](lucille_foster.md)
 
 <hr>
 
-[ref](https://www.findagrave.com/memorial/59659335/lucile-bogan)
+[grave](https://www.findagrave.com/memorial/59659335/lucile-bogan)
 
 [Harney Bogan](https://www.findagrave.com/memorial/55665977/harney-skolfield-bogan)
 

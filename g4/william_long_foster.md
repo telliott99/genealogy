@@ -27,4 +27,4 @@ o Jun 19 1888
 Buried at Greenwood Cemetery
 Shreveport, Caddo Parish, Louisiana, USA.
 
-[ref](https://www.findagrave.com/memorial/78541080/william-long-foster/photo)
+[grave](https://www.findagrave.com/memorial/78541080/william-long-foster/photo)

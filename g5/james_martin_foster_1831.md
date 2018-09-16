@@ -27,7 +27,7 @@ o [Mary Eleanor Long](mary_eleanor_long.md)
 
 <hr>
 
-[ref](https://www.findagrave.com/memorial/48101097/james-martin-foster)
+[grave](https://www.findagrave.com/memorial/48101097/james-martin-foster)
 
 <img src="../figs/JM_Foster.jpg" style="width: 200px;" />
 

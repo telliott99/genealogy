@@ -24,6 +24,6 @@ o [William Long Foster](william_long_foster.md)
 
 o Jun 19 1888
 
-[ref](https://www.findagrave.com/memorial/78541033/mims-foster)
+[grave](https://www.findagrave.com/memorial/78541033/mims-foster)
 
 NE says death date Sep 23.  This date is from the gravestone.

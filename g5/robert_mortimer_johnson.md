@@ -20,7 +20,7 @@ o [Abby Ann West](abby_ann_west.md)
 
 CSA according to RF memoir, married in Arkansas before the war.
 
-I think this is him:  [ref](https://www.findagrave.com/memorial/16896009/robert-mortimer-johnson) 
+I think this is his grave:  [ref](https://www.findagrave.com/memorial/16896009/robert-mortimer-johnson) 
 
 Dr. Robert Mortimer Johnson.  Data:  married, but no name for wife!  1845 birthdate is reasonable for him to be father to "Mama Gussie" b 1875.
 

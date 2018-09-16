@@ -21,4 +21,4 @@ o [Thompson Fletcher Fowler](thompson_fletcher_fowler.md)
 
 o Dec 16 1869
 
-[ref](https://www.findagrave.com/memorial/24908137/mildred-maria-fowler)
+[grave](https://www.findagrave.com/memorial/24908137/mildred-maria-fowler)

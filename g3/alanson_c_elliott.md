@@ -18,7 +18,7 @@ Buried at
 Fairlawn Cemetery
 Stillwater, Payne County, Oklahoma, USA
 
-[ref](https://www.findagrave.com/memorial/10822231/alanson-c-elliott)
+[grave](https://www.findagrave.com/memorial/10822231/alanson-c-elliott)
 
 Living in Payne OK in 1940, divorced
 

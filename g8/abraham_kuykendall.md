@@ -25,7 +25,7 @@ Known as Abram.  Spouse also reported as Fidle.
 
 Buried at Mud Creek Baptist Church Cemetery, Flat Rock, Henderson County, NC.
 
-[ref](https://www.findagrave.com/memorial/6740564/abraham-kuykendall)
+[grave](https://www.findagrave.com/memorial/6740564/abraham-kuykendall)
 
 
 DAR Ancestor #A067617 (FAG Memorial #6740564) ??

@@ -37,10 +37,10 @@ The trick is to link this David 1744 to the one I think is his son, David 1784. 
 
 > [David 1784] Lived in New York all of his life, from Washington County, Cayuga County, Yates County and Allegany County respectively.
 
-Perhaps they are all in the 1790 census.  David 1744's grave is [here](https://www.findagrave.com/memorial/161574861/david-elliott)
+Perhaps they are all in the 1790 census.  David 1744's [grave](https://www.findagrave.com/memorial/161574861/david-elliott)
 That reference says his children are as listed above, including David.
 
-[David's gravestone](https://www.findagrave.com/memorial/49713508/levi-fowler)
+[David's grave](https://www.findagrave.com/memorial/49713508/levi-fowler)
 
 <img src="../gravestones/david_elliott_1744.jpg" style="width: 400px;" />
 

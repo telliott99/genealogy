@@ -21,7 +21,7 @@ o Jannet Westfall
 
 Jannet Westfall 1689-1754
 
-[ref](https://www.findagrave.com/memorial/178356104/mathew-kuykendall)
+[grave](https://www.findagrave.com/memorial/178356104/mathew-kuykendall)
 
 Find a grave goes back farther:
 

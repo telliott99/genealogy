@@ -23,4 +23,4 @@ o Nov 08 1842 Pope Co., AS
 Place of marriage:
 Methodist Episcopal Church, Pope, Arkansas
 
-[ref](https://www.wikitree.com/wiki/Johnson-3546)
+[wikitree](https://www.wikitree.com/wiki/Johnson-3546)

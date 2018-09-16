@@ -21,13 +21,13 @@ o [Robert Mortimer Johnson](robert_mortimer_johnson.md)
 
 NE has her maiden name as Chandler.  
 
-However, Find a grave [ref](https://www.findagrave.com/memorial/24908013/abbie-ann-johnson) has her maiden name as West.  
+However, Find a grave [grave](https://www.findagrave.com/memorial/24908013/abbie-ann-johnson) has her maiden name as West.  
 
 This is corroborated by a letter from Robin Fowler to Francis Elliott [here](../family_data/Johnson/Letter Uncle Robin to My Mother Francis.pdf), stating that his mother (Abigail Augusta Johnson) used to visit J.B. West in Dover, Arkansas.
 
 According to Find a grave, J.B. West is Abigail Ann's brother, so I have incorporated the new material and changed her maiden name to West on this file.
 
-Find a grave also has Abigail Ann West Johnson as mother of [Daniel Robert Johnson](https://www.findagrave.com/memorial/163619141/daniel-robert-johnson), but does not mention Abigail Augusta.  I have provisionally included him on this page.  
+Find a grave also has Abigail Ann West Johnson as mother of [Daniel Robert Johnson grave](https://www.findagrave.com/memorial/163619141/daniel-robert-johnson), but does not mention Abigail Augusta.  I have provisionally included him on this page.  
 
 It's interesting that he lived in Phoenix, since that's where Gene Fowler (Foster) moved after Nogales.
 

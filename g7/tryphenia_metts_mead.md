@@ -28,6 +28,6 @@ o Jul 01 1773 Dobbs, NC
 
 Buried at Rock Bridge, Sumner County, Tennessee, United States
 
-[ref](https://www.findagrave.com/memorial/62662227/tryphenia-west)
+[grave](https://www.findagrave.com/memorial/62662227/tryphenia-west)
 
 [ref](https://www.geni.com/people/Tryphenia-West/6000000027503563930)
