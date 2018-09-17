@@ -2,11 +2,11 @@
 
 <b>Hannah Cloyce</b> <b>(Elliott)</b>
 
-b
+b 1667 Salem, Essex, MA
 
-d
+d 1737 New Milford, Litchfield, CT
 
-f Peter Cloyce
+f Peter Cloyes
 
 m [Daniel Elliott](../g10/daniel_elliott_1662.md)
 
@@ -24,4 +24,6 @@ o [Daniel Elliott](../g10/daniel_elliott_1662.md)
 
 <hr>
 
-o 1685
+o 1686
+
+also known as Cloyes

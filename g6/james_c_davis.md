@@ -4,7 +4,7 @@
 
 b 1801 Morgan, Calhoun Co., GA
 
-d --
+d
 
 f [Lewis Cookson Davis](../g7/lewis_cookson_davis.md) 1757 NC - 1835 GA
 

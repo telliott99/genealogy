@@ -253,7 +253,7 @@ g4/minnie_adams.md
 Jacob Flavel Foster
 b 1873
 d 1910
-f Claiborne J. Foster
+f Claiborne Jasper Foster
 m Eunice Burruss
 o Marguerrite Crain (Foster)
 g4/jacob_flavel_foster_1873.md
@@ -372,14 +372,6 @@ o Martha Smithwick
 o Mildred Maria Kuykendall
 g5/thompson_fletcher_fowler.md
 
-Claiborne J. Foster
-b 1834
-d 1898
-f Flavel Foster
-m Mary Amelia Hollingsworth
-o Eunice Burruss
-g5/claiborne_j_foster.md
-
 Sarah Fisher
 b 1821
 d 1872
@@ -387,6 +379,14 @@ f *
 m *
 o Alanson Elliott
 g5/sarah_fisher.md
+
+Claiborne J. Foster
+b 1834
+d 1898
+f Flavel Foster
+m Mary Amelia Hollingsworth
+o Eunice Burruss
+g5/claiborne_jasper_foster.md
 
 Edward Metcalf
 b 1800
@@ -417,7 +417,7 @@ b *
 d *
 f *
 m *
-o Claiborne J. Foster
+o Claiborne Jasper Foster
 g5/eunice_burruss.md
 
 Mary Eleanor Long
@@ -432,7 +432,7 @@ Robert Mortimer Johnson
 b 1845
 d 1918
 f William Johnson
-m Selinda Rankins
+m Salinda Rankin
 o Abby Ann West
 g5/robert_mortimer_johnson.md
 
@@ -731,6 +731,14 @@ m *
 o Mary Baldridge
 g7/thomas_fowler_1770.md
 
+Erastus Latimer
+b 1802
+d 1900
+f Robert Latimer
+m Lucinda Atwell
+o X Y
+g7/erastus_latimer.md
+
 Nancy Johnson
 b 1765
 d 1825
@@ -778,6 +786,14 @@ f William Hackney
 m Alice Nichols Rhodes
 o Absalom Davis
 g8/nancy_anne_hackney.md
+
+Lucinda Atwell
+b 1763
+d 1811
+f Benjamin Atwell
+m Mary Ann Lee
+o Robert Latimer
+g8/lucinda_atwell.md
 
 Mary Williams
 b 1731
@@ -880,12 +896,28 @@ m Rebecca Armstrong (Rankin)
 o Jane Chambers
 g8/william_rankin_1744.md
 
+Robert Latimer
+b 1760
+d 1812
+f Jonathan Latimer
+m Lucretia Griswold
+o Lucinda Atwell
+g8/robert_latimer_1760.md
+
+Mehitable Aldrich
+b 1716
+d 1794
+f *
+m *
+o David Elliott
+g8/mehitable_aldrich.md
+
 David Elliott
 b 1716
 d 1798
-f Daniel J.R. Elliott
+f Daniel Elliott
 m Sarah Provender
-o Mehitable Aldrich
+o [Mehitable Aldrich](../g8/mehitable_aldrich.md)
 g8/david_elliott_1716.md
 
 Mattheus van Kuykendall
@@ -897,12 +929,20 @@ o Jannet Westfall
 g9/mattheus_van_kuykendall.md
 
 Daniel Elliott
-b *
+b 1687
 d *
 f Daniel Elliott
 m Hannah Cloyce
 o Sarah Provender
 g9/daniel_elliott_1687.md
+
+Mary Ann Lee
+b *
+d *
+f *
+m *
+o Benjamin Atwell
+g9/mary_ann_lee.md
 
 Marritjen Westvaal {Mary Westfall}
 b 1685
@@ -1010,6 +1050,22 @@ m Elizabeth Nichols
 o William Hackney
 g9/alice_nichols_rhodes.md
 
+Lucretia Latimer
+b 1731
+d 1820
+f George Griswold
+m Hannah Lynde
+o Jonathan Latimer
+g9/lucretia_griswold.md
+
+Benjamin Atwell
+b 1735
+d 1806
+f Joseph Atwell
+m Martha Comstock
+o Mary Ann Lee
+g9/benjamin_atwell_1735.md
+
 George Rankin
 b 1729
 d 1761
@@ -1017,6 +1073,14 @@ f Robert Rankin
 m Rebecca Armstrong
 o Lydia Steele
 g9/george_rankin.md
+
+Jonathan Latimer
+b 1724
+d 1806
+f Jonathan_Latimer
+m Borodell Denison
+o Lucretia Griswold
+g9/jonathan_latimer_1724.md
 
 George West
 b 1699
@@ -1036,6 +1100,22 @@ m Maria Reid (Rankin)
 o Dorothy Black (Rankin)
 g10/william_rankin_1658.md
 
+Joseph Atwell
+b 1710
+d 1750
+f Benjamin Atwell
+m Mary Roberts
+o Martha Comstock
+g10/joseph_atwell_1710.md
+
+Borodell Denison
+b 1701
+d 1751
+f George Denison
+m May Wetherell
+o Jonathan Latimer
+g10/borodell_denison.md
+
 Thomas West
 b 1662
 d 1708
@@ -1048,7 +1128,7 @@ Godfrey Fowler
 b 1670
 d 1747
 f John William Fowler
-m *
+m Elizabeth Burgess
 o *
 g10/godfrey_fowler_1670.md
 
@@ -1085,6 +1165,15 @@ m *
 o Robert Rankin
 g10/rebecca_armstrong.md
 
+George Griswold
+b 1692
+d 1761
+f Matthew Griswold
+m Phebe Hyde
+o Hannah Linde
+o Elizabeth Graham Lee
+g10/george_griswold.md
+
 Samuel Hollingsworth
 b 1672
 d 1748
@@ -1093,13 +1182,29 @@ m Anne Calvert
 o Hannah Harlan
 g10/samuel_hollingsworth_1672.md
 
+Jonathan Latimer
+b 1698
+d 1778
+f Robert Latimer
+m Elizabeth Buck
+o Borodell Denison
+g10/jonathan_latimer_1698.md
+
 Hannah Cloyce
-b *
-d *
-f Peter Cloyce
+b 1667
+d 1737
+f Peter Cloyes
 m Daniel Elliott
 o Daniel Elliott
 g10/hannah_cloyce.md
+
+name
+b *
+d *
+f *
+m *
+o  
+g10/hannah_lynde.md
 
 Grietje Aerts
 b 1663
@@ -1141,6 +1246,14 @@ m Stijntje Wiggersz Douwes
 o Grietje Aerts
 g10/leur_jacobsen_van_kuykendall.md
 
+Anna Wolcott
+b *
+d *
+f *
+m *
+o  
+g11/anna_wolcott.md
+
 Daniel Elliott
 b 1640
 d 1690
@@ -1153,7 +1266,7 @@ George West
 b 1639
 d 1702
 f Robert West
-m Elizabeth (West)
+m *
 o Susannah Duparks
 g11/george_west_1639.md
 
@@ -1173,6 +1286,23 @@ m *
 o Hannah Barbee
 g11/christopher_rhodes.md
 
+Elizabeth Buck
+b 1670
+d 1752
+f Henry Buck
+m Elizabeth Churchill
+o George Buttolph
+o Robert Latimer
+g11/elizabeth_buck.md
+
+Benjamin Atwell
+b 1668
+d 1725
+f Benjamin Atwell
+m Mary Uncas
+o Mary Roberts
+g11/benjamin_atwell_1668.md
+
 Susannah Duparks
 b 1643
 d 1702
@@ -1189,6 +1319,15 @@ m *
 o Valentine Hollingsworth
 g11/ann_calvert.md
 
+Matthew Griswold
+b 1652
+d 1716
+f Matthew Griswold
+m Anna Wolcott
+o Phebe Hyde
+o Mary DeWolf
+g11/matthew_griswold_1652.md
+
 Valentine Hollingsworth
 b 1632
 d 1710
@@ -1202,9 +1341,28 @@ John William Fowler
 b 1638
 d 1683
 f Christopher Fowler
-m *
-o *
+m Elizabeth Burgess
+o Mary M. Batte (Fowler)
 g11/john_william_fowler.md
+
+Robert Latimer
+b 1664
+d 1728
+f Robert Latimer
+m Ann Griggs
+o Elizabeth Dymond
+o Elizabeth Buck
+g11/robert_latimer_1664.md
+
+Peter Cloyes
+b 1639
+d 1708
+f John Cloyes
+m Abigail Mornings
+o Hannah Littlefield
+o Sarah Towne
+o Susanna Harrington
+g11/peter_cloyes.md
 
 John Rhodes
 b 1620
@@ -1215,6 +1373,32 @@ o Ann Browne
 o *
 g12/john_rhodes.md
 
+John Cloyes
+b 1604
+d 1676
+f Peter Cloyes
+m *
+o Abigail Mornings
+o Julia Spurwell
+o Jane
+g12/john_cloyes.md
+
+Robert Latimer
+b 1603
+d 1671
+f Robert Latimer
+m *
+o Ann Griggs
+g12/robert_latimer_1603.md
+
+Matthew Griswold
+b 1615
+d 1698
+f George Griswold
+m Dousabel Leigh
+o Anna Wolcott
+g12/matthew_griswold_1615.md
+
 Christopher Fowler
 b 1611
 d 1676
@@ -1222,6 +1406,14 @@ f *
 m *
 o *
 g12/christopher_fowler.md
+
+Elizabeth Churchill
+b 1642
+d 1687
+f Josiah Churchill 1615 England
+m Elizabeth Foote 1616 Colchester, Essex, England
+o Henry Buck
+g12/elizabeth_churchill.md
 
 Robert West
 b 1614
@@ -1231,4 +1423,12 @@ m Maudlin Cooke (West)
 o Elizabeth West
 o Mary West
 g12/robert_west.md
+
+Benjamin Atwell
+b 1640
+d *
+f *
+m *
+o  
+g12/benjamin_atwell_1640.md
 

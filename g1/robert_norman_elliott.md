@@ -1,8 +1,8 @@
 <gen=g1>
 
-<b>William Michael Elliott</b>
+<b>Robert Norman Elliott</b>
 
-b 1953 Los Angeles, CA
+b 1958 Los Angeles, CA
 
 d 
 
@@ -12,8 +12,9 @@ m [Jean Francis Foster](../g2/jean_francis_foster.md)
 
 <hr>
 
-o Nancy Klauber
+o Dana
 
-- [Jessie Marin Elliott](../g0/jessie_marin_elliott.md)
- 
+- Liam 1992
+- Clare 1994
+
 <hr>

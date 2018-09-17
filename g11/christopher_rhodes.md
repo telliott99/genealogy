@@ -22,4 +22,4 @@ o Hannah Barbee
 
 o 1660
 
-[wikitree](https://www.wikitree.com/wiki/Rhodes-813)
+[wikitree](https://www.wikitree.com/wiki/Rhodes-813) 

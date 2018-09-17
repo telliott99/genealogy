@@ -16,7 +16,7 @@ o [Flavel Foster](flavel_foster.md)
 
 - Emily Caroline (Gibbs) 1829-1857
 - [James Martin Foster](../g5/james_martin_foster_1831.md)
-- [Claiborne J. Foster](../g5/claiborne_j_foster.md)
+- [Claiborne Jasper Foster](../g5/claiborne_jasper_foster.md)
 - [Jacob Flavel Foster](../g5/jacob_flavel_foster.md)
 
 <hr>
@@ -28,5 +28,3 @@ Parents buried at Keatchie, LA, Hollingsworth Cemetery?
 Grave marker inscriptions notarized and sent with Bogan application.  Bogan says Sep 28 for Sarah's death.
 
 Find a Grave doesn't list her as offspring.
-
-

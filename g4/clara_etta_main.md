@@ -16,7 +16,7 @@ o [David Marion Elliott](david_marion_elliott.md)
 
 - [Alanson C. Elliott](../g3/alanson_c_elliott.md)
 - [James Edgar Elliott](../g3/james_edgar_elliott.md) 1890-1940
-- [Rosa Mae Elliott](../g3/rosa_may_elliott.md) (Mack) 1892-1982
+- [Rosa Mae Elliott](../g3/rosa_may_elliott.md) 1892-1982 (Mack)
 
 <hr>
 

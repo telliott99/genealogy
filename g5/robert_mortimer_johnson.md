@@ -4,11 +4,11 @@
 
 b Dec 28 1845 AR
 
-Sep 13 1918 Llano, Randall Co., TX
+d Sep 13 1918 Llano, Randall Co., TX
 
 f William Johnson
 
-m Selinda Rankins
+m Salinda Rankin
 
 <hr>
 

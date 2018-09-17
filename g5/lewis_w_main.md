@@ -22,11 +22,12 @@ o [Lydia Catherine Roberts](lydia_catherine_roberts.md)
 
 <hr>
 
+[grave](https://www.findagrave.com/memorial/76746881/lewis-w-main)
+
 o1 Matilda b Nov 03 1840 d Mar 31 1873
 
 Buried at Westview Cemetery
 Prairie City, Jasper County, Iowa, USA
 
-[grave](https://www.findagrave.com/memorial/76746881/lewis-w-main)
 
 "Main" not found in 1860 census Parke Co.

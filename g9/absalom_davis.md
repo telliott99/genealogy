@@ -6,7 +6,7 @@ b 1720 VA or NC
 
 d 1807 Elbert Co., GA
 
-f [Richard Davis](../g9/richard_davis.md) 1688 VA or Wales - 1760 NC
+f [Richard Davis](../g10/richard_davis.md) 1688 VA or Wales - 1760 NC
 
 m Elizabeth
 

@@ -6,7 +6,7 @@ b Jan 05 1873 Shreveport, Caddo Parish, LA
 
 d Jan 18 1910 El Paso, TX
 
-f [Claiborne J. Foster](../g5/claiborne_j_foster.md)
+f [Claiborne Jasper Foster](../g5/claiborne_jasper_foster.md)
 
 m [Eunice Burruss](../g5/eunice_burruss.md)
 

@@ -2,13 +2,13 @@
 
 <b>David Elliott</b>
 
-Feb 03 1744 Uxbridge, Essex, MA
+b Feb 03 1744 Uxbridge, Essex, MA
 
-Aug 03 1793 Kingsbury, Washington Co., NY
+d Aug 03 1793 Kingsbury, Washington Co., NY
 
 f [David Elliott](../g8/david_elliott_1716.md) 1716-1793
 
-m Mehitable Aldrich
+m [Mehitable Aldrich](../g8/mehitable_aldrich.md)
 
 <hr>
 

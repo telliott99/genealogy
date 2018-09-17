@@ -2,17 +2,17 @@
 
 <b>David Elliott</b>
 
-Mar 03 1716 Sutton, Worcester, MA
+b Mar 03 1716 Sutton, Worcester, MA
 
-May 11 1798 Kingsbury, Washington Co., New York
+d May 11 1798 Kingsbury, Washington Co., New York
 
-f [Daniel J.R. Elliott](../g9/daniel_elliott_1687.md)
+f [Daniel Elliott](../g9/daniel_elliott_1687.md)
 
 m Sarah Provender
 
 <hr>
 
-o  Mehitable Aldrich
+o  [Mehitable Aldrich](../g8/mehitable_aldrich.md)
 
 - Sarah
 - Daniel

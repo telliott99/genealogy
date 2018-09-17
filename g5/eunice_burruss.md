@@ -12,7 +12,7 @@ m
 
 <hr>
 
-o [Claiborne J. Foster](../g5/claiborne_j_foster.md)
+o [Claiborne Jasper Foster](../g5/claiborne_jasper_foster.md)
 
 - [Jacob Flavel Foster](../g4/jacob_flavel_foster_1873.md)
 

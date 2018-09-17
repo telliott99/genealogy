@@ -8,7 +8,7 @@ d May 1747 Henrico Co., VA
 
 f [John William Fowler](../g11/john_william_fowler.md) 1638-1683
 
-m 
+m Elizabeth Burgess
 
 <hr>
 
@@ -18,3 +18,4 @@ o
 
 <hr>
 
+[wikitree](https://www.wikitree.com/wiki/Fowler-304)

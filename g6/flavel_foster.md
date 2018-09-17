@@ -4,7 +4,7 @@
 
 b Dec 07 1801 GA
 
-d Jan 05 1869 Arlatex, Caddo Parish, LA
+d Jan 05 1869 Arklatex, Caddo Parish, LA
 
 f
 
@@ -17,7 +17,7 @@ o [Mary Amelia Hollingsworth](mary_amelia_hollingsworth.md)
 
 - Emily Caroline (Gibbs) 1829-1857
 - [James Martin Foster](../g5/james_martin_foster_1831.md)
-- [Claiborne J. Foster](../g5/claiborne_j_foster.md)
+- [Claiborne Jasper Foster](../g5/claiborne_jasper_foster.md)
 - [Jacob Flavel Foster](../g5/jacob_flavel_foster.md)
 - Mary Frances (Foster)
 <hr>

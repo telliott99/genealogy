@@ -2,7 +2,7 @@
 
 <b>Jacob Flavel Foster</b>
 
-b --
+b
 
 d May 02 1863 Chancellorsville, VA
 
