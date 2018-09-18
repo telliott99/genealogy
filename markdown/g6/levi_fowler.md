@@ -28,4 +28,4 @@ used for rest of the family tree.
 
 [grave](https://www.findagrave.com/memorial/49713508/levi-fowler)
 
-<img src="../figs/levi_fowler.jpg"  style="width: 250px;" />
+<img src="../../figs/levi_fowler.jpg"  style="width: 250px;" />

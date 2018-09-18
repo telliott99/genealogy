@@ -26,6 +26,6 @@ o Hannah Harlan
 
 o 1701
 
-Find a grave has a page from a history of the Harlan family with details.  The [will](../figs/samuel_hollingsworth_will.jpg) is from 1648 as well.
+Find a grave has a page from a history of the Harlan family with details.  The [will](../../figs/samuel_hollingsworth_will.jpg) is from 1648 as well.
 
 I was confused because his son named Samuel died in 1751.

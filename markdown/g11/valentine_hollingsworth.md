@@ -38,7 +38,7 @@ o2 Apr 12 1672 Ireland
 
 Valentine is buried at Neward Union Cemetery.  The marker is pretty big.  He is described in a family history (see son Samuel) as a native of Cheshire, England, but emigrated from Armagh.
 
-<img src="../figs/valentine_hollingsworth.jpg" style="width: 200px;" />
+<img src="../../figs/valentine_hollingsworth.jpg" style="width: 200px;" />
 
 According to [this](../family_data/Hollingsworth/hh_summer12.pdf)
 

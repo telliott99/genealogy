@@ -34,7 +34,7 @@ Buried at Oakland Cemetery, Shreveport.
 
 Bio in [ref](https://www.findagrave.com/memorial/48101031/mary-ellen-foster)
 
-<img src="../figs/Mary_Ellen_Long.jpg" style="width: 200px;" />
+<img src="../../figs/Mary_Ellen_Long.jpg" style="width: 200px;" />
 
 Moved from the plantation to Shreveport when first five children were young (11 altogether).  House was called "Curraghmuir".
 

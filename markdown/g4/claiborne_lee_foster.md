@@ -22,5 +22,5 @@ Buried at Oakland Cemetery, Shreveport.
 
 Graduate of West Point, class of 1888.  Died while on duty at Fort Reno, Indian Territory, from a fever, according to [ref](https://books.google.com/books?id=UeO2CwAAQBAJ&dq=claiborne+lee+foster&source=gbs_navlinks_s)
 
-<img src="../figs/claiborne_lee_foster.png" style="width: 300px;" />
+<img src="../../figs/claiborne_lee_foster.png" style="width: 300px;" />
 

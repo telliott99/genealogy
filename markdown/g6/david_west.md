@@ -48,10 +48,10 @@ Dover, Pope County, AS.
 
 Find a [grave](https://www.findagrave.com/memorial/31169496/david-west) shows him as Major David West.  The page lists Abbie Ann West (Johnson) as a daughter.
 
-The of spouses and children are taken from extensive commentary on that page.  I printed that out so [here](../gravestones/Maj David West Memorial.pdf) so as not to lose it.
+The of spouses and children are taken from extensive commentary on that page.  I printed that out so [here](../../gravestones/Maj David West Memorial.pdf) so as not to lose it.
 
-Also [data](../family_data/johnson/david_west.txt)
+Also [data](../../family_data/johnson/david_west.txt)
 
 He fought with Andrew Jackson at the Battle of New Orleans 1815, also fought in the War with Mexico.
 
-<img src="../figs/david_west.jpg" style="width: 200px;" />
+<img src="../../figs/david_west.jpg" style="width: 200px;" />

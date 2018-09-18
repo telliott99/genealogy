@@ -38,6 +38,6 @@ March 6 1903
 
 This picture is from Find a grave.
 
-<img src="../figs/john_bell_west.jpg" style="width: 200px;" />
+<img src="../../figs/john_bell_west.jpg" style="width: 200px;" />
 
 

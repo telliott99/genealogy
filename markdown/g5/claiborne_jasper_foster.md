@@ -22,7 +22,7 @@ Eunice Burruss 1843-1930
 
 [grave](https://www.findagrave.com/memorial/10610925/claiborne-jasper-foster)
 
-<img src="../figs/Claiborne_J_Foster.jpg" style="width: 200px;" />
+<img src="../../figs/Claiborne_J_Foster.jpg" style="width: 200px;" />
 
 Captain, Co. G, 27th Regiment of Louisiana Infantry, Gen F.A. Shoup's brigade, M.L. Smith's division, Army of Mississippi.  Commended for gallantry at the siege of Vicksburg (May 18-Jun 4 1863).  Captured and paroled.  Exchanged 1864.
 

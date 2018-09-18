@@ -29,7 +29,7 @@ o [Mary Eleanor Long](mary_eleanor_long.md)
 
 [grave](https://www.findagrave.com/memorial/48101097/james-martin-foster)
 
-<img src="../figs/JM_Foster.jpg" style="width: 200px;" />
+<img src="../../figs/JM_Foster.jpg" style="width: 200px;" />
 
 Buried at Oakland Cemetery, Shreveport.
 
