@@ -1,14 +1,14 @@
-<gen=9>
+<gen=g9>
 
-<b>Mary Ann Lee</b>
+<b>Mary Ann Lee</b> <b>(Atwell)</b>
 
-b
+b Nov 13 1738 Lyme, New London, CT
 
-d 
+d 1835
 
-f
+f [Benjamin Lee](../g10/benjamin_lee.md)
 
-m 
+m [Mary Ely](../g10/mary_ely.md)
 
 <hr>
 
@@ -18,4 +18,4 @@ o [Benjamin Atwell](../g9/benjamin_atwell_1735.md)
 
 <hr>
 
-
+[wikitree](https://www.wikitree.com/wiki/Lee-2513)

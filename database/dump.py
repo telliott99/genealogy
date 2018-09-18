@@ -4,9 +4,10 @@ u = '/Users/telliott_admin'
 p = u + '/Dropbox/Github/genealogy'
 
 L = list()
-dirs = [p + '/g' + str(n) for n in range(13)]
+dirs = [p + '/g' + str(n) for n in range(15)]
 for d in dirs:
     sL = [d + '/' + f for f in os.listdir(d) if not f[0] == '.']
+    sL.sort()
     L.extend(sL)
 
 D = dict()
@@ -37,7 +38,7 @@ def extract_year(s):
     
 
 
-def process(data, f):
+def process(data, fn):
     part1,part2,part3 = data.strip().split('<hr>')
     
     sL = part1.strip().split('\n')
@@ -65,18 +66,20 @@ def process(data, f):
     else:
         for line in spouseL:
             print 'o ' + extract_name(line)
-    f = f.split('/',6)[-1]
+    f = fn.split('/',6)[-1]
     print f
     print
-    
-for f in L:
-    fh = open(f)
-    data = fh.read().strip()
-    fh.close()
-    try:
-        process(data,f)
-    except:
-        print data
-        sys.exit()
 
-    
+def run():
+    for fn in L:
+        fh = open(fn)
+        data = fh.read().strip()
+        fh.close()
+        try:
+            process(data,fn)
+        except:
+            print data
+            sys.exit()
+
+if __name__ == "__main__":
+    run()

@@ -4,7 +4,7 @@
 
 b Jun 07 1643 County Antrim, Ireland
 
-d 1702 Sussex, MD 
+d 1702 Sussex, DE 
 
 f 
 
@@ -19,7 +19,7 @@ o [George West](../g11/george_west_1639.md)
 
 <hr>
 
-[https://www.geni.com/people/Susannah-West/6000000078953936906)
+[geni](https://www.geni.com/people/Susannah-West/6000000078953936906)
 
 
 

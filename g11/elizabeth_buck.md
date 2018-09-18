@@ -18,7 +18,7 @@ o George Buttolph
 - Elizabeth 
 - Joseph
 
-o [Robert Latimer](../g12/robert_latimer_1664.md)
+o [Robert Latimer](../g11/robert_latimer_1664.md)
 
 - [Jonathan Latimer](../g10/jonathan_latimer_1698.md)
 - Samuel

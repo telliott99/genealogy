@@ -6,7 +6,7 @@ b Aug 13 1692 Lyme, New London, CT
 
 d Oct 14 1761 Lyme, New London, CT
 
-f [Matthew Griswold](../g11/matthew_griswold.md)
+f [Matthew Griswold](../g11/matthew_griswold_1652.md)
 
 m Phebe Hyde
 

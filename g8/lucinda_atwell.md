@@ -8,7 +8,7 @@ d 1811 Sumner, TN
 
 f [Benjamin Atwell](../g9/benjamin_atwell_1735.md)
 
-m Mary Ann Lee
+m [Mary Ann Lee](../g9/mary_ann_lee.md) (Atwell)
 
 <hr>
 

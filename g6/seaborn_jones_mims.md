@@ -1,6 +1,6 @@
 <gen=g6>
 
-<b>Seaborn Mims</b>
+<b>Seaborn Jones Mims</b>
 
 b Apr 13 1787 Lincoln Co., GA
 
@@ -24,3 +24,4 @@ o Jun 27 1808 Columbia Co., GA
 
 [ref](http://genweb.jrac.com/genweb.php?DB=gwdb33&ID=I31319&query=li)
 
+There is a [grave](https://www.findagrave.com/memorial/60169389/seaborn-jones-mims) stone which has b 1788, d 1832.  Marker is pretty clear.  However, that ref has Edgefield, Edgefield County, SC for birth and death.

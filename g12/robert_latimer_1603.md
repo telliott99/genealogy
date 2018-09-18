@@ -15,7 +15,8 @@ m
 o Ann Griggs
 
 - [Robert Latimer](../g11/robert_latimer_1664.md)
-- Elizabeth Prentis
+- Elizabeth (Prentis)
 
 <hr>
 
+o Sep 01 1662 Charlestown, Suffolk, MA

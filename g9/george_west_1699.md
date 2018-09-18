@@ -28,7 +28,7 @@ o1 1705 MD
 
 Sara Lowe born c.1700-
 
-[ref](https://www.geni.com/people/George-West/6000000004882335061)
+[geni](https://www.geni.com/people/George-West/6000000004882335061)
 
 > George West left a will, dated 25 Jan 1755, and proved 5 Mar 1760 in Worcester County Maryland. It names wife Betty; and sons George, Levi, Elias, Elijah, and Amos; and daughters Mary Goodwin, Jemima West, Comfort West, and Joyce.
 

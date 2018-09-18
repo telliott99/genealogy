@@ -6,7 +6,7 @@ b Mar 26 1731 Lyme, New London, CT
 
 d Jul 14 1820 Sumner, TN
 
-f [George Griswold](../g10/george_griswold_.md)
+f [George Griswold](../g10/george_griswold.md)
 
 m Hannah Lynde
 

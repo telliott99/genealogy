@@ -8,7 +8,7 @@ d Nov 29 1728 New London, CT
 
 f [Robert Latimer](../g12/robert_latimer_1603.md)
 
-m Ann Griggs
+m [Ann Griggs](../g12/ann_griggs.md)
 
 <hr>
 
@@ -25,9 +25,11 @@ o [Elizabeth Buck](elizabeth_buck.md)
 
 <hr>
 
-Capt.
+Known as Capt. Latimer.
 
 Buried at Ancient Cemetery, 
 New London, New London County, CT
 
 [ref](https://www.wikitree.com/wiki/Latimer-79)
+
+o2 1659 New London, CT

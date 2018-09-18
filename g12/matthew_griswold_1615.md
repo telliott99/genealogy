@@ -2,7 +2,7 @@
 
 <b>Matthew Griswold</b>
 
-b 1615
+b c.1615 Kenilworth, Warwickshire, England
 
 d Sep 21 1698 Lyme, New London, CT
 

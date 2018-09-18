@@ -14,6 +14,6 @@ m [Jean Francis Foster](../g2/jean_francis_foster.md)
 
 o Nancy Klauber
 
-- [Jessie Marin Elliott](../g0/jessie_marin_elliott.md)
+- [Jessie Marin Elliott](../g0/jessica_marin_elliott.md)
  
 <hr>

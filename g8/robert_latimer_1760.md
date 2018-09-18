@@ -11,7 +11,7 @@ f [Jonathan Latimer](../g9/jonathan_latimer_1724.md)
 m [Lucretia Griswold](../g9/lucretia_griswold.md)
 <hr>
 
-o [Lucinda Atwell](../g8/lucinda_atwell.md)
+o [Lucinda Atwell](../g8/lucinda_atwell.md) (Latimer)
 
 - Nancy Louise (Mitchell)
 - Betsy

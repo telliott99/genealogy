@@ -4,7 +4,7 @@
 
 b May 15 1642 Wethersfield, Hartford Co., CT
 
-d d. Feb, 1687
+d d. Feb, 1687 Wethersfield, Hartford Co., CT
 
 f Josiah Churchill 1615 England
 
@@ -14,7 +14,15 @@ m Elizabeth Foote 1616 Colchester, Essex, England
 
 o Henry Buck
 
+- Ruth (Smith)
+- Henry
+- Samuel
+- Martha (Deming)
 - [Elizabeth Buck](../g11/elizabeth_buck.md) (Latimer)
+- Mary (Buttolph)
+- Jonah
+- Ebenezer
+- Mehitable (Alexander)
 
 <hr>
 

@@ -26,11 +26,14 @@ The third section is for any other data or references (or even pictures of peopl
 
 I have written a Python script to collect all the data (scrape) from the directories here and write it to a single text file [here](database/db.txt).  It looks like this:
 
-```g1
+```
 Thomas Anthony Elliott
-Thomas Anthony Elliott 1955-*
-Norman Elliott
-Jean Francis Foster
+b 1955
+d *
+f Norman Elliott
+m Jean Francis Foster
+o Meenal Bhopatkar
+o Joan Carlyn Olson
 g1/thomas_anthony_elliott.md
 ```
 
@@ -78,9 +81,9 @@ The same output for my father's side shows how much work there is left to do.  T
 
 I have found both parents for 9/16 of the g5 generation.  Altogether I have data for about 50 individuals beyond g5.
 
-I have confirmation that Alanson Elliott's father David's father was a well-known David Elliott with a family extending to about 1651.  It is believed that Daniel Elliott was transported to the colonies after being on the losing side (he fought for the crown) in one of the battles the Scots fought against Cromwell in 1651.  His son is famous for testimony at the witchcraft trials in Salem.
+I have confirmation that Alanson Elliott's father David's father was a well-known David Elliott with a family extending to about 1651.  It is believed that Daniel Elliott was transported to the colonies after being on the losing side (he fought for the Crown) in one of the battles the Scots fought against Cromwell in 1651.  His son is famous for testimony at the witchcraft trials in Salem.
 
-As you may know, T.F. Fowler had the very good sense to spend the Civil War in California.  His second son with his first wife was born there.
+As you may know, T.F. Fowler had the very good sense to spend the Civil War in California.  His second son with his first wife was born there.  After returning to Texas and marrying Minnie Kuykendall, he went back to California again, and his son Eugene was born in Sacramento in 1870.
 
 I found Mama Gussie's mother's family.  Her mother was Abby Ann West and her grandfather was Major David West.  He fought with Andy Jackson at the battle of New Orleans.
 

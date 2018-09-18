@@ -6,16 +6,21 @@ b Apr 19 1792 GA
 
 d Oct 14 1842 Livingston, Sumter Co., AL
 
-f
+f Ephraim Saunders
 
-m
+m Ann McCarty {Nancy}
 
 <hr>
 
-o [Seaborn Mims](seaborn_mims.md)
+o [Seaborn Jones Mims](seaborn_jones_mims.md)
 
 - [Alabama Frances Mims](../g5/alabama_frances_mims.md)
 
 <hr>
 
 o Jun 27 1808 Columbia Co., GA
+
+f 14 Mar 14 1760, Lancaster County, V
+f Nov 1796, Columbia County, Georgia, USA
+
+m b Nov 20 1761, VA d Aug 07 1798, G

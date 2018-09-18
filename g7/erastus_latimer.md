@@ -4,7 +4,7 @@
 
 b 1802 CT
 
-d 1900 West-Vlaanderen, Belgiu
+d 1900 West-Vlaanderen, Belgium
 
 f [Robert Latimer](../g8/robert_latimer_1760.md)
 
@@ -21,5 +21,3 @@ o X Y
 [ref](https://wc.rootsweb.com/cgi-bin/igm.cgi?op=GET&db=rednlh&id=I32346)
 
 Lucinda raised by sister of Erastus, Anna.
-
-Parents:

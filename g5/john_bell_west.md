@@ -12,7 +12,7 @@ m [Lucinda Latimer](../g6/lucinda_latimer.md) (West) 1821-1903
 
 <hr>
 
-o Margaret Ellen Phillips
+o Margaret Ellen Phillipps
 
 - Mary Ruth (Neal) 1881-1968
 - David 1886-1962
@@ -21,6 +21,8 @@ o Margaret Ellen Phillips
 - Dewey 1898-1983
 
 <hr>
+
+o b Feb 4 1861 d Aug 19 1947
 
 Buried at McFadden Cemetery
 Dover, Pope County, Arkansas, USA
@@ -33,6 +35,8 @@ Invested in railroad from Russellville via Taral to Dover
 
 The Railway Age
 March 6 1903
+
+This picture is from Find a grave.
 
 <img src="../figs/john_bell_west.jpg" style="width: 200px;" />
 

@@ -12,11 +12,13 @@ m Mary Roberts
 
 <hr>
 
-o Martha Comstock
+o [Martha Comstock](../g10/martha_comstock.md)
 
-- [Benjamin Atwell](../g9/benjamin_atwell_1668.md)
+- [Benjamin Atwell](../g9/benjamin_atwell_1735.md)
 - Delight
 - Joseph
 
 <hr>
+
+[wikitree](https://www.wikitree.com/wiki/Atwell-348)
 

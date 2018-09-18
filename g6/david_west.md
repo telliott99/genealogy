@@ -24,7 +24,7 @@ o Millet Payne {Milly}
 - Eliza Ann
 - Victoria Alexander
 
-o Lucinda Lattimer
+o [Lucinda Latimer](../g6/lucinda_latimer.md) (West)
 
 - Erastus Latimore
 - Tryphenia
@@ -41,8 +41,17 @@ o1 Nov 11 1816 Cross Plains, Robertson Co., TN
 
 o2 May 11 1841 Dover, Pope Co., AS
 
-[grave](https://www.findagrave.com/memorial/31169496/david-west)
+o2 given as Latimore or Lattimer, should be Latimer.
 
-[data](../family_data/johnson/david_west.txt)
+Buried at Old Lake Cemetery
+Dover, Pope County, AS.
+
+Find a [grave](https://www.findagrave.com/memorial/31169496/david-west) shows him as Major David West.  The page lists Abbie Ann West (Johnson) as a daughter.
+
+The of spouses and children are taken from extensive commentary on that page.  I printed that out so [here](../gravestones/Maj David West Memorial.pdf) so as not to lose it.
+
+Also [data](../family_data/johnson/david_west.txt)
+
+He fought with Andrew Jackson at the Battle of New Orleans 1815, also fought in the War with Mexico.
 
 <img src="../figs/david_west.jpg" style="width: 200px;" />

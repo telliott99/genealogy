@@ -8,7 +8,7 @@ d Jan 13 1716 Lyme, New London, CT
 
 f [Matthew Griswold](../g12/matthew_griswold_1615.md)
 
-m Anna Wolcott
+m [Anna Wolcott](../g12/anna_wolcott.md)
 
 <hr>
 

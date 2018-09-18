@@ -25,3 +25,7 @@ o [Borodell Denison](../g10/borodell_denison.md)
 
 <hr>
 
+Known as Capt. Latimer.
+
+o Apr 06 1721
+

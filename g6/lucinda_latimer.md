@@ -14,7 +14,7 @@ m
 
 o [David West](david_west.md)
 
-- Erastus Latimore
+- Erastus
 - Tryphenia
 - Andrew North
 - Alexader Hamilton
@@ -32,9 +32,9 @@ Dover, Pope County, Arkansas, USA
 
 [grave](https://www.findagrave.com/memorial/31169554/lucinda-west)
 
-Father is possibly [wikitree](https://www.wikitree.com/wiki/Latimer-103), he would be 18 or 19, and mother Lucinda.
+Father is Erastus Latimer [wikitree](https://www.wikitree.com/wiki/Latimer-103), he would be 18 or 19, and mother Lucinda.
 
-According to [this](https://wc.rootsweb.com/cgi-bin/igm.cgi?op=GET&db=rednlh&id=I32346), that is correct.
+Also, according to [this](https://wc.rootsweb.com/cgi-bin/igm.cgi?op=GET&db=rednlh&id=I32346).
 
 Possible sibs:
 

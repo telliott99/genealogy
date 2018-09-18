@@ -47,7 +47,7 @@ for e in data:
 
 # problem:  with duplicate names, unknown keys
 # must search for more 
-# use birth year
+# use birth year (could use generation easily too)
 
 # the year requirement is for initial search
 # the generation requirement is for tree building
@@ -56,6 +56,7 @@ for e in data:
 
 def key_for_value(property, value, g=None, year=None, strict=False):
     # do not need to have the full name
+    value = value.lower()
     for k in D:
         sD = D[k]
         if g and not sD['gen'] == g:
@@ -63,7 +64,7 @@ def key_for_value(property, value, g=None, year=None, strict=False):
         if year and not sD['born'] == year:
             continue
         if not strict:
-            if value in sD[property]:
+            if value in sD[property].lower():
                 return k
         else:
             if value == sD[property]:
@@ -79,7 +80,7 @@ def get_parent(k_in, kind='father'):
         return None
                 
     t = None
-    #t = "Abner Kuykendall"
+    #t = "Martha Comstock"
     
     # restrict name search to the previous generation
     curr_gen = D[k_in]['gen']
@@ -101,17 +102,22 @@ def get_parent(k_in, kind='father'):
     if t and t in k_in:
         print "get parents"
         print curr_gen
-        print k_in
-        print k 
-        print n
-
+        print 'k_in', k_in
+        print 'k', k 
+        print 'n', n
+    if k == '*':
+        return None
     return k
  
 def pp(k,level):
     sp = ' ' * 3
     if k:
-        print sp * level + k
+        try:
+            print sp * level + k + ' - g' + D[k]['gen']
+        except KeyError:
+            print sp * level + k
     else:
+        # pass
         print sp * level + '*'
 
 def get_parents(k):
@@ -125,14 +131,13 @@ k = key_for_value('name', input, year=y, strict=False)
 if not k in D:
     print "Not found"
     sys.exit()
-
-print k
+pp(k,0)
 
 f,m = get_parents(k)
 for p in f,m:
-    pp(p,1)
     if not p:
         continue
+    pp(p,1)
     gf, gm = get_parents(p)
 
     for gp in gf,gm:
@@ -142,15 +147,15 @@ for p in f,m:
        ggf, ggm = get_parents(gp)
     
        for ggp in ggf,ggm:
-           pp(ggp,3)
            if not ggp:
                continue
+           pp(ggp,3)
            gggf, gggm = get_parents(ggp) 
            
            for gggp in gggf,gggm:
-               pp(gggp,4)
                if not gggp:
                    continue
+               pp(gggp,4)
                ggggf, ggggm = get_parents(gggp)
                pp(ggggf,5)
                pp(ggggm,5)

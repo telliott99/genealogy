@@ -18,4 +18,4 @@ o [Mary Ann Lee](../g9/mary_ann_lee.md)
 
 <hr>
 
-
+[wikitree](https://www.wikitree.com/wiki/Atwell-534)

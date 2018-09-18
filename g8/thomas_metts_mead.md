@@ -12,7 +12,7 @@ m
 
 <hr>
 
-o Hannah Mead
+o [Hannah Mead](../g8/hannah_mead.md)
 
 - Tryphenia Metts (West)
 - Barbara
@@ -21,6 +21,8 @@ o Hannah Mead
 - Thomas
 
 <hr>
+
+possibly Metz
 
 o 1735-1821 Carteret Co., NC
 

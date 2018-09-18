@@ -4,7 +4,7 @@
 
 b 1662 VA
 
-d Jun 05 1708 Sussex, MD 
+d Jun 05 1708 Sussex, MD (DE, MD)
 
 f [George West](../g11/george_west_1639.md)
 
@@ -24,7 +24,9 @@ o Elizabeth (West)
 
 <hr>
 
-[https://www.geni.com/people/Thomas-West/6000000009492676099)
+[geni](https://www.geni.com/people/Thomas-West/6000000009492676099)
+
+o b 1690
 
 
 

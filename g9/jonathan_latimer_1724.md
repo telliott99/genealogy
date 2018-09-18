@@ -8,7 +8,7 @@ d Oct 13 1806 Sumner, TN
 
 f [Jonathan_Latimer](../g10/jonathan_latimer_1698.md)
 
-m [Borodell Denison](../g9/borodell_denison.md)
+m [Borodell Denison](../g10/borodell_denison.md)
 
 <hr>
 
