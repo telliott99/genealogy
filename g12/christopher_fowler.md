@@ -12,7 +12,7 @@ m
 
 <hr>
 
-o
+o [Elizabeth Burgess](../g12/elizabeth_burgess.md)
 
 - [John William Fowler](../g11/john_william_fowler.md)
 

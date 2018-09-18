@@ -104,7 +104,7 @@ b 1900
 d 1982
 f Jacob Flavel Foster
 m Marguerrite Crain
-o Ruth Bratton (Foster)
+o Ruth Bratton
 g3/jacob_flavel_foster_1900.md
 
 James Edgar Elliott
@@ -316,7 +316,7 @@ m Lucinda Latimer
 o Robert Mortimer Johnson
 g5/abby_ann_west.md
 
-Alabama Frances Mims (Davis, Newsom)
+Alabama Frances Mims
 b 1825
 d 1894
 f Seaborn Jones Mims
@@ -330,7 +330,7 @@ b 1815
 d 1859
 f David Elliott
 m Mary Polly Squires
-o [Sarah Fisher](sarah_fisher.md)
+o  [Sarah Fisher
 g5/alanson_elliott.md
 
 Claiborne J. Foster
@@ -471,6 +471,15 @@ o Martha Smithwick
 o Mildred Maria Kuykendall
 g5/thompson_fletcher_fowler.md
 
+Tilman Fowler
+b 1839
+d 1923
+f Thomas Fowler
+m Mary Baldridge
+o Missouri
+o Isabel Ybarra
+g5/tilman_fowler.md
+
 Abner Kuykendall
 b 1807
 d 1867
@@ -607,7 +616,7 @@ b 1800
 d 1835
 f *
 m Elizabeth Foster
-o Amanda Melvina Hollingsworth
+o Amanda Melvina Hollingsworth] 
 g6/richardson_foster.md
 
 Salinda Rankin
@@ -647,7 +656,7 @@ b 1753
 d 1830
 f Levi West
 m Mary Williams
-o Tryphenia Metts Mead (West)
+o Tryphenia Metts Mead 
 g7/andrew_west.md
 
 Daniel Huff
@@ -823,14 +832,14 @@ o Elizabeth Fidle
 o Bathsheba
 g8/abraham_kuykendall.md
 
-Absalom Davis
+Absolom Davis
 b 1720
 d 1807
 f Richard Davis
 m Elizabeth
 o Keziah
 o Nancy Anne Hackney
-g8/absalom_davis.md
+g8/absolom_davis.md
 
 Ambrose Ellis Cook
 b 1772
@@ -845,7 +854,7 @@ b 1716
 d 1798
 f Daniel Elliott
 m Sarah Provender
-o [Mehitable Aldrich](../g8/mehitable_aldrich.md)
+o  [Mehitable Aldrich
 g8/david_elliott_1716.md
 
 Elizabeth Fidle
@@ -933,7 +942,7 @@ b 1723
 d 1780
 f William Hackney
 m Alice Nichols Rhodes
-o Absalom Davis
+o Absolom Davis
 g8/nancy_anne_hackney.md
 
 Philip Huff
@@ -999,7 +1008,7 @@ William Rankin
 b 1744
 d *
 f Robert Rankin
-m Rebecca Armstrong (Rankin)
+m Rebecca Armstrong
 o Jane Chambers
 g8/william_rankin_1744.md
 
@@ -1014,7 +1023,7 @@ g9/absalom_davis.md
 
 Alice Nichols Rhodes
 b 1687
-d *
+d 1726
 f Hezekiah Rhodes
 m Elizabeth Nichols
 o William Hackney
@@ -1168,6 +1177,14 @@ m *
 o Robert Rankin
 g9/rebecca_armstrong.md
 
+Richard Davis
+b 1688
+d 1760
+f Thomas Davis
+m Elizabeth
+o unk
+g9/richard_davis.md
+
 Robert Rankin
 b 1700
 d 1773
@@ -1254,7 +1271,7 @@ b 1670
 d 1747
 f John William Fowler
 m Elizabeth Burgess
-o *
+o Susannah Archer
 g10/godfrey_fowler_1670.md
 
 Grietje Aerts
@@ -1345,14 +1362,6 @@ f *
 m *
 o Robert Rankin
 g10/rebecca_armstrong.md
-
-Richard Davis
-b 1688
-d 1760
-f Thomas Davis
-m Elizabeth
-o *
-g10/richard_davis.md
 
 Robert Rankin
 b 1700
@@ -1520,6 +1529,14 @@ m *
 o George West
 g11/susannah_duparks.md
 
+Thomas Davis
+b 1660
+d 1754
+f Morgan David
+m Catherine Thomas
+o Elizabeth
+g11/thomas_davis.md
+
 Valentine Hollingsworth
 b 1632
 d 1710
@@ -1567,7 +1584,7 @@ b 1611
 d 1676
 f *
 m *
-o *
+o Elizabeth Burgess
 g12/christopher_fowler.md
 
 Daniel Comstock
@@ -1577,6 +1594,14 @@ f *
 m *
 o Paltieh Elderkin
 g12/daniel_comstock.md
+
+Elizabth Burgess
+b 1611
+d *
+f Daniel Burgess
+m Catherine
+o Christopher Fowler
+g12/elizabeth_burgess.md
 
 Elizabeth Burie
 b 1618
@@ -1620,6 +1645,14 @@ f George Griswold
 m Dousabel Leigh
 o Anna Wolcott
 g12/matthew_griswold_1615.md
+
+Morgan David
+b 1634
+d 1694
+f David David
+m Maude Morgan
+o Catherine Thomas
+g12/morgan_david.md
 
 Paltiah Elderkin
 b 1635

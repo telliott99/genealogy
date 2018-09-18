@@ -6,13 +6,13 @@ b 1688 Co. Carmarthen, Wales & Of Caroline Co, VA
 
 d Jun 15 1760 Granville NC
 
-f Thomas Davis
+f [Thomas Davis](../g11/thomas_davis.md)
 
 m Elizabeth
 
 <hr>
 
-o
+o unk
 
 - 12 children including
 

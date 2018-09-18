@@ -12,7 +12,7 @@ m [Lydia Catherine Roberts](../g5/lydia_catherine_roberts.md)
 
 <hr>
 
-o [David Marion Elliott](david_marion_elliott.md)
+o [David Marion Elliott](../g4/david_marion_elliott.md)
 
 - [Alanson C. Elliott](../g3/alanson_c_elliott.md)
 - [James Edgar Elliott](../g3/james_edgar_elliott.md) 1890-1940

@@ -1,12 +1,12 @@
 <gen=g8>
 
-<b>Absalom Davis</b>
+<b>Absolom Davis</b>
 
 b 1720 VA or NC
 
 d 1807 Elbert Co., GA
 
-f [Richard Davis](../g10/richard_davis.md) 1688- 1760
+f [Richard Davis](../g9/richard_davis.md) 1688- 1760
 
 m Elizabeth
 
@@ -17,7 +17,7 @@ o Keziah
 o [Nancy Anne Hackney](../g9/nancy_anne_hackney.md)
 
 - 15 children including
-- [Lewis Cookson Davis](../g8/lewis_cookson_davis.md)
+- [Lewis Cookson Davis](../g7/lewis_cookson_davis.md)
 
 <hr>
 

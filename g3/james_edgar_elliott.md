@@ -12,7 +12,7 @@ m [Clara Etta Main](../g4/clara_etta_main.md)
 
 <hr>
 
-o [Jessie Metcalf](jessie_metcalf.md)
+o [Jessie Metcalf](../g3/jessie_metcalf.md)
 
 - June Elliott 
 - [Norman Elliott](../g2/norman_elliott.md)

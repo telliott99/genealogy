@@ -12,7 +12,7 @@ m [Marguerrite Crain](../g4/marguerrite_crain) (Foster)
 
 <hr>
 
-o Ruth Bratton (Foster)
+o Ruth Bratton
 
 <hr>
 

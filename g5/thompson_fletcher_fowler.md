@@ -29,11 +29,11 @@ o2 Dec 16 1869
 
 Buried at Laughlin Cemetery, Milam Co., TX. 
 
-According to Robin Fowler, came to TX with his father-in-law Noah Smithwick, then they went to California. 
+According to Robin Fowler, came to TX with his father-in-law Noah Smithwick, then he and his brother went to California with Noah, driving cattle.
 
-Sibs: see mother [Dinelah Huff](../g6/dinelah_huff.md).
+Sibs: see mother [Dinelah Huff](../g6/dinelah_huff.md), including [Tilman Fowler](../g5/tilman_fowler.md).  Tilman died in Santa Cruz, CA.
 
-Spent the Civil War in California.  Wylie was born in California.  Charles was sheriff in Santa Cruz, AZ and Chief of Police in Nogales, AZ.  It is likely not a coincidence that [my mother](jean_francis_foster.md) was born in Nogales.
+Spent the Civil War in California.  Wylie was born in California.  Charles was sheriff in Santa Cruz, AZ, and Chief of Police in Nogales, AZ.  It is likely not a coincidence that [my mother](jean_francis_foster.md) was born in Nogales.
 
 Sources:
 
@@ -41,9 +41,6 @@ Sources:
 
 [ref](http://freepages.rootsweb.com/~fowler/genealogy/combined/fam15054.htm)
 
-This ref lists his birth month as May.
+[ref](http://freepages.genealogy.rootsweb.ancestry.com/~fowler/combined/nti42712.htm)  [printout](../family_data/fowler/Thompson_Fletcher_Fowler.pdf)
 
-[ref](http://freepages.genealogy.rootsweb.ancestry.com/~fowler/combined/nti42712.htm)
-
-> Thompson Fletcher Fowler, Husband of Martha Smithwick and later Mildred Maria Kuykendall. Father of Charles L and Wiley (with Martha) and Eugene E and Thompson E (with Maria) Thompson Fletcher Fowler Pioneered the establishment of the Cumberland Presbyterian Church of Temple. The Fowler Gin, Fowler Store, and the domain of Thompson F. Fowler were located about 7 mi E of Bartlett, Texas between the communities of Alligator and Davilla in Althea. The Fowler Ranch with the lookout on the roof was licated here also. Fowler died on the Farm/Ranch 06-14-1886, and his grave in the Laughlin Family Cemetery is marked. ALTHEA, TEXAS. Althea was on Farm Road 487 in the southeastern corner of Bell County. The town was headquarters for farm and ranch operations of the Thompson F. Fowler family; the Fowler General Store and gin operated there. Althea had a store, a gin, a blacksmith shop, and a school in the early twentieth century and a post office between 1900 and 1904. It comprised one business and a population of forty in 1933, and its school, which had been part of the Williamson County School District, was consolidated with the Bartlett district in 1948. In 1964 the population had fallen to ten, and the community was no longer shown on government topographical maps.
-BIBLIOGRAPHY: Bell County Historical Commission, Story of Bell County, Texas (2 vols., Austin: Eakin Press, 1988). Clara Stearns Scarbrough, Land of Good Water: A Williamson County History (Georgetown, Texas: Williamson County Sun Publishers, 1973).
+lists his birth month as May.

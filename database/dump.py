@@ -1,4 +1,4 @@
-import os, sys
+import os, sys, re
 
 u = '/Users/telliott_admin'
 p = u + '/Dropbox/Github/genealogy'
@@ -14,16 +14,51 @@ D = dict()
 
 no_data = '*'
 
-def extract_name(s):
-    if len(s) == 1:
-        return no_data
-    if s[2] == '[':
-        s = s[3:]
-        return s.split(']')[0]
-    else:
-        return s[1:].strip()
+'''
+patterns for names:
+y 
+y *
+y X Y
+y X Y (Z)
+y X c. Y
+y [X Y](../gX/file)
+y [X Y] (../gX/file)
+others?
+'''
 
+def extract_name(t):
+    L = t.split(' ', 1)
+    symbol = L.pop(0)
+    if not L:
+        if not symbol in 'fmo-':
+            print t
+            sys.exit()
+        return no_data
+    s = L[0]
+
+    if not '[' in s:
+        return s.strip()
+        
+    else:
+        # can use '(' and not '(..'
+        # because already returned X Y (Z)
+        name = s.split('(')[0]
+        if not '[' in name and ']' in name:
+            print 'format error', name
+            sys.exit()
+        if name[0] == '[':
+            name = name[1:]
+        if name[-1] == ']':
+            name = name[:-1]
+        return name 
+        
 def extract_year(s):
+    m = re.search('\d\d\d\d', s)
+    if m:
+        return m.group(0)
+    return no_data
+
+'''
     dg = '0123456789 '
     sL = [c for c in s if c in dg]
     try:
@@ -34,9 +69,7 @@ def extract_year(s):
                 return e
     except:
         pass
-    return no_data
-    
-
+'''
 
 def process(data, fn):
     part1,part2,part3 = data.strip().split('<hr>')
@@ -75,11 +108,7 @@ def run():
         fh = open(fn)
         data = fh.read().strip()
         fh.close()
-        try:
-            process(data,fn)
-        except:
-            print data
-            sys.exit()
+        process(data,fn)
 
 if __name__ == "__main__":
     run()

@@ -14,7 +14,12 @@ m Susannah Archer
 
 o Sarah
 
+- Joseph
+- Susannah
+- John
 - [Thomas Fowler](../g8/thomas_fowler_1739.md)
+- Francis
+- Richard
 
 <hr>
 

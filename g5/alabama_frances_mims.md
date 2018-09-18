@@ -1,6 +1,6 @@
 <gen=g5>
 
-<b>Alabama Frances Mims (Davis, Newsom)</b>
+<b>Alabama Frances Mims</b> <b>(Davis, Newsom)</b>
 
 b c.1825
 
@@ -12,7 +12,7 @@ m [Elizabeth Hubbard Saunders](../g6/elizabeth_hubbard_saunders.md) {Betsy}
 
 <hr>
 
-o [Lewis Richard Davis](lewis_richard_davis.md)
+o [Lewis Richard Davis](../g5/lewis_richard_davis.md)
 
 - [Launa Mims Davis](../g4/launa_mims_davis.md)
 

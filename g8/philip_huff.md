@@ -32,4 +32,8 @@ o 1763 Botetourt, VA d 1822 Franklin VA
 
 [wikitree](https://www.wikitree.com/wiki/Huff-94)
 
-Possibly:   The Huff brothers were sons of Philip Hoff who came to Philadelphia from Rotterdam, arriving December 30, 1768. He died in Montgomery Co VA ca 1823.
+The family tradition of Henry HUFF, son of Phillip, that he was of Dutch descent may have some relevance.
+
+[printout](../family_data/fowler/Philip_Huff_wikitree.pdf)
+
+Discounted because the dates are wrong:   The Huff brothers were sons of Philip Hoff who came to Philadelphia from Rotterdam, arriving December 30, 1768. He died in Montgomery Co VA ca 1823.

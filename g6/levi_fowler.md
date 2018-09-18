@@ -14,12 +14,12 @@ m [Mary Baldridge](../g7/mary_baldridge.md)
 
 o [Dinelah Huff](dinelah_huff.md)
 
-- James Henderson
-- [Thompson Fletcher Fowler](../g5/thompson_fletcher_fowler.md)
-- Tillman Fowler
-- Mary Ellen
-- Levi
-- Newton
+- James Henderson 1834-1916
+- [Thompson Fletcher Fowler](../g5/thompson_fletcher_fowler.md) 1836-1886
+- [Tillman Fowler](../g5/tillman_fowler.md) 1839-1923
+- Mary Ellen 1841-1909
+- Levi 1843-1930
+- Newton 1850-1868
 
 <hr>
 

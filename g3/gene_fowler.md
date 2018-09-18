@@ -12,7 +12,7 @@ m [Abigail Augusta Johnson](../g4/abigail_augusta_johnson.md)
 
 <hr>
 
-o [James Heflin Foster](james_heflin_foster.md)
+o [James Heflin Foster](../g3/james_heflin_foster.md)
 
 - [Jean Francis Foster](../g2/jean_francis_foster.md)
 - James Foster

@@ -12,7 +12,7 @@ m Margaret Virginia Whatley
 
 <hr>
 
-o [Lucille Foster](lucille_foster.md)
+o [Lucille Foster](../g3/lucille_foster.md)
 
 - Harney Skofield Bogan, Jr. (Beau)
 - Lucille Bogan (Urbas)

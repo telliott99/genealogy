@@ -45,103 +45,110 @@ for e in data:
 
 #------------------------------------------------
 
-# problem:  with duplicate names, unknown keys
+# problems with duplicated partial duplication of names
 # must search for more 
+
 # use birth year (could use generation easily too)
 
-# the year requirement is for initial search
+# the year is optional, for initial search
 # the generation requirement is for tree building
 
-# strict doesn't work
-
-def key_for_value(property, value, g=None, year=None, strict=False):
-    # do not need to have the full name
+def key_for_value_initial(property, value, year=None):
+    # allow relaxed
     value = value.lower()
+    if value == "Thompson Ernest":
+        print value
+        1/0
+    for k in D:
+        sD = D[k]
+        if year and not sD['born'] == year:
+            continue
+        if value in sD[property].lower():
+            return k
+    return None
+
+def key_for_value_strict(property, value, g=None):
     for k in D:
         sD = D[k]
         if g and not sD['gen'] == g:
             continue
-        if year and not sD['born'] == year:
-            continue
-        if not strict:
-            if value in sD[property].lower():
-                return k
-        else:
-            if value == sD[property]:
-                return k
+        if value == sD[property]:
+            return k
     return None
 
 #----------------------------------------
 
-
 def get_parent(k_in, kind='father'):
-    # key not in D, includes key == None
+    # key not in D, includes key is None
     if not k_in or not k_in in D:
         return None
                 
-    t = None
-    #t = "Martha Comstock"
-    
-    # restrict name search to the previous generation
+    # restrict search to the previous generation
     curr_gen = D[k_in]['gen']
     next_gen = str(int(curr_gen) + 1)
 
-    # find a key or
+    # possibilities:
+    # find a key
     # find only a name (no page)
     # find nothing
        
     n = D[k_in][kind]
     try:
-        k = key_for_value('name', n, g=next_gen)
+        k = key_for_value_strict('name', n, g=next_gen)
         if k == None:
             k = n
     except:
         k = n
-    
-    # debug
-    if t and t in k_in:
-        print "get parents"
-        print curr_gen
-        print 'k_in', k_in
-        print 'k', k 
-        print 'n', n
-    if k == '*':
-        return None
     return k
- 
-def pp(k,level):
-    sp = ' ' * 3
-    if k:
-        try:
-            print sp * level + k + ' - g' + D[k]['gen']
-        except KeyError:
-            print sp * level + k
-    else:
-        # pass
-        print sp * level + '*'
-
+    
 def get_parents(k):
     f = get_parent(k)
     m = get_parent(k, kind="mother")
     return (f,m)
 
 #----------------------------------------
+ 
+# spacing is still not quite right
 
-k = key_for_value('name', input, year=y, strict=False)
+def pp(k, level, gen):
+    if not k:
+        k = '*'
+    sp = '. ' * 2
+    s = sp * level + k
+    
+    # could try harder to find the generation
+    # given just a name
+    if not k == '*':
+        pre = ('g' + str(gen)).rjust(3)
+    else:
+        pre = '   '    
+    print pre, s
+                
+#----------------------------------------
+
+k = key_for_value_initial(
+    'name', input, year=y)
+print "search for: ", input
 if not k in D:
     print "Not found"
     sys.exit()
-pp(k,0)
+    
+g = int(D[k]['gen'])
+ 
+pp(k,0,g)
+
+# Need to replace this with a proper tree
+# and depth first search, level limit
 
 f,m = get_parents(k)
 for p in f,m:
     if not p:
         continue
-    pp(p,1)
+    pp(p,1,g+1)
     gf, gm = get_parents(p)
 
     for gp in gf,gm:
-       pp(gp,2)
+       pp(gp,2,g+2)
        if not gp:
            continue
        ggf, ggm = get_parents(gp)
@@ -149,16 +156,16 @@ for p in f,m:
        for ggp in ggf,ggm:
            if not ggp:
                continue
-           pp(ggp,3)
+           pp(ggp,3,g+3)
            gggf, gggm = get_parents(ggp) 
            
            for gggp in gggf,gggm:
                if not gggp:
                    continue
-               pp(gggp,4)
+               pp(gggp,4,g+4)
                ggggf, ggggm = get_parents(gggp)
-               pp(ggggf,5)
-               pp(ggggm,5)
+               pp(ggggf,5,g+5)
+               pp(ggggm,5,g+5)
 
     
   

@@ -12,7 +12,7 @@ m [Alice Nichols Rhodes](../g9/alice_nichols_rhodes.md)
 
 <hr>
 
-o [Absalom Davis](../g8/absalom_davis.md)
+o [Absolom Davis](../g8/absolom_davis.md)
 
 - 15 children including
 - [Lewis Cookson Davis](../g7/lewis_cookson_davis.md) 1757-1835

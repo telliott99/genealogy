@@ -8,7 +8,7 @@ d
 
 f [Robert Rankin](../g9/robert_rankin_1700.md)
 
-m Rebecca Armstrong (Rankin)
+m Rebecca Armstrong
 
 <hr>
 

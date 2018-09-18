@@ -12,10 +12,14 @@ m Elizabeth Burgess
 
 <hr>
 
-o
+o Susannah Archer
 
 - [Godfrey Fowler](../g9/godfrey_fowler_1710.md)
 
 <hr>
 
+[ref](http://freepages.rootsweb.com/%7Efowler/genealogy/combined/fam05834.htm)
+
 [wikitree](https://www.wikitree.com/wiki/Fowler-304)
+
+o b 1674 England
