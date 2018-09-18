@@ -4,80 +4,11 @@ This project is an attempt to record the genealogy of my family in a central onl
 
 The hope is that this will be revised and extended in the future.
 
-It may look weird if you are not used to it.  The format is [markdown](https://en.wikipedia.org/wiki/Markdown), which supports links but is much easier for humans to write than html.  It allows easy incorporation of a variety of material including photos, text, and external web pages.
+If you view the files as plain text, they may look a little strange if you are not used to it.  You can view the source for the pages as they are here on Github, in any browser.
 
-I have suppressed the birth dates for living individuals, even though I consider this information to be hopelessly exposed to the internet already.
+The format is [markdown](https://en.wikipedia.org/wiki/Markdown), which supports links but is much easier for humans to write than html.  It allows easy incorporation of a variety of material including photos, text, and external web pages.  The pages will be a lot nicer if you use any of a variety of free markdown viewers or editors that are available.
 
 To start exploring, you could look at [my page](g1/thomas_anthony_elliott.md), or browse the folders.
-
-#### Standard notation
-
-There are three sections for each entry.
-
-The first has six invariant lines:  generation as e.g. gen=g6, name in bold, born (b), died (d), father (f), mother (m).  These lines and identifiers are present even if there is no data.  
-
-If a person was known by some familiar name it is added as {name}.  For a woman, her married (husband's) name is given in parentheses.
-
-In the second section are listed marriages (I chose o as the symbol for that, to be distinguished from m for mother), and then children in a list.  If there's a second marriage they are just listed in order.  I decided to separate info on the date and place of marriage and put it in the third section, also marked with an o.
-
-The third section is for any other data or references (or even pictures of people or their gravestones), and for discussion of discrepancies.
-
-#### Database
-
-I have written a Python script to collect all the data (scrape) from the directories here and write it to a single text file [here](database/db.txt).  It looks like this:
-
-```
-Thomas Anthony Elliott
-b 1955
-d *
-f Norman Elliott
-m Jean Francis Foster
-o Meenal Bhopatkar
-o Joan Carlyn Olson
-g1/thomas_anthony_elliott.md
-```
-
-I wrote another Python script to search for a particular individual and then print out ancestors to a given depth.  [in progress]  It looks like this:
-
-```
-> python plot.py -n "James Heflin" -d 4
-g3 .  .  .  James Heflin Foster 1889
-g4 .  .  .  .  William Long Foster 1861
-g5 .  .  .  .  .  James Martin Foster 1831
-g6 .  .  .  .  .  .  Flavel Foster 1801
-g7 .  .  .  .  .  .  .  *
-g7 .  .  .  .  .  .  .  Elizabeth Foster 1777
-g6 .  .  .  .  .  .  Mary Amelia Hollingsworth 1802
-g7 .  .  .  .  .  .  .  Jacob Hollingsworth
-g7 .  .  .  .  .  .  .  Sarah Martin 1783
-g5 .  .  .  .  .  Mary Eleanor Long 1842
-g6 .  .  .  .  .  .  William Long
-g7 .  .  .  .  .  .  .  *
-g7 .  .  .  .  .  .  .  *
-g6 .  .  .  .  .  .  Emily C. Boggs
-g7 .  .  .  .  .  .  .  John Boggs
-g7 .  .  .  .  .  .  .  Hannah Maria Cook 1802
-g4 .  .  .  .  Launa Mims Davis 1865
-g5 .  .  .  .  .  Lewis Richard Davis 1827
-g6 .  .  .  .  .  .  James C. Davis 1801
-g7 .  .  .  .  .  .  .  Lewis Cookson Davis 1757
-g7 .  .  .  .  .  .  .  Sarah Sally Perkins 1777
-g6 .  .  .  .  .  .  Elizabeth Davis 1805
-g7 .  .  .  .  .  .  .  *
-g7 .  .  .  .  .  .  .  *
-g5 .  .  .  .  .  Alabama Frances Mims 1825
-g6 .  .  .  .  .  .  Seaborn Jones Mims 1787
-g7 .  .  .  .  .  .  .  Shadrach Mims 1764
-g7 .  .  .  .  .  .  .  Elizabeth Kirkham 1751
-g6 .  .  .  .  .  .  Elizabeth Hubbard Saunders 1792
-g7 .  .  .  .  .  .  .  Ephraim Saunders
-g7 .  .  .  .  .  .  .  Ann McCarty {Nancy}
->
-```
-
-We see only five missing values, for individuals who should be there (at this depth of search), but the names are not known.
-
-The same output for my father's side shows how much work there is left to do.  The only name I have beyond what he uncovered is Alanson Elliott's father, and he already knew that too.
 
 ####  Some highlights:
 
@@ -94,3 +25,7 @@ Our ancestors include an Abner Kuykendall who is not the famous one of Stephen A
 I connected James Martin Foster (James Heflin's grandfather) with her mother, a Hollingsworth.  J.M.'s brother Flavel was killed at the Battle of Chancellorsville, 1864.  Several more ancestors were in the Confederate army.
 
 I have Fowler, Hollingsworth and Kuykendall back to the immigrants in the 1600s.  One was here in 1646.  His name was Jacob Luursen van Kuykendall.  Actually, he was Jacob Luursen and he came from Kuykendall, Netherlands, but that's another story.
+
+Read about notation [here](pages/notation.md).
+
+Read about the database [here](pages/database.md) and scripting [here] *not finished*
