@@ -7,7 +7,7 @@ parser.add_argument('-n', '--name',
     help="name of the individual",
     type=str)
     
-parser.add_argument('-y', '--year', 
+parser.add_argument('-b', '--born', 
     help="birth year of the individual",
     default=None,
     type=str)
@@ -23,10 +23,7 @@ parser.add_argument('-l', '--links',
     type=bool)
 
 args = parser.parse_args()
-input = args.name
-year = args.year
-depth = args.depth
- 
+
 #----------------------------------------
 
 fn = 'db.txt'
@@ -116,9 +113,9 @@ def key_for_parent(k_in, kind='father'):
    
 #----------------------------------------
 
-k = key_for_input_string(input, year=year)
+k = key_for_input_string(args.name, year=args.born)
 if not k in D:
-    print "search for: ", input
+    print "search for: ", args.name
     print "Not found"
     sys.exit()
                     
@@ -142,6 +139,7 @@ def do_parent_stuff(k, pL):
 # print the very first line, the original query
 
 g = D[k]['gen']
+depth = args.depth
 depth += g  # adjust depth for starting generation
 sp = ' . ' * g
 print 'g' + str(g).ljust(2) + sp + ' ' + k

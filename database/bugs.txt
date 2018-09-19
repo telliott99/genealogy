@@ -1,1 +1,2 @@
 calculating gen for name with no key is off by + 2
+not even sure the logic is correct

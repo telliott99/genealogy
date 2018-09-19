@@ -54,3 +54,30 @@ g7 .  .  .  .  .  .  .  Ann McCarty {Nancy}
 We see only five missing values, for individuals who should be there (at this depth of search), but the names are not known.
 
 The same output for my father's side shows how much work there is left to do.  The only name I have beyond what he uncovered is Alanson Elliott's father, and he already knew that too.
+
+Here is the entire thing, at the command line we do:
+
+```
+> python plot.py -n "Thomas" -y 1955 -d 14 > full.txt
+```
+
+and see [this](../trees/full.txt) result.
+
+This is mostly here so you can admire the very first part, the progression:
+
+```
+g1  .  Thomas Anthony Elliott 1955
+g2 .  .  Norman Elliott 1923
+g3 .  .  .  James Edgar Elliott 1890
+g4 .  .  .  .  David Marion Elliott 1854
+g5 .  .  .  .  .  Alanson Elliott 1815
+g6 .  .  .  .  .  .  David Elliott 1784
+g7 .  .  .  .  .  .  .  David Elliott 1744
+g8 .  .  .  .  .  .  .  .  David Elliott 1716
+g9 .  .  .  .  .  .  .  .  .  Daniel Elliott 1687
+g10 .  .  .  .  .  .  .  .  .  . Daniel Elliott 1662
+g11 .  .  .  .  .  .  .  .  .  .  . Daniel Elliott 1640
+g12 .  .  .  .  .  .  .  .  .  .  .  . *
+```
+
+There is/are a bug/s in the display of persons deep in the tree.  I'm not sure at the moment if it's defective logic or some problem with the database, or both.
