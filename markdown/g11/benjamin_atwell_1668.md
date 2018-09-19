@@ -8,14 +8,14 @@ d c.1725 New London, CT
 
 f [Benjamin Atwell](../g12/benjamin_atwell_1640.md)
 
-m Mary Uncas
+m [Mary Uncas](../g12/mary_uncas.md)
 
 <hr>
 
 o Mary Roberts
 
-- [Benjamin Atwell](../g10/benjamin_atwell.md)
-- Joseph
+- Benjamin
+- [Joseph Atwell](../g10/joseph_atwell_1710.md)
 
 <hr>
 

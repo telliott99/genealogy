@@ -1,0 +1,17 @@
+g6 .  .  .  .  .  .  Mary Amelia Hollingsworth 1802
+g7 .  .  .  .  .  .  .  Jacob Hollingsworth 1775
+g8 .  .  .  .  .  .  .  .  Jacob Joseph Hollingsworth 1742
+g9 .  .  .  .  .  .  .  .  .  Samuel Hollingsworth 1717
+g10 .  .  .  .  .  .  .  .  .  . Samuel Hollingsworth 1672
+g11 .  .  .  .  .  .  .  .  .  .  . Valentine Hollingsworth 1632
+g12 .  .  .  .  .  .  .  .  .  .  .  . *
+g12 .  .  .  .  .  .  .  .  .  .  .  . *
+g12 .  .  .  .  .  .  .  .  .  .  .  . Anne Calvert
+g12 .  .  .  .  .  .  .  .  .  .  .  . Hannah Harlin
+g12 .  .  .  .  .  .  .  .  .  .  .  . Barbara Shewin
+g8 .  .  .  .  .  .  .  .  Mary Brooks 1742
+g9 .  .  .  .  .  .  .  .  .  Thomas Brooks
+g9 .  .  .  .  .  .  .  .  .  Mary Blacknall
+g7 .  .  .  .  .  .  .  Sarah Martin 1783
+g8 .  .  .  .  .  .  .  .  *
+g8 .  .  .  .  .  .  .  .  *

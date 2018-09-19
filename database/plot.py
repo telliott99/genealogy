@@ -121,23 +121,8 @@ if not k in D:
     print "search for: ", input
     print "Not found"
     sys.exit()
-    
-#----------------------------------------e
- 
-def add_gen(k):
-    global i
-    try:
-        gen = D[k]['gen']
-        i = int(gen)
-    except:
-        gen = i + 1
-        
-    pre = ('g' + str(gen)).ljust(3)
-    return pre + ' ' +  k
-                
+                    
 #----------------------------------------
-
-# globals are bad!
 
 def do_parent_stuff(k, pL):
     for parent_type in parent_types:
@@ -154,11 +139,31 @@ def do_parent_stuff(k, pL):
 
 #----------------------------------------
 
-g = D[k]['gen']
-depth += g
-sp = ' . ' * g
-print 'g' + str(g) + sp + ' ' + k
+# print the very first line, the original query
 
+g = D[k]['gen']
+depth += g  # adjust depth for starting generation
+sp = ' . ' * g
+print 'g' + str(g).ljust(2) + sp + ' ' + k
+
+#----------------------------------------
+ 
+# globals are bad!
+i = D[k]['gen']   # global var used below
+
+def add_gen(k):
+    global i
+    if not k in D:  # b/c its a string only
+        gen = i + 1
+    else:
+        gen = D[k]['gen']
+        # adjust our global, we have a real key
+        i = int(gen)
+        
+    pre = ('g' + str(gen)).ljust(3)
+    return pre + ' ' +  k
+
+#----------------------------------------e
 
 parent_types = ['father','mother']
             

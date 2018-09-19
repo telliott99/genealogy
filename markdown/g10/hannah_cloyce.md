@@ -6,9 +6,9 @@ b 1667 Salem, Essex, MA
 
 d 1737 New Milford, Litchfield, CT
 
-f Peter Cloyes
+f [Peter Cloyes](../g11/peter_cloyes.md)
 
-m [Daniel Elliott](../g10/daniel_elliott_1662.md)
+m [Hannah Littlefield](../g11/hannah_littlefield.md)
 
 <hr>
 

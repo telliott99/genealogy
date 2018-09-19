@@ -1,7 +1,7 @@
 import os, sys, re
 
 u = '/Users/telliott_admin'
-p = u + '/Dropbox/Github/genealogy'
+p = u + '/Dropbox/Github/genealogy/markdown'
 
 L = list()
 dirs = [p + '/g' + str(n) for n in range(15)]
@@ -99,7 +99,7 @@ def process(data, fn):
     else:
         for line in spouseL:
             print 'o ' + extract_name(line)
-    f = fn.split('/',6)[-1]
+    f = fn.split('/',7)[-1]
     print f
     print
 

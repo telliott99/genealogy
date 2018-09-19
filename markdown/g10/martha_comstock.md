@@ -8,7 +8,7 @@ d 1810
 
 f [Samuel Comstock](../g11/samuel_comstock.md)
 
-m [Martha Whittlesee Jones](../g11/martha_whittlesee_jones.md)
+m [Martha Whittlesey Jones](../g11/martha_whittlesey_jones.md)
 
 <hr>
 

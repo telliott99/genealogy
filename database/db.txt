@@ -718,7 +718,7 @@ m Mary Cusick
 o Robert Rankin
 g7/isabela_rankin.md
 
-Jacob Hollingsworth, Jr.
+Jacob Hollingsworth
 b 1775
 d 1848
 f Jacob Joseph Hollingsworth
@@ -1286,7 +1286,7 @@ Hannah Cloyce
 b 1667
 d 1737
 f Peter Cloyes
-m Daniel Elliott
+m Hannah Littlefield
 o Daniel Elliott
 g10/hannah_cloyce.md
 
@@ -1334,7 +1334,7 @@ Martha Comstock
 b 1715
 d 1810
 f Samuel Comstock
-m Martha Whittlesee Jones
+m Martha Whittlesey Jones
 o Joseph Atwell
 g10/martha_comstock.md
 
@@ -1453,6 +1453,14 @@ o Susannah Duparks
 o Mary Turner
 g11/george_west_1639.md
 
+Hannah Littlefield
+b *
+d *
+f *
+m *
+o Peter Cloyes
+g11/hannah_littlefield.md
+
 Jacob Luursen van Kuykendall
 b 1616
 d 1655
@@ -1476,6 +1484,14 @@ f Christopher Fowler
 m Elizabeth Burgess
 o Mary M. Batte (Fowler)
 g11/john_william_fowler.md
+
+Martha Whittlesey Jones
+b 1671
+d 1756
+f Samuel Jones
+m Mary Bushnell
+o Samuel Comstock
+g11/martha_whittlesey_jones.md
 
 Mary Ann Champlin
 b 1692
@@ -1518,7 +1534,7 @@ b 1673
 d 1757
 f Daniel Comtock
 m Paltieh Elderkin
-o *
+o Martha Whittlesey Jones
 g11/samuel_comstock.md
 
 Susannah Duparks
@@ -1568,7 +1584,7 @@ b 1640
 d *
 f *
 m *
-o  
+o Mary Uncas
 g12/benjamin_atwell_1640.md
 
 Christopher Champlin
@@ -1638,6 +1654,22 @@ o Ann Browne
 o *
 g12/john_rhodes.md
 
+Mary Bushnell
+b 1643
+d 1727
+f Francis Bushnell
+m Marie Grombridge
+o Samuel Jones
+g12/mary_bushnell.md
+
+Mary Uncas
+b *
+d *
+f *
+m *
+o Benjamin Atwell
+g12/mary_uncas.md
+
 Matthew Griswold
 b 1615
 d 1698
@@ -1679,6 +1711,14 @@ o Elizabeth Burie
 o Mary West
 g12/robert_west.md
 
+Samuel Jones
+b 1641
+d 1704
+f Thomas Jones
+m Mary Howard
+o Mary Bushnell
+g12/samuel_jones.md
+
 Thomas Lee
 b 1644
 d 1704
@@ -1704,6 +1744,14 @@ m Rebecca Copp
 o Jeffrey Champlin
 g13/charlotte_ulelie_garde.md
 
+Francis Bushnell
+b 1608
+d 1681
+f *
+m *
+o Marie Grombridge
+g13/francis_bushnell.md
+
 Jeffrey Champlin
 b 1621
 d 1695
@@ -1720,6 +1768,22 @@ m *
 o Abigail Kingsland
 o Elizabeth Drake
 g13/john_elderkin.md
+
+Marie Grombridge
+b 1605
+d 1660
+f *
+m *
+o Francis Bushnell
+g13/marie_grombridge.md
+
+Mary Howard
+b 1617
+d 1650
+f *
+m *
+o Thomas Jones
+g13/mary_howard.md
 
 Richard Ely
 b 1610
