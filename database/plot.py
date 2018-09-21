@@ -1,71 +1,18 @@
-import sys, argparse
-
-parser = argparse.ArgumentParser(
-    description='Plot a family tree')
-    
-parser.add_argument('-n', '--name',
-    help="name of the individual",
-    type=str)
-    
-parser.add_argument('-b', '--born', 
-    help="birth year of the individual",
-    default=None,
-    type=str)
-
-parser.add_argument('-d', '--depth', 
-    help="depth of search",
-    default=3,
-    type=int)
-
-parser.add_argument('-l', '--links', 
-    help="provide links",
-    default=False,
-    type=bool)
+import sys
+from setup_parser import parser
 
 args = parser.parse_args()
+from get_database import D
 
-#----------------------------------------
-
-fn = 'db.txt'
-fh = open(fn)
-data = fh.read().strip().split('\n\n')
-fh.close()
-
-D = dict()
-for e in data:
-    L = e.strip().split('\n')
-    name,born,died,father,mother = L[:5]
-    rest = L[6:]
-    born = born[2:]
-    died = died[2:]
-    father = father[2:]
-    mother = mother[2:]
-    
-    path = rest.pop()
-    spouseL = [spouse[2:] for spouse in rest]
-    gen = int(path.split('/')[0][1:])
-    k = name
-    if not born == '*':
-        k += ' ' + born    # keys must be unique
-        
-    D[k] = {'key':k,
-            'gen':gen, 
-            'name':name, 
-            'born':born, 
-            'died':died, 
-            'father':father, 
-            'mother':mother,
-            'spouseL':spouseL, 
-            'path':path}
-
-#------------------------------------------------
 
 '''
-problems with partial duplication of names
-want to allow parts of names
+Files deal with exact dupes by appending birth year
 
-optional restriction: birth year
-(could allow generation easily too)
+But this doesn't work for initial search by name
+Also, want to allow search with part of a name
+
+Add an optional restriction: birth year
+python plot.py -n "Tho" -b 1955
 '''
 
 def key_for_input_string(name, year=None):
@@ -78,116 +25,83 @@ def key_for_input_string(name, year=None):
             return k
     return None
 
+
+k = key_for_input_string(args.name, year=args.born)
+if not k in D:
+    print "Searched for: ", args.name
+    print "Not found"
+    sys.exit()
+
 #------------------------------------------------
 
 '''
-usual situation, suppose I have the key for:
-
-Thomas Anthony Elliott
-b 1955
-d *
-f Norman Elliott
-m Jean Francis Foster
-o Meenal Bhopatkar
-o Joan Carlyn Olson
-g1/thomas_anthony_elliott.md
-
-namely:
+Usual situation, I have a key, namely:
 Thomas Anthony Elliott 1955
+I desire a particular parent
+Do not allow relaxed search here.
+
+Record will contain parents name but not
+necessarily the birth year, so must search dict for key.
 '''
 
 # returns key if it exists, or None
 def key_for_parent(k_in, kind='father'):
-    try:
-        parent_name = D[k_in][kind]
-        parent_gen = D[k_in]['gen'] + 1
-    except:
+    if not k_in in D:
         return None
+    parent_name = D[k_in][kind]
+    parent_gen = D[k_in]['gen'] + 1
+
     for k in D:
-        sD = D[k]
-        if not sD['gen'] == parent_gen:
+        # to make name search work better
+        if not D[k]['gen'] == parent_gen:
             continue
-        if sD['name'] == parent_name:
+        if D[k]['name'] == parent_name:
             return k
     return None
-   
+                       
 #----------------------------------------
-
-k = key_for_input_string(args.name, year=args.born)
-if not k in D:
-    print "search for: ", args.name
-    print "Not found"
-    sys.exit()
-                    
-#----------------------------------------
+# recursive call for each of parents
+# generates depth-first search
+# this version is very wasteful
+# we generate the whole list, filter for depth later
 
 def do_parent_stuff(k, pL):
     for parent_type in parent_types:
+        g = D[k]['gen'] + 1
+
         p = key_for_parent(k, kind=parent_type)
-        if not p:   # find parent by name
-             try:
-                 p = D[k][parent_type]
-             except:
-                 p = None
-        pL.append(p)
-        if not p:
-            continue
-        do_parent_stuff(p, pL)
-
-#----------------------------------------
-
-# print the very first line, the original query
-
-g = D[k]['gen']
-depth = args.depth
-depth += g  # adjust depth for starting generation
-sp = ' . ' * g
-print 'g' + str(g).ljust(2) + sp + ' ' + k
-
-#----------------------------------------
- 
-# globals are bad!
-i = D[k]['gen']   # global var used below
-
-def add_gen(k):
-    global i
-    if not k in D:  # b/c its a string only
-        gen = i + 1
-    else:
-        gen = D[k]['gen']
-        # adjust our global, we have a real key
-        i = int(gen)
+        if p:
+            # we append a real key
+            # might as well look up the generation now
+            pL.append((g,p))    
+          
+        else:
+            # find parent by name
+            n = D[k][parent_type]
+            if not n:
+                return
+            # or we append a tuple of name, gen
+            g = D[k]['gen'] + 1
+            pL.append((g,n))
+            return
         
-    pre = ('g' + str(gen)).ljust(3)
-    return pre + ' ' +  k
-
-#----------------------------------------e
+        do_parent_stuff(p, pL)
+       
 
 parent_types = ['father','mother']
-            
-pL = list()
+
+# have k from input string above
+g = D[k]['gen']  
+pL = [(g,k)]
 do_parent_stuff(k,pL)
 
-sL = list()
-for e in pL:
-    if not e:
-        continue
-    mod = add_gen(e)
-    sL.append(add_gen(e))
-    
-pL = sL[:]
+depth = args.depth
+depth += g  # adjust depth for starting generation
 
-#---------------------------------------------
 # filter and format output
 
-for e in pL:
-    gen, rest = e.split(' ', 1)
-    g = int(gen[1:])
+for g, rest in pL:
     if g > depth:
         continue
-    print gen + g * ' . ' + rest
-
-
-
-
+    print ('g' + str(g)).ljust(3) + g * ' . ' + ' ' + rest
 
