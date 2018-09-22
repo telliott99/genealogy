@@ -79,5 +79,3 @@ g10 .  .  .  .  .  .  .  .  .  . Daniel Elliott 1662
 g11 .  .  .  .  .  .  .  .  .  .  . Daniel Elliott 1640
 g12 .  .  .  .  .  .  .  .  .  .  .  . *
 ```
-
-There is/are a bug/s in the display of persons deep in the tree.  I'm not sure at the moment if it's defective logic or some problem with the database, or both.
