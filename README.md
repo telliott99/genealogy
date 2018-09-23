@@ -36,6 +36,7 @@ Another way to view the data is to construct trees.  I have written a couple Pyt
 
 <hr>
 
-- [Read](markdown/notation.md) about the notation.
+- Read about the [notation](markdown/notation.md).
+- Read about the [database](markdown/database.md).
+- Read about [scripting](markdown/scripting.md).
 
-- [Read](markdown/database.md) about the database.
