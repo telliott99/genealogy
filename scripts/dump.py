@@ -1,7 +1,8 @@
 import os, sys, re
+from get_location import p
 
-u = '/Users/telliott_admin'
-p = u + '/Dropbox/Github/genealogy/markdown'
+p += 'source'
+# p = '../source'  # doesn't work
 
 L = list()
 dirs = [p + '/g' + str(n) for n in range(15)]

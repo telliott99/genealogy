@@ -1,4 +1,8 @@
-fn = 'db.txt'
+from get_location import p
+
+p += 'database'
+
+fn = p + '/db.txt'
 fh = open(fn)
 data = fh.read().strip().split('\n\n')
 fh.close()

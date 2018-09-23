@@ -2,21 +2,21 @@
 
 The purpose of this project is to record the genealogy of my family.  It is based on the [family tree](figs/ne_genealogy.png) constructed by my father, <b>Norman Elliott</b>.  When I was young, we would go to the local public library on Tuesday (?) nights, sometimes we would go to bigger libraries where he could look at microfilm on the U.S. census.
 
-The hope is that this will be revised and extended in the future, as I do more or as some other family member gets interested.  Or at least, that it will be preserved along with the rest of the internet.
+The hope is that this material will be revised and extended in the future, as I do more or as some other family member gets interested.  Or at least, that it will be preserved along with the rest of the internet.
 
 The format is [markdown](https://en.wikipedia.org/wiki/Markdown).  Markdown supports links but is much easier for humans to write than html.  
 
-If you view the files as plain text, they may look a little strange if you are not used to it, but it's definitely readable.  You can view the source for the pages as they are here on Github, in any browser.
+If you view the files as plain text, they may look a little strange if you are not used to it, but it's definitely readable.  You can view the source for the pages in any text editor, or as they are here on Github, rendered as html in your browser.
 
-  It allows easy incorporation of a variety of material including photos, text, and external web pages.  If you download or clone the project, the pages will be a lot nicer with any of a variety of free markdown viewers or editors that are available.
+Markdown allows easy incorporation of a variety of material including photos, text, and external web pages.  If you download or clone the project, the pages will be a lot nicer with any of a variety of free markdown viewers or editors that are available.
 
 <img src="figs/GM Johnson.png" style="width: 400px;" />  
 
 Above:  my mother, <b>Jean Francis Elliott</b>, her  younger brother Jim, and her great-grandmother, <b>Abby Ann West</b>.  Abby's father fought with Andy Jackson at the battle of New Orleans in 1815.  Not that long ago, really. 
 
-To start exploring, you could look at a [tree](database/trees/te4.txt) I constructed for myself, or at [my page](g1/thomas_anthony_elliott.md), or just browse the folders.
+To start exploring, you could look at a [tree](trees/te4.txt) I constructed for myself, or at [my page](source/g1/thomas_anthony_elliott.md), or just browse the folders.
 
-Another way to view the data is to construct trees.  I have written a couple Python scripts to extract the basic information from each individual's file into a single textfile database.  The script **plot.py** can then be invoked with any person's name to build a tree for them out to a specified depth.  See [scripting](scripting.md).
+Another way to view the data is to construct trees.  I have written a couple Python scripts to extract the basic information from each individual's file into a single textfile database.  See [scripting](markdown/scripting.md).
 
 ####  Some highlights:
 
@@ -36,6 +36,6 @@ Another way to view the data is to construct trees.  I have written a couple Pyt
 
 <hr>
 
-- [Read](pages/notation.md) about the notation.
+- [Read](markdown/notation.md) about the notation.
 
-- [Read](pages/database.md) about the database.
+- [Read](markdown/database.md) about the database.

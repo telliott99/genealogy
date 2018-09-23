@@ -1,6 +1,6 @@
 #### Database
 
-I have written a Python script to collect all the data (scrape) from the directories here and write it to a single text file [here](database/db.txt).  It looks like this:
+I have written a Python script to collect all the data (scrape) from the directories here and write it to a single text file [here](../database/db.txt).  It looks like this:
 
 ```
 Thomas Anthony Elliott
@@ -13,7 +13,7 @@ o Joan Carlyn Olson
 g1/thomas_anthony_elliott.md
 ```
 
-I wrote another Python script to search for a particular individual and then print out ancestors to a given depth.  [in progress]  It looks like this:
+I wrote another Python script to search for a particular individual and then print out ancestors to a given depth.  Currently, it looks like this:
 
 ```
 > python plot.py -n "James Heflin" -d 4
