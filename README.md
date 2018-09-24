@@ -26,7 +26,7 @@ Another way to view the data is to construct trees.  I have written a couple Pyt
 
 - I have confirmation that [Alanson Elliott](source/g5/alanson_elliott.md)'s father David's father was a well-known [David Elliott](source/g7/david_elliott_1744.md) with a family extending to about 1651.  It is believed that the prototypical [Daniel Elliott](source/g11/daniel_elliott_1640.md) was transported to the colonies after being on the losing side (he fought for the Crown) in one of the battles the Scots fought against Cromwell in 1651.  His son is famous for testimony at the witchcraft trials in Salem.  The original Daniel may have been the same one killed by Indians in 1690.
 
-- As you may know, [T.F. Fowler](souce/g5/thompson_fletcher_fowler.md) had the very good sense to spend the Civil War in California.  His second son with his first wife was born there.  After returning to Texas and marrying [Minnie Kuykendall](source/g5/mildred_maria_kuykendall.md), he went back to California again, and his son [Eugene Fowler](source/g4/eugene_fowler.md) was born in Sacramento in 1870.
+- As you may know, [T.F. Fowler](source/g5/thompson_fletcher_fowler.md) had the very good sense to spend the Civil War in California.  His second son with his first wife was born there.  After returning to Texas and marrying [Minnie Kuykendall](source/g5/mildred_maria_kuykendall.md), he went back to California again, and his son [Eugene Fowler](source/g4/eugene_fowler.md) was born in Sacramento in 1870.
 
 - I found [Mama Gussie](source/g4/abigail_augusta_johnson.md)'s mother's family.  Her mother was [Abby Ann West](source/g5/abby_ann_west.md) and her grandfather was [Major David West](source/g6/david_west.md).
 
