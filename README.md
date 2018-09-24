@@ -6,7 +6,9 @@ The hope is that this material will be revised and extended in the future, as I 
 
 The format is [markdown](https://en.wikipedia.org/wiki/Markdown).  Markdown supports links but is much easier for humans to write than html.  
 
-If you view the files as plain text, they may look a little strange if you are not used to it, but it's definitely readable.  You can view the source for the pages in any text editor, or as they are here on Github, rendered as html in your browser.
+If you view the files as plain text, they may look a little strange if you are not used to it, but it's definitely readable.  You can view the source for the pages in any text editor.
+
+Or you can just continue to view them as they are here on Github, rendered by your browser as html.
 
 Markdown allows easy incorporation of a variety of material including photos, text, and external web pages.  If you download or clone the project, the pages will be a lot nicer with any of a variety of free markdown viewers or editors that are available.
 
