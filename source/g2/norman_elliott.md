@@ -16,7 +16,7 @@ o [Jean Francis Foster](../g2/jean_francis_foster.md)
 
 - James Gerard 1950-
 - William Michael 1953-
-- [Thomas Anthony](../g1/thomas_anthony_elliott.md)
+- [Thomas Anthony](../g1/thomas_anthony_elliott.md) 1955-
 - Robert Norman 1958-
 - Katherine Maria 1959-
 

@@ -14,15 +14,30 @@ These programs should run on both Mac and PC, as long as the path to the **scrip
 
 Launch Terminal to get a command line.  (From the Launchpad type "T" into the search box, choose Terminal).
 
+You should get something like:
+
+```
+Toms-MacBook-Air-2:~ telliott_admin$ " 
+```
+
+The ``$`` and stuff before it are the "prompt".  Some people prefer a shorter version.  One way to do that is to enter this and hit RET:
+
+```
+Toms-MacBook-Air-2:~ telliott_admin$ export "PS1=> " 
+> 
+```
+
+Now, "> " is your prompt.
+
 We must tell Python where the project lives, or move to that directory.  We will do the latter here.  I enter the path for my installation:
 
 ```
-cd ~/Dropbox/Github/genealogy/scripts
+> cd ~/Dropbox/Github/genealogy/scripts
 ```
 
 ``~`` is an alias for my home directory, ``/Users/telliott_admin``.
 
-You should modify this for your own computer.
+You should modify this for your own case.
 
 The Terminal screen shows our input with a leading ``>``, which distinguishes user input:
 
