@@ -1,18 +1,18 @@
 <gen=g6>
 
-<b>Amanda Melvina Hollingsworth (Foster)</b> <b>(Foster)</b>
+<b>Amanda Melvina Hollingsworth (Foster)</b>
 
 b 1812
 
 d 1863
 
-f [Jacob Hollingsworth](../g7/jacob_hollingsworth_1775.md)
+f [Jacob Hollingsworth](../g6/jacob_hollingsworth_1775.md)
 
 m Kitty Jane Boney (Hollingsworth)
 
 <hr>
 
-o [Richardson Foster](richardson_foster_hollingsworth.md)
+o [Richardson Foster](richardson_foster.md)
 
 - Elizabeth Adeline Foster (Fullilove) 1831-1913 [grave](https://www.findagrave.com/memorial/16867696/elizabeth-adeline-fullilove)
 - Thomas J. Foster 1835-1849 [grave](https://www.findagrave.com/memorial/116387470/thomas-j-foster)

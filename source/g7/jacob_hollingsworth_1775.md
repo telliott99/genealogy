@@ -1,6 +1,6 @@
 <gen=g7>
 
-<b>Jacob Hollingsworth</b> <b>, Jr.<b>
+<b>Jacob Hollingsworth</b> <b>, Jr.</b>
 
 b Aug 11 1775 Guilford Co., NC
 
