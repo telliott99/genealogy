@@ -1,0 +1,134 @@
+> cd /Users/telliott/Dropbox/Github/genealogy/database 
+> p3 plot.py "Gene" -b 1898 -d 10
+g3  .  .  .  Gene Fowler 1898
+g4  .  .  .  .  Thompson Ernest Fowler 1874
+g5  .  .  .  .  .  Thompson Fletcher Fowler 1836
+g6  .  .  .  .  .  .  Levi Fowler 1809
+g7  .  .  .  .  .  .  .  Thomas Fowler 1770
+g8  .  .  .  .  .  .  .  .  Thomas Fowler 1739
+g9  .  .  .  .  .  .  .  .  .  Godfrey Fowler 1710
+g10 .  .  .  .  .  .  .  .  .  .  Godfrey Fowler 1670
+g11 .  .  .  .  .  .  .  .  .  .  .  John William Fowler 1638
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Christopher Fowler 1611
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  *
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Elizabeth Burgess
+g11 .  .  .  .  .  .  .  .  .  .  .  Elizabeth Burgess
+g10 .  .  .  .  .  .  .  .  .  .  Susannah Archer
+g9  .  .  .  .  .  .  .  .  .  Sarah
+g8  .  .  .  .  .  .  .  .  *
+g7  .  .  .  .  .  .  .  Mary Baldridge 1771
+g8  .  .  .  .  .  .  .  .  William Todd
+g6  .  .  .  .  .  .  Dinelah Huff 1811
+g7  .  .  .  .  .  .  .  Daniel Huff 1764
+g8  .  .  .  .  .  .  .  .  Philip Huff 1747
+g9  .  .  .  .  .  .  .  .  .  *
+g8  .  .  .  .  .  .  .  .  Rachel Jackson
+g7  .  .  .  .  .  .  .  Rachel Jackson
+g5  .  .  .  .  .  Mildred Maria Kuykendall 1847
+g6  .  .  .  .  .  .  Abner Kuykendall 1807
+g7  .  .  .  .  .  .  .  Matthew Kuykendall 1758
+g8  .  .  .  .  .  .  .  .  Abraham Kuykendall 1719
+g9  .  .  .  .  .  .  .  .  .  Cornelius Jacobsen Van Kuykendall 1686
+g10 .  .  .  .  .  .  .  .  .  .  Leur Jacobsen Van Kuykendall
+g9  .  .  .  .  .  .  .  .  .  Mary Westfall
+g8  .  .  .  .  .  .  .  .  Elizabeth (Burleson, Van Zandt)
+g7  .  .  .  .  .  .  .  Nancy Johnson 1765
+g8  .  .  .  .  .  .  .  .  William Johnson 1746
+g9  .  .  .  .  .  .  .  .  .  John Johnson
+g8  .  .  .  .  .  .  .  .  Maria Rebecca Larkin
+g6  .  .  .  .  .  .  Maria Duff 1811
+g7  .  .  .  .  .  .  .  James Duff 1770
+g8  .  .  .  .  .  .  .  .  *
+g7  .  .  .  .  .  .  .  Mary Parks
+g4  .  .  .  .  Abigail Augusta Johnson 1874
+g5  .  .  .  .  .  Robert Mortimer Johnson 1845
+g6  .  .  .  .  .  .  William Johnson 1821
+g7  .  .  .  .  .  .  .  *
+g6  .  .  .  .  .  .  Salinda Rankin 1823
+g7  .  .  .  .  .  .  .  Robert Rankin 1792
+g8  .  .  .  .  .  .  .  .  William Rankin 1744
+g9  .  .  .  .  .  .  .  .  .  Robert Rankin
+g8  .  .  .  .  .  .  .  .  Jane Chambers 1752
+g9  .  .  .  .  .  .  .  .  .  John Chambers
+g7  .  .  .  .  .  .  .  Isabela Rankin 1791
+g8  .  .  .  .  .  .  .  .  Robert Rankin 1759
+g9  .  .  .  .  .  .  .  .  .  George Rankin 1729
+g10 .  .  .  .  .  .  .  .  .  .  Robert Rankin 1700
+g11 .  .  .  .  .  .  .  .  .  .  .  William Rankin
+g10 .  .  .  .  .  .  .  .  .  .  Rebecca Armstrong 1700
+g11 .  .  .  .  .  .  .  .  .  .  .  *
+g9  .  .  .  .  .  .  .  .  .  Lydia Steele
+g10 .  .  .  .  .  .  .  .  .  .  *
+g8  .  .  .  .  .  .  .  .  Mary Cusick 1759
+g9  .  .  .  .  .  .  .  .  .  William Cusick 1733
+g10 .  .  .  .  .  .  .  .  .  .  Matt Cusick
+g9  .  .  .  .  .  .  .  .  .  Isabella Mebane 1730
+g10 .  .  .  .  .  .  .  .  .  .  Matt Cusick
+g5  .  .  .  .  .  Abby Ann West 1850
+g6  .  .  .  .  .  .  David West 1792
+g7  .  .  .  .  .  .  .  Andrew West 1753
+g8  .  .  .  .  .  .  .  .  Levi West 1726
+g9  .  .  .  .  .  .  .  .  .  George West 1699
+g10 .  .  .  .  .  .  .  .  .  .  Thomas West 1662
+g11 .  .  .  .  .  .  .  .  .  .  .  George West 1639
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Robert West 1614
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  Richard West
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Elizabeth Burie 1618
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  *
+g11 .  .  .  .  .  .  .  .  .  .  .  Susannah Duparks 1643
+g12 .  .  .  .  .  .  .  .  .  .  .  .  *
+g10 .  .  .  .  .  .  .  .  .  .  Elizabeth West
+g9  .  .  .  .  .  .  .  .  .  Sara Betty Lowe
+g8  .  .  .  .  .  .  .  .  Mary Williams 1731
+g9  .  .  .  .  .  .  .  .  .  Andrew Gray Williams 1705
+g10 .  .  .  .  .  .  .  .  .  .  Edward Williams 1665
+g11 .  .  .  .  .  .  .  .  .  .  .  Edward Williams
+g10 .  .  .  .  .  .  .  .  .  .  Philadelphia Rawlings 1670
+g11 .  .  .  .  .  .  .  .  .  .  .  John Rawlings
+g9  .  .  .  .  .  .  .  .  .  Prudence
+g7  .  .  .  .  .  .  .  Tryphenia Mets/Mead
+g6  .  .  .  .  .  .  Lucinda Latimer 1821
+g7  .  .  .  .  .  .  .  Erastus Latimer 1802
+g8  .  .  .  .  .  .  .  .  Robert Latimer 1760
+g9  .  .  .  .  .  .  .  .  .  Jonathan Latimer 1724
+g10 .  .  .  .  .  .  .  .  .  .  Jonathan_Latimer
+g9  .  .  .  .  .  .  .  .  .  Lucretia Griswold
+g8  .  .  .  .  .  .  .  .  Lucinda Atwell 1763
+g9  .  .  .  .  .  .  .  .  .  Benjamin Atwell 1735
+g10 .  .  .  .  .  .  .  .  .  .  Joseph Atwell 1710
+g11 .  .  .  .  .  .  .  .  .  .  .  Benjamin Atwell 1668
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Benjamin Atwell 1640
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  *
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Mary Uncas
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  *
+g11 .  .  .  .  .  .  .  .  .  .  .  Mary Roberts
+g10 .  .  .  .  .  .  .  .  .  .  Martha Comstock 1715
+g11 .  .  .  .  .  .  .  .  .  .  .  Samuel Comstock 1673
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Daniel Comtock
+g11 .  .  .  .  .  .  .  .  .  .  .  Martha Whittlesey Jones 1671
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Samuel Jones 1641
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  Thomas Jones
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Mary Bushnell 1643
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  Francis Bushnell 1608
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  Marie Grombridge 1605
+g9  .  .  .  .  .  .  .  .  .  Mary Ann Lee 1738
+g10 .  .  .  .  .  .  .  .  .  .  Benjamin Lee 1712
+g11 .  .  .  .  .  .  .  .  .  .  .  John Lee 1670
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Thomas Lee 1644
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  Thomas Lee
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  Phoebe Browne
+g12 .  .  .  .  .  .  .  .  .  .  .  .  *
+g11 .  .  .  .  .  .  .  .  .  .  .  Elizabeth Smith
+g10 .  .  .  .  .  .  .  .  .  .  Mary Ely 1714
+g11 .  .  .  .  .  .  .  .  .  .  .  Daniel Ely
+g12 .  .  .  .  .  .  .  .  .  .  .  .  William Ely 1647
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  Richard Ely 1610
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  Joanne Phipps
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Elizabeth Smith
+g11 .  .  .  .  .  .  .  .  .  .  .  Mary Ann Champlin 1692
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Christopher Champlin 1656
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  Jeffrey Champlin 1621
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  Charlotte Ulelie Garde 1626
+g12 .  .  .  .  .  .  .  .  .  .  .  .  *
+g7  .  .  .  .  .  .  .  *
+> 

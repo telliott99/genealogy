@@ -1,0 +1,11 @@
+dump.py has a hard-coded path to the database files
+in genealogy/source/gX... etc.  It can be run from any folder.  You will have to adjust the path for your situation.
+
+The plotter, plot.py, imports the two other modules you see here.  It must have the database db.txt in the same directory, which can be accomplished by just leaving it all as it is here and doing:
+
+> cd /Users/telliott/Dropbox/Github/genealogy/scripts
+> python3 plot.py "Gene" -b 1898 -d 10
+g3  .  .  .  Gene Fowler 1898
+..
+
+substitute the path for your installation!
