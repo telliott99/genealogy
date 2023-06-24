@@ -1,18 +1,12 @@
-<gen=g8>
-
-<b>David Elliott</b>
+David Elliott
 
 b Mar 03 1716 Sutton, Worcester, MA
-
 d May 11 1798 Kingsbury, Washington Co., New York
 
-f [Daniel Elliott](../g9/daniel_elliott_1687.md)
-
+f Daniel Elliott
 m Sarah Provender
 
-<hr>
-
-o  [Mehitable Aldrich](../g8/mehitable_aldrich.md)
+o  Mehitable Aldrich
 
 - Sarah (1740)
 - Daniel (Jan 19 1742-3 - ?)
@@ -23,14 +17,16 @@ o  [Mehitable Aldrich](../g8/mehitable_aldrich.md)
 - Prudance
 - Sarah (Jan 17 1750 - ?)
 
-<hr>
-
-o (has parents) Dec 20 1739
+surname also written as Elliot
 
 fought in the Rev. war
+(or confused with his son)
+
 Buried in Kingsbury Cemetery, plot 9 row F.
 
-[grave](https://www.findagrave.com/memorial/49607009/david-elliot)
+https://www.findagrave.com/memorial/49607009/david-elliot
+
+Lots of Elliotts up there.
 
 [ref](http://www.themorrisclan.net/GENEALOGY/ELLIOTT%20David%20and%20Mehitable%20Aldrich.html)
 

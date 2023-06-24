@@ -9,10 +9,22 @@ m Mary Polly Squires 1793-1886
 
 o Sarah Fisher
 
+birth and death dates are from the marker and cemetery records.
+
+----
+
+Sarah Fisher is named on the death certificate for 
+both John and James B. Elliott.
+
+She is in the 1850 and 1855 census as Sarah Elliott
+
+children:
+
 - John Elliott (1848-1907)
 https://www.findagrave.com/memorial/19796828/john-n-elliott
 
 - [David Marion Elliott](../g4/david_marion_elliott.md) (1854-1917)
+https://www.findagrave.com/memorial/75888104/david-m-elliott#
 
 - James B. Elliott (Oct 24 1858- Aug 1 1923)
 https://www.findagrave.com/memorial/35237501/james-elliott
@@ -34,7 +46,7 @@ b Oct 24 1858 New York d Aug 1 1923
 f Alanson Elliott b NY, m Sarah Fisher b NY
 
 These guys are all in the same cemetery (Oakland) 
-but Sarah does not appeaar to be there.  
+but Sarah does not appear to be there.  
 
 ----
 
@@ -66,6 +78,7 @@ Age match for Alanson 25 and his wife Sarah Fisher 19
 (close enough)
 
 There are deeds (one in 1854) from David to Alanson.
+I didn't download these
 
 ----
 
@@ -103,14 +116,12 @@ but no Sarah, also, Canadian
 
 1855 NY census Willing, Allegany Co., NY
 
-Alanson Elliott 39 M Cayuga Co.
-Sarah Elliott 36 F wife Yates Co.
-John Elliott 7 M son Allegany Co.
-David Elliott 11/12 M son Allegany Co.
+Alanson Elliott 39 M b Cayuga Co.
+Sarah Elliott 36 F wife b Yates Co.
+John Elliott 7 M son b Allegany Co.
+David Elliott 11/12 M son b Allegany Co.
 
 ----
-
-I had (misplaced now) a death cert for brother John Elliott d 1907.
 
 Alanson at Union Cemetery, Willing, Allegany Co. NY.  
 Willing is not on the map anymore as a town. 
@@ -134,7 +145,7 @@ ELLIOTT, David (*) spouse of  Polly   died 6-15-1854 age 70
 ELLIOTT, Elmira spouse of  David      died 5-13-1858 age 31y 9m 22d  
 ELLIOTT, Polly (*) spouse of  David   died 4-1-1886 age 83y 1m 18d
 
-That's Alanson (b. 1815)
+Alanson (b. 1815)
 Mar 16 1859 - 43 y 8 m 20 = Jun 26 1815
 (not counting leap days!)
 
@@ -142,9 +153,10 @@ David (*) (1784-1854)
 wife Polly (b. 1803)
 
 Polly's age is given as 83 in this write-up
-But the stone clearly says 93 yr old
+But the picture of the stone clearly shows 93 yr old
 The 1793 year is based on info from Sara L. Johnson.
 
-David (1830-1901), Alanson's brother.
-wife Elmira (b. 1826).
+David (1830-1901) was Alanson's brother.
+wife Elmira (b. 1826)
+I guess 2nd wife Amanda
 

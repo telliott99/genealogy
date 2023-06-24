@@ -8,7 +8,7 @@ d Mar 18 1835 Monroeton, AL
 
 f [William Claiborne Foster](../g7/william_claiborne_foster.md)
 
-m [Elizabeth Foster](../g7/elizabeth_colbert.md)
+m [Elizabeth Colbert](../g7/elizabeth_colbert.md)
 
 <hr>
 

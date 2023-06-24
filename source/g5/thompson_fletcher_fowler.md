@@ -14,8 +14,6 @@ m [Dinelah Huff](../g6/dinelah_huff.md)
 
 o Martha Smithwick
 
-Probably called "T.F." but possibly "Tom" like his son and many others after.
-
 - [Charles Louis Fowler](../g4/charles_louis_fowler.md) 1860-1931
 
 - [Wylie F. Fowler](../g4/wylie_f_fowler.md) 1863-1932
@@ -29,9 +27,11 @@ o [Mildred Maria Kuykendall](mildred_maria_kuykendall.md)
 
 o2 Dec 16 1869
 
+Probably called "T.F." but possibly "Tom" like his son and many others after.
+
 Buried at Laughlin Cemetery, Milam Co., TX. 
 
-According to Robin Fowler, came to TX with his father-in-law Noah Smithwick, then he and his brother went to California with Noah, driving cattle.
+According to Robin Fowler, TF came to TX with his father-in-law Noah Smithwick, then he and his brother Tilman went to California with Noah, driving cattle.
 
 Sibs: see mother [Dinelah Huff](../g6/dinelah_huff.md), including [Tilman Fowler](../g5/tilman_fowler.md).  Tilman died in Santa Cruz, CA.
 

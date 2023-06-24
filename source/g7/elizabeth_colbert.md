@@ -28,6 +28,7 @@ Monroeton, Monroe County, AL
 
 [grave](https://www.findagrave.com/memorial/64608572/elizabeth-foster)
 
+
 In a book called Alabama notes, Volume 4 by Flora D. England (brought up by Googling Elizabeth Foster 1835 Richardson, p. 33 has this fragment:
 
 [will](../family_data/Foster/elizabeth_foster_will.png) dated Aug 31 1830
@@ -37,4 +38,5 @@ There is another Elizabeth Foster in the same book p. 31.
 I say "another" because the children are all different and the will was proved in 1830, i.e. she died about then.  The will cited above says Richardson is deceased, which occurred in 1835.
 
 There are several Fosters on these pages, but none share first names of interest.
+
 
