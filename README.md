@@ -20,7 +20,7 @@ The files are organized by generation.  I call the grandparents' grandparents' g
 
 #### example
 
-Here are my mother, [Jean Francis Foster (Elliott)](source/g2/jean_francis_foster.md), and her  younger brother Jim, together with their great-grandmother.  
+Here are my mother, [Jean Frances Foster (Elliott)](source/g2/jean_frances_foster.md), and her  younger brother Jim, together with their great-grandmother.  
 
 <img src="portraits/GM Johnson.png" style="width: 400px;" />  
 
