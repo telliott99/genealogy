@@ -2,7 +2,9 @@
 
 There are three sections for each entry.
 
-The first has six invariant lines:  generation as e.g. gen=g6, name in bold, born (b), died (d), father (f), mother (m).  These lines and identifiers are present even if there is no data.
+The first section starts with metadata used to organize the project:  generation as e.g. gen=g5, 
+
+Then, name in bold, born (b), died (d), father (f), mother (m).  These lines and identifiers are present even if there is no data.
 
 ```
 <gen=g1>
@@ -25,5 +27,5 @@ In the second section are listed marriages (I chose o as the symbol for that, to
 
 The third section is also for any other data or references (or even pictures of people or their gravestones), and for discussion of discrepancies.
 
-I have suppressed the birth dates for living individuals, even though I consider this information to be hopelessly exposed to the internet already.
+I have suppressed the birth dates for living individuals, although it is hopelessly exposed to the internet already.
 

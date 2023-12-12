@@ -68,6 +68,6 @@ J.M. Martin's brother [Jacob Flavel](source/g5/jacob_flavel_foster.md) was kille
 
 <hr>
 
-- Read about the [notation](markdown/notation.md).
-- Read about the [database](markdown/database.md).
-- Read about [scripting](markdown/scripting.md).
+- Read about the [notation](howto/notation.md).
+- Read about the [database](howto/database.md).
+- Read about [scripting](howto/scripting.md).
