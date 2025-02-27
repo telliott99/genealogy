@@ -1,0 +1,43 @@
+> p3 plot.py -d 5 "Alanson Elliott" -b 1815
+g5  .  .  .  .  .  Alanson Elliott 1815
+g6  .  .  .  .  .  .  David Elliott 1784
+g7  .  .  .  .  .  .  .  David Elliott 1744
+g8  .  .  .  .  .  .  .  .  David Elliott 1716
+g9  .  .  .  .  .  .  .  .  .  Daniel Elliott 1687
+g9  .  .  .  .  .  .  .  .  .  Sarah Provender
+g8  .  .  .  .  .  .  .  .  Mehitable Aldrich 1716
+g9  .  .  .  .  .  .  .  .  .  *
+g7  .  .  .  .  .  .  .  Deborah
+g6  .  .  .  .  .  .  Mary Polly Squires
+> p3 plot.py -d 5 "Sarah Fisher"           
+g5  .  .  .  .  .  Sarah Fisher 1821
+g6  .  .  .  .  .  .  *
+> p3 plot.py -d 5 "Lewis W. Main"
+g5  .  .  .  .  .  Lewis W. Main 1830
+g6  .  .  .  .  .  .  *
+> p3 plot.py -d 5 "Lydia Catherine Roberts"
+g5  .  .  .  .  .  Lydia Catherine Roberts 1840
+g6  .  .  .  .  .  .  *
+> p3 plot.py -d 5 "Edward Metcalf"
+g5  .  .  .  .  .  Edward Metcalf 1800
+g6  .  .  .  .  .  .  *
+> p3 plot.py -d 5 "Mary Jane Thorpe"       
+g5  .  .  .  .  .  Mary Jane Thorpe 1820
+g6  .  .  .  .  .  .  *
+> p3 plot.py -d 5 "Henry J. Fisher" 
+g5  .  .  .  .  .  Henry J. Fisher 1835
+g6  .  .  .  .  .  .  Henry Fisher 1790
+g7  .  .  .  .  .  .  .  *
+g6  .  .  .  .  .  .  Susan Fisher 1788
+g7  .  .  .  .  .  .  .  *
+> p3 plot.py -d 5 "Oceana Jackson" 
+g5  .  .  .  .  .  Oceana Jackson 1841
+g6  .  .  .  .  .  .  John G. Jackson 1816
+g7  .  .  .  .  .  .  .  *
+g6  .  .  .  .  .  .  Diantha Jenison 1815
+g7  .  .  .  .  .  .  .  Orange Twiss Jenison 1771
+g8  .  .  .  .  .  .  .  .  Peter Jenison 1750
+g9  .  .  .  .  .  .  .  .  .  Joseph Jennison (1720-1813)
+g8  .  .  .  .  .  .  .  .  Mehitable Singletary
+g7  .  .  .  .  .  .  .  Lydia Prince (Mar 08 1777)
+>

@@ -1,0 +1,172 @@
+g1  .  Thomas Anthony Elliott 1955
+g2  .  .  Norman Elliott 1923
+g3  .  .  .  James Edgar Elliott 1890
+g4  .  .  .  .  David Marion Elliott 1854
+g5  .  .  .  .  .  Alanson Elliott 1815
+g6  .  .  .  .  .  .  David Elliott 1784
+g7  .  .  .  .  .  .  .  David Elliott 1744
+g8  .  .  .  .  .  .  .  .  David Elliott 1716
+g9  .  .  .  .  .  .  .  .  .  Daniel Elliott 1687
+g10 .  .  .  .  .  .  .  .  .  .  Daniel Elliott 1662
+g11 .  .  .  .  .  .  .  .  .  .  .  Daniel Elliott 1640
+g12 .  .  .  .  .  .  .  .  .  .  .  .  *
+g11 .  .  .  .  .  .  .  .  .  .  .  *
+g10 .  .  .  .  .  .  .  .  .  .  Hannah Cloyce 1667
+g11 .  .  .  .  .  .  .  .  .  .  .  Peter Cloyes 1639
+g12 .  .  .  .  .  .  .  .  .  .  .  .  John Cloyes 1604
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  Peter Cloyes
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Abigail Mornings
+g11 .  .  .  .  .  .  .  .  .  .  .  Hannah Littlefield
+g12 .  .  .  .  .  .  .  .  .  .  .  .  *
+g9  .  .  .  .  .  .  .  .  .  Sarah Provender
+g8  .  .  .  .  .  .  .  .  Mehitable Aldrich 1716
+g9  .  .  .  .  .  .  .  .  .  *
+g7  .  .  .  .  .  .  .  Deborah
+g6  .  .  .  .  .  .  Mary Polly Squires
+g5  .  .  .  .  .  Sarah Fisher 1821
+g6  .  .  .  .  .  .  *
+g4  .  .  .  .  Clara Etta Main 1860
+g5  .  .  .  .  .  Lewis W. Main 1830
+g6  .  .  .  .  .  .  Christopher Main 1796
+g7  .  .  .  .  .  .  .  *
+g6  .  .  .  .  .  .  *
+g5  .  .  .  .  .  Lydia Catherine Roberts 1840
+g6  .  .  .  .  .  .  William J. Robertson 1807
+g7  .  .  .  .  .  .  .  *
+g6  .  .  .  .  .  .  Anna Eleanor Geissinger 1811
+g7  .  .  .  .  .  .  .  *
+g3  .  .  .  Jessie Metcalf 1892
+g4  .  .  .  .  Alberti Metcalf 1858
+g5  .  .  .  .  .  Edward Metcalf 1800
+g6  .  .  .  .  .  .  *
+g5  .  .  .  .  .  Mary Jane Thorpe 1820
+g6  .  .  .  .  .  .  *
+g4  .  .  .  .  Lenora Fisher 1861
+g5  .  .  .  .  .  Henry J. Fisher 1835
+g6  .  .  .  .  .  .  Henry Fisher 1790
+g7  .  .  .  .  .  .  .  *
+g6  .  .  .  .  .  .  Susan Fisher 1788
+g7  .  .  .  .  .  .  .  *
+g5  .  .  .  .  .  Oceana Jackson 1841
+g6  .  .  .  .  .  .  John G. Jackson 1816
+g7  .  .  .  .  .  .  .  John G. Jackson 1789
+g8  .  .  .  .  .  .  .  .  *
+g7  .  .  .  .  .  .  .  Margaret Hennigan 1788
+g8  .  .  .  .  .  .  .  .  *
+g6  .  .  .  .  .  .  Diantha Jenison 1815
+g7  .  .  .  .  .  .  .  Orange Twiss Jenison 1771
+g8  .  .  .  .  .  .  .  .  Peter Jenison 1750
+g9  .  .  .  .  .  .  .  .  .  Joseph Jennison (1720-1813)
+g8  .  .  .  .  .  .  .  .  Mehitable Singletary
+g7  .  .  .  .  .  .  .  Lydia Prince (Mar 08 1777)
+g2  .  .  Jean Frances Foster 1925
+g3  .  .  .  James Heflin Foster 1889
+g4  .  .  .  .  William Long Foster 1861
+g5  .  .  .  .  .  James Martin Foster 1831
+g6  .  .  .  .  .  .  Flavel Foster 1801
+g7  .  .  .  .  .  .  .  William Claiborne Foster 1780
+g8  .  .  .  .  .  .  .  .  Jacob Flavel Foster
+g7  .  .  .  .  .  .  .  Elizabeth Colbert
+g6  .  .  .  .  .  .  Mary Amelia Hollingsworth 1802
+g7  .  .  .  .  .  .  .  Jacob Hollingsworth 1775
+g8  .  .  .  .  .  .  .  .  Jacob Joseph Hollingsworth 1742
+g9  .  .  .  .  .  .  .  .  .  Samuel Hollingsworth 1717
+g10 .  .  .  .  .  .  .  .  .  .  Samuel Hollingsworth 1672
+g11 .  .  .  .  .  .  .  .  .  .  .  Valentine Hollingsworth 1632
+g12 .  .  .  .  .  .  .  .  .  .  .  .  *
+g11 .  .  .  .  .  .  .  .  .  .  .  Anne Calvert
+g10 .  .  .  .  .  .  .  .  .  .  Hannah Harlin
+g9  .  .  .  .  .  .  .  .  .  Barbara Shewin
+g8  .  .  .  .  .  .  .  .  Mary Brooks 1742
+g9  .  .  .  .  .  .  .  .  .  Thomas Brooks
+g7  .  .  .  .  .  .  .  Sarah Martin 1783
+g8  .  .  .  .  .  .  .  .  *
+g5  .  .  .  .  .  Mary Eleanor Long 1842
+g6  .  .  .  .  .  .  William Long
+g7  .  .  .  .  .  .  .  *
+g6  .  .  .  .  .  .  Emily C. Boggs
+g7  .  .  .  .  .  .  .  John Boggs
+g8  .  .  .  .  .  .  .  .  *
+g7  .  .  .  .  .  .  .  Hannah Maria Cook 1802
+g8  .  .  .  .  .  .  .  .  Ambrose Ellis Cook 1772
+g9  .  .  .  .  .  .  .  .  .  Ellis Cook 1732
+g10 .  .  .  .  .  .  .  .  .  .  Ellis Cook
+g9  .  .  .  .  .  .  .  .  .  Margaret Griswold Cocker
+g8  .  .  .  .  .  .  .  .  Sarah Piersall Wheeler
+g4  .  .  .  .  Launa Mims Davis 1865
+g5  .  .  .  .  .  Lewis Richard Davis 1827
+g6  .  .  .  .  .  .  James C. Davis 1801
+g7  .  .  .  .  .  .  .  Lewis Cookson Davis 1757
+g8  .  .  .  .  .  .  .  .  Absolom Davis 1720
+g9  .  .  .  .  .  .  .  .  .  Richard Davis 1688
+g10 .  .  .  .  .  .  .  .  .  .  Thomas Davis
+g9  .  .  .  .  .  .  .  .  .  Elizabeth
+g8  .  .  .  .  .  .  .  .  Nancy Anne Hackney 1723
+g9  .  .  .  .  .  .  .  .  .  William Hackney 1690
+g10 .  .  .  .  .  .  .  .  .  .  *
+g9  .  .  .  .  .  .  .  .  .  Alice Nichols Rhodes 1687
+g10 .  .  .  .  .  .  .  .  .  .  Hezekiah Rhodes 1662
+g11 .  .  .  .  .  .  .  .  .  .  .  Christopher Rhodes
+g10 .  .  .  .  .  .  .  .  .  .  Elizabeth Nichols 1666
+g11 .  .  .  .  .  .  .  .  .  .  .  Henry Nichols
+g7  .  .  .  .  .  .  .  Sarah Sally Perkins 1777
+g8  .  .  .  .  .  .  .  .  *
+g6  .  .  .  .  .  .  Elizabeth Davis 1805
+g7  .  .  .  .  .  .  .  *
+g5  .  .  .  .  .  Alabama Frances Mims 1832
+g6  .  .  .  .  .  .  Seaborn Jones Mims 1787
+g7  .  .  .  .  .  .  .  Shadrach Mims 1764
+g8  .  .  .  .  .  .  .  .  Robert Mims 1708
+g9  .  .  .  .  .  .  .  .  .  Lionel Mims
+g8  .  .  .  .  .  .  .  .  Sarah Pace
+g7  .  .  .  .  .  .  .  Elizabeth Kirkham 1751
+g8  .  .  .  .  .  .  .  .  *
+g6  .  .  .  .  .  .  Elizabeth Hubbard Saunders 1792
+g7  .  .  .  .  .  .  .  Ephraim Saunders
+g3  .  .  .  Gene Fowler 1898
+g4  .  .  .  .  Thompson Ernest Fowler 1874
+g5  .  .  .  .  .  Thompson Fletcher Fowler 1836
+g6  .  .  .  .  .  .  Levi Fowler 1809
+g7  .  .  .  .  .  .  .  Thomas Fowler 1770
+g8  .  .  .  .  .  .  .  .  Thomas Fowler 1739
+g9  .  .  .  .  .  .  .  .  .  Godfrey Fowler 1710
+g10 .  .  .  .  .  .  .  .  .  .  Godfrey Fowler 1670
+g11 .  .  .  .  .  .  .  .  .  .  .  John William Fowler 1638
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Christopher Fowler 1611
+g13 .  .  .  .  .  .  .  .  .  .  .  .  .  *
+g12 .  .  .  .  .  .  .  .  .  .  .  .  Elizabeth Burgess
+g11 .  .  .  .  .  .  .  .  .  .  .  Elizabeth Burgess
+g10 .  .  .  .  .  .  .  .  .  .  Susannah Archer
+g9  .  .  .  .  .  .  .  .  .  Sarah
+g8  .  .  .  .  .  .  .  .  *
+g7  .  .  .  .  .  .  .  Mary Baldridge 1771
+g8  .  .  .  .  .  .  .  .  William Todd
+g6  .  .  .  .  .  .  Dinelah Huff 1811
+g7  .  .  .  .  .  .  .  Daniel Huff 1766
+g8  .  .  .  .  .  .  .  .  Philip Huff 1747
+g9  .  .  .  .  .  .  .  .  .  *
+g8  .  .  .  .  .  .  .  .  Rachel Jackson
+g7  .  .  .  .  .  .  .  Rachel Jackson
+g5  .  .  .  .  .  Mildred Maria Kuykendall 1847
+g6  .  .  .  .  .  .  Abner Kuykendall 1807
+g7  .  .  .  .  .  .  .  Matthew Kuykendall 1758
+g8  .  .  .  .  .  .  .  .  Abraham Kuykendall 1719
+g9  .  .  .  .  .  .  .  .  .  Cornelius Jacobsen Van Kuykendall 1686
+g10 .  .  .  .  .  .  .  .  .  .  Leur Jacobsen Van Kuykendall
+g9  .  .  .  .  .  .  .  .  .  Mary Westfall
+g8  .  .  .  .  .  .  .  .  Elizabeth (Burleson, Van Zandt)
+g7  .  .  .  .  .  .  .  Nancy Johnson 1765
+g8  .  .  .  .  .  .  .  .  William Johnson 1746
+g9  .  .  .  .  .  .  .  .  .  John Johnson
+g8  .  .  .  .  .  .  .  .  Maria Rebecca Larkin
+g6  .  .  .  .  .  .  Maria Duff 1811
+g7  .  .  .  .  .  .  .  James Duff 1770
+g8  .  .  .  .  .  .  .  .  *
+g7  .  .  .  .  .  .  .  Mary Parks
+g4  .  .  .  .  Abigail Augusta Johnson 1874
+g5  .  .  .  .  .  Robert Mortimer Johnson 1845
+g6  .  .  .  .  .  .  William Johnson
+g5  .  .  .  .  .  Abby Ann Chandler 1850
+g6  .  .  .  .  .  .  Elijah Chandler 1790
+g7  .  .  .  .  .  .  .  Peter Chandler
+g6  .  .  .  .  .  .  *

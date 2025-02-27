@@ -1,0 +1,1948 @@
+Jessica Marin Elliott
+b 1982
+d *
+f William Michael Elliott
+m Nancy Klauber
+o *
+g0/jessica_marin_elliott.md
+
+Sean Anil Elliott
+b 1996
+d *
+f Thomas Anthony Elliott
+m Meenal Bhopatkar
+o *
+g0/sean_anil_elliott.md
+
+James Gerard Elliott
+b 1950
+d *
+f Norman Elliott
+m Jean Frances Foster
+o Sandra (Elliott)
+o Vicki (Elliott)
+g1/james_gerard_elliott.md
+
+Katherine Maria Elliott
+b 1959
+d *
+f Norman Elliott
+m Jean Frances Foster
+o Michael Smith
+o Daniel Scherlis
+g1/katherine_maria_elliott.md
+
+Robert Norman Elliott
+b 1958
+d *
+f Norman Elliott
+m Jean Frances Foster
+o Dana
+g1/robert_norman_elliott.md
+
+Thomas Anthony Elliott
+b 1955
+d *
+f Norman Elliott
+m Jean Frances Foster
+o Meenal Bhopatkar
+o Joan Carlyn Kline (Olson)
+g1/thomas_anthony_elliott.md
+
+William Michael Elliott
+b 1953
+d *
+f Norman Elliott
+m Jean Frances Foster
+o Nancy Klauber
+g1/william_michael_elliott.md
+
+James Thompson Foster
+b 1928
+d 2012
+f James Heflin Foster
+m Gene Fowler
+o Ruby Marie (Foster) (Sep 04 1928-)
+g2/james_t_foster.md
+
+Jean Frances Foster
+b 1925
+d 1975
+f James Heflin Foster
+m Gene Fowler
+o Norman Elliott
+g2/jean_frances_foster.md
+
+Norman Elliott
+b 1923
+d 2013
+f James Edgar Elliott
+m Jessie Metcalf
+o Jean Frances Foster
+o Amy Lou Feist
+g2/norman_elliott.md
+
+Alanson C. Elliott
+b 1880
+d 1970
+f David Marion Elliott
+m Clara Etta Main
+o *
+g3/alanson_c_elliott.md
+
+Gene Fowler
+b 1898
+d 1970
+f Thompson Ernest Fowler
+m Abigail Augusta Johnson
+o James Heflin Foster
+o William Lienhard
+g3/gene_fowler.md
+
+Harney Skofield Bogan
+b 1896
+d 1983
+f Samuel Skofield Bogan
+m Margaret Virginia Whatley
+o Lucille Foster
+g3/harney_skofield_bogan.md
+
+Jacob Flavel Foster
+b 1900
+d 1982
+f Jacob Flavel Foster
+m Marguerrite Crain
+o Ruth Bratton
+g3/jacob_flavel_foster_1900.md
+
+James Edgar Elliott
+b 1890
+d 1940
+f David Marion Elliott
+m Clara Etta Main
+o Jessie Metcalf
+g3/james_edgar_elliott.md
+
+James Heflin Foster
+b 1889
+d 1935
+f William Long Foster
+m Launa Mims Davis
+o Gene Fowler
+g3/james_heflin_foster.md
+
+Jane Palmer
+b 1919
+d 2006
+f *
+m *
+o Robin Fowler
+g3/jane_palmer.md
+
+Jessie Metcalf
+b 1892
+d 1949
+f Alberti Metcalf
+m Lenora Fisher
+o James Edgar Elliott
+g3/jessie_metcalf.md
+
+Lucille Foster
+b 1900
+d 1986
+f William Long Foster
+m Launa Mims Davis
+o Harney Skolfield Bogan
+g3/lucille_foster.md
+
+Mae Elliott
+b 1892
+d 1982
+f David Marion Elliott
+m Clara Etta Main Elliott
+o Forrest W. Mack
+g3/mae_elliott.md
+
+Robin Fowler
+b 1903
+d 1994
+f Thompson Ernest Fowler
+m Augusta Johnson
+o Jane Palmer
+g3/robin_fowler.md
+
+Thompson Fletcher Fowler
+b 1901
+d 1970
+f Thompson Ernest Fowler
+m Augusta Johnson
+o Dorothy (Fowler)
+o *
+g3/thompson_fletcher_fowler_1901.md
+
+Abigail Augusta Johnson
+b 1874
+d 1962
+f Robert Mortimer Johnson
+m Abby Ann Chandler
+o Thompson Ernest Fowler
+g4/abigail_augusta_johnson.md
+
+Alberti Metcalf
+b 1858
+d 1928
+f Edward Metcalf
+m Mary Jane Thorpe
+o Lenora Fisher
+g4/alberti_metcalf.md
+
+Charles Louis Fowler
+b 1860
+d 1931
+f Thompson Fletcher Fowler
+m Martha Smithwick
+o *
+g4/charles_louis_fowler.md
+
+Claiborne Lee Foster
+b 1865
+d 1890
+f James Martin Foster
+m Mary Eleanor Long
+o *
+g4/claiborne_lee_foster.md
+
+Clara Etta Main
+b 1860
+d 1934
+f Lewis W. Main
+m Lydia Catherine Roberts
+o David Marion Elliott
+g4/clara_etta_main.md
+
+Daniel Robert Johnson
+b 1875
+d 1965
+f Robert Mortimer Johnson
+m Abby Ann Chandler West
+o Angie Ann Buchanan (Johnson)
+g4/daniel_robert_johnson.md
+
+David Marion Elliott
+b 1854
+d 1917
+f Alanson Elliott
+m Sarah Fisher
+o Clara Etta Main
+g4/david_marion_elliott.md
+
+Eugene George Fowler
+b 1870
+d 1931
+f Thompson Fletcher Fowler
+m Mildred Maria Kuykendall
+o Minnie Adams
+g4/eugene_fowler.md
+
+Jacob Flavel Foster
+b 1873
+d 1910
+f Claiborne Jasper Foster
+m Eunice Burruss
+o Marguerrite Crain (Foster)
+g4/jacob_flavel_foster_1873.md
+
+James Martin Foster
+b 1871
+d 1928
+f James Martin Foster
+m Mary Eleanor Long
+o *
+g4/james_martin_foster_1871.md
+
+Launa Mims Davis
+b 1865
+d 1939
+f Lewis Richard Davis
+m Alabama Frances Mims
+o William Long Foster
+g4/launa_mims_davis.md
+
+Lenora Fisher
+b 1861
+d 1944
+f Henry J. Fisher
+m Oceana Jackson
+o Alberti Metcalf
+g4/lenora_fisher.md
+
+Marguerrite Crain
+b *
+d 1890
+f *
+m *
+o Jacob Flavel Foster
+g4/marguerrite_crain.md
+
+Minnie Adams
+b 1883
+d 1976
+f *
+m *
+o Eugene Fowler
+g4/minnie_adams.md
+
+Thompson Ernest Fowler
+b 1874
+d 1917
+f Thompson Fletcher Fowler
+m Mildred Maria Kuykendall
+o Augusta Johnson
+g4/thompson_ernest_fowler.md
+
+William Long Foster
+b 1861
+d 1916
+f James Martin Foster
+m Mary Eleanor Long
+o Launa Mims Davis
+g4/william_long_foster.md
+
+Wylie F. Fowler
+b 1863
+d 1932
+f Thompson Fletcher Fowler
+m Martha Smithwick
+o *
+g4/wylie_f_fowler.md
+
+Abby Ann Chandler
+b 1850
+d 1932
+f Elijah Chandler
+m *
+o Robert Mortimer Johnson
+g5/abby_ann_chandler.md
+
+Alabama Frances Mims
+b 1832
+d 1894
+f Seaborn Jones Mims
+m Elizabeth Hubbard Saunders
+o Lewis Richard Davis
+o Godfrey S. Newsom
+g5/alabama_frances_mims.md
+
+Alanson Elliott
+b 1815
+d 1859
+f David Elliott
+m Mary Polly Squires
+o  [Sarah Fisher
+g5/alanson_elliott.md
+
+Claiborne J. Foster
+b 1834
+d 1898
+f Flavel Foster
+m Mary Amelia Hollingsworth
+o Eunice Burruss
+g5/claiborne_jasper_foster.md
+
+Edward Metcalf
+b 1800
+d 1872
+f *
+m *
+o Mary Jane Thorpe
+g5/edward_metcalf.md
+
+Eunice Burruss
+b *
+d *
+f *
+m *
+o Claiborne Jasper Foster
+g5/eunice_burruss.md
+
+Henry J. Fisher
+b 1835
+d 1866
+f Henry Fisher
+m Susan Fisher
+o Oceana Jackson
+g5/henry_j_fisher.md
+
+Jacob Flavel Foster
+b *
+d 1863
+f Flavel Foster
+m Mary Amelia Hollingsworth
+o *
+g5/jacob_flavel_foster.md
+
+James Martin Foster
+b 1831
+d 1900
+f Flavel Foster
+m Mary Amelia Hollingsworth
+o Mary Eleanor Long
+g5/james_martin_foster_1831.md
+
+John Bell West
+b 1857
+d 1946
+f David West
+m Lucinda Latimer
+o Margaret Ellen Phillipps
+g5/john_bell_west.md
+
+Lewis Richard Davis
+b 1827
+d 1873
+f James C. Davis
+m Elizabeth Davis
+o Alabama Frances Mims
+g5/lewis_richard_davis.md
+
+Lewis W. Main
+b 1830
+d 1861
+f Christopher Main
+m *
+o Matilda
+o Lydia Catherine Roberts
+g5/lewis_w_main.md
+
+Lydia Catherine Roberts
+b 1840
+d 1925
+f William J. Robertson
+m Anna Eleanor Geissinger
+o Lewis W. Main
+g5/lydia_catherine_roberts.md
+
+Mary Eleanor Long
+b 1842
+d 1910
+f William Long
+m Emily C. Boggs
+o James Martin Foster
+g5/mary_eleanor_long.md
+
+Mary Jane Thorpe
+b 1820
+d 1862
+f *
+m *
+o Edward Metcalf
+g5/mary_jane_thorpe.md
+
+Mildred Maria Kuykendall
+b 1847
+d 1936
+f Abner Kuykendall
+m Maria Duff
+o Thompson Fletcher Fowler
+g5/mildred_maria_kuykendall.md
+
+Oceana Jackson
+b 1841
+d 1918
+f John G. Jackson
+m Diantha Jenison
+o Henry J. Fisher
+g5/oceana_jackson.md
+
+Robert Mortimer Johnson
+b 1845
+d 1918
+f William Johnson
+m Salinda Rankin
+o Abby Ann West
+g5/robert_mortimer_johnson.md
+
+Sarah Fisher
+b 1821
+d 1872
+f *
+m *
+o Alanson Elliott
+g5/sarah_fisher.md
+
+Thompson Fletcher Fowler
+b 1836
+d 1886
+f Levi Fowler
+m Dinelah Huff
+o Martha Smithwick
+o Mildred Maria Kuykendall
+g5/thompson_fletcher_fowler.md
+
+Tilman Fowler
+b 1839
+d 1932
+f Thomas Fowler
+m Mary Baldridge
+o Mollie Sharp
+o Missouri Higgins
+o Isabel "Belle" Ybarra
+g5/tilman_fowler.md
+
+Abner Kuykendall
+b 1807
+d 1867
+f Matthew Kuykendall
+m Nancy Johnson
+o Maria Duff
+g6/abner_kuykendall_1807.md
+
+Absalom Abner Kuykendall
+b 1814
+d 1901
+f Matthew Kuykendall
+m Nancy Johnson
+o Nancy Dean
+g6/absalom_abner_kuykendall.md
+
+Amanda Melvina Hollingsworth (Foster)
+b 1812
+d 1863
+f Jacob Hollingsworth
+m Kitty Jane Boney (Hollingsworth)
+o Richardson Foster
+o Charles Harris
+g6/amanda_melvina_hollingsworth.md
+
+Anna Eleanor Geissinger
+b 1811
+d 1880
+f *
+m *
+o William J. robertson
+g6/anna_geissinger.md
+
+Christopher Main
+b 1796
+d 1882
+f *
+m *
+o *
+g6/christopher_main.md
+
+David Elliott
+b 1784
+d 1854
+f David Elliott
+m Deborah
+o Mary Squires
+g6/david_elliott_1784.md
+
+David West
+b 1792
+d 1880
+f Andrew West
+m Tryphenia Mets/Mead
+o Millet Payne {Milly}
+o Lucinda Lattimer
+g6/david_west.md
+
+Diantha Jenison
+b 1815
+d 1894
+f Orange Twiss Jenison
+m Lydia Prince (Mar 08 1777)
+o John G. Jackson
+o John W. Williams
+g6/diantha_jenison.md
+
+Dinelah Huff
+b 1811
+d 1870
+f Daniel Huff
+m Rachel Jackson
+o Levi Fowler
+g6/dinelah_huff.md
+
+Elijah Chandler
+b 1790
+d 1860
+f Peter Chandler
+m Mercy Ingalls
+o Lydia Burton
+o *
+g6/elijah_chandler.md
+
+Elizabeth Davis
+b 1805
+d *
+f *
+m *
+o Mitchell Sims
+o James C. Davis
+g6/elizabeth_davis.md
+
+Elizabeth Hubbard Saunders
+b 1792
+d 1842
+f Ephraim Saunders
+m Ann McCarty {Nancy}
+o Seaborn Jones Mims
+g6/elizabeth_hubbard_saunders.md
+
+Emily C. Boggs
+b *
+d 1842
+f John Boggs
+m Hannah Maria Cook
+o William Long
+g6/emily_boggs.md
+
+Flavel Foster
+b 1801
+d 1860
+f William Claiborne Foster
+m Elizabeth Colbert
+o Mary Amelia Hollingsworth
+g6/flavel_foster.md
+
+Henry Fisher
+b 1790
+d 1865
+f *
+m *
+o Susan Fisher
+g6/henry_fisher_1790.md
+
+James C. Davis
+b 1801
+d *
+f Lewis Cookson Davis
+m Sarah Sally Perkins
+o Elizabeth
+g6/james_c_davis.md
+
+John G. Jackson
+b 1816
+d 1846
+f John G. Jackson
+m Margaret Hennigan
+o Diantha Jenison Williams
+g6/john_jackson.md
+
+Levi Fowler
+b 1809
+d 1868
+f Thomas Fowler
+m Mary Baldridge
+o Dinelah Huff
+g6/levi_fowler.md
+
+Lucinda Lattimer
+b 1821
+d 1903
+f Erastus Latimer
+m *
+o David West
+g6/lucinda_lattimer.md
+
+Maria Duff
+b 1811
+d 1892
+f James Duff
+m Mary Parks
+o Abner Kuykendall
+g6/maria_duff.md
+
+Mary Amelia Hollingsworth
+b 1802
+d 1864
+f Jacob Hollingsworth
+m Sarah Martin
+o Flavel Foster
+g6/mary_amelia_hollingsworth.md
+
+Mary Squires
+b 1793
+d 1886
+f *
+m *
+o David Elliott
+g6/mary_squires.md
+
+Richardson Foster
+b 1800
+d 1835
+f William Claiborne Foster
+m Elizabeth Foster
+o Amanda Melvina Hollingsworth] 
+g6/richardson_foster.md
+
+Salinda Rankin
+b 1823
+d 1880
+f Robert Rankin
+m Isabela Rankin
+o William Johnson
+g6/salinda_rankin.md
+
+Seaborn Jones Mims
+b 1787
+d 1842
+f Shadrach Mims
+m Elizabeth Kirkham
+o Elizabeth Hubbard Saunders
+g6/seaborn_jones_mims.md
+
+Susan Fisher
+b 1788
+d 1861
+f *
+m *
+o Henry Fisher
+g6/susan_fisher.md
+
+William J. Robertson
+b 1807
+d 1892
+f *
+m *
+o Anna Eleanor Geissinger
+g6/william_j_robertson.md
+
+William Samuel Johnson
+b 1823
+d 1870
+f *
+m *
+o Salinda Rankin
+g6/william_johnson.md
+
+William Long
+b *
+d 1869
+f *
+m *
+o Emily C. Boggs
+g6/william_long.md
+
+Andrew West
+b 1753
+d 1830
+f Levi West
+m Mary Williams
+o Tryphenia Metts Mead 
+g7/andrew_west.md
+
+Daniel Huff
+b 1766
+d 1853
+f Philip Huff
+m Rachel Jackson
+o Elizabeth Turman
+g7/daniel_huff.md
+
+David Elliott
+b 1744
+d 1793
+f David Elliott
+m Mehitable Aldrich
+o Deborah Elliot (cousin) (Aug 08 1749 - Jan 03 1838
+g7/david_elliott_1744.md
+
+Elizabeth Colbert (Foster)
+b 1777
+d 1835
+f William Colbert
+m Miriam Geer (1745-1837)
+o William Claiborne Foster
+g7/elizabeth_colbert.md
+
+Elizabeth Kirkham
+b 1751
+d 1814
+f *
+m *
+o Shadrach Mims
+g7/elizabeth_kirkham.md
+
+Erastus Latimer
+b 1802
+d 1900
+f Robert Latimer
+m Lucinda Atwell
+o X Y
+g7/erastus_latimer.md
+
+Hannah Maria Cook
+b 1802
+d *
+f Ambrose Ellis Cook
+m Sarah Piersall Wheeler
+o John Boggs
+g7/hannah_maria_cook.md
+
+Isabela Rankin
+b 1791
+d 1861
+f Robert Rankin
+m Mary Cusick
+o Robert Rankin
+g7/isabela_rankin.md
+
+Jacob Hollingsworth
+b 1775
+d 1848
+f Jacob Joseph Hollingsworth
+m Mary Brooks
+o Sarah Martin
+g7/jacob_hollingsworth_1775.md
+
+James Duff
+b 1770
+d 1814
+f *
+m *
+o Mary Parks
+g7/james_duff.md
+
+John Boggs
+b *
+d 1845
+f *
+m *
+o Hannah Maria Cook
+g7/john_boggs.md
+
+John G. Jackson
+b 1789
+d 1842
+f *
+m *
+o Margaret Hennigan
+g7/john_g_jackson_1789.md
+
+Lewis Cookson Davis
+b 1757
+d 1835
+f Absolom Davis
+m Nancy Anne Hackney
+o Sarah Anderson
+o Sarah Sally Perkins
+g7/lewis_cookson_davis.md
+
+Margaret Hennigan
+b 1788
+d 1835
+f *
+m *
+o John G. Jackson
+g7/margaret_hennigan.md
+
+Mary Baldridge
+b 1771
+d 1854
+f William Todd
+m Ann Rambo
+o Thomas Fowler
+g7/mary_baldridge.md
+
+Matthew Kuykendall
+b 1758
+d 1841
+f Abraham Kuykendall
+m Elizabeth (Burleson, Van Zandt)
+o Nancy Johnson
+g7/matthew_kuykendall.md
+
+Nancy Johnson
+b 1765
+d 1825
+f William Johnson
+m Maria Rebecca Larkin
+o Matthew Kuykendall
+g7/nancy_johnson.md
+
+Orange Twiss Jenison
+b 1771
+d 1835
+f Peter Jenison
+m Mehitable Singletary
+o Lydia Prince
+g7/orange_twiss_jenison.md
+
+Robert Rankin
+b 1792
+d 1845
+f William Rankin
+m Jane Chambers
+o Isabela Rankin
+g7/robert_rankin_1792.md
+
+Sarah Martin
+b 1783
+d 1851
+f *
+m *
+o Jacob Hollingsworth, Jr.
+g7/sarah_martin.md
+
+Sarah Sally Perkins
+b 1777
+d 1836
+f *
+m *
+o Lewis Cookson Davis
+g7/sarah_perkins.md
+
+Shadrach Mims
+b 1764
+d 1807
+f Robert Mims
+m Sarah Pace
+o Elizabeth Kirkham
+g7/shadrach_mims.md
+
+Thomas Fowler
+b 1770
+d 1840
+f Thomas Fowler
+m *
+o Mary Baldridge
+g7/thomas_fowler_1770.md
+
+Tryphenia Metts Mead
+b 1755
+d 1831
+f Thomas Metts Mead
+m Hannah Mead
+o Andrew West
+g7/tryphenia_metts_mead.md
+
+William Claiborne Foster
+b 1780
+d 1835
+f Jacob Flavel Foster
+m *
+o Elizabeth Colbert
+g7/william_claiborne_foster.md
+
+Abraham Kuykendall
+b 1719
+d 1812
+f Cornelius Jacobsen Van Kuykendall
+m Mary Westfall
+o Elizabeth Fidle
+o Bathsheba
+g8/abraham_kuykendall.md
+
+Absolom Davis
+b 1720
+d 1807
+f Richard Davis
+m Elizabeth
+o Keziah
+o Nancy Anne Hackney
+g8/absolom_davis.md
+
+Ambrose Ellis Cook
+b 1772
+d 1828
+f Ellis Cook
+m Margaret Griswold Cocker
+o Sarah Piersall Wheeler
+g8/ambrose_ellis_cook.md
+
+David Elliott
+b 1716
+d 1798
+f Daniel Elliott
+m Sarah Provender
+o  [Mehitable Aldrich
+g8/david_elliott_1716.md
+
+Elizabeth Fidle
+b 1728
+d 1800
+f *
+m *
+o Abraham Kuykendall
+g8/elizabeth_fidle.md
+
+Hannah Mead
+b 1735
+d 1821
+f *
+m *
+o Thomas Metts Mead
+g8/hannah_mead.md
+
+Jacob Joseph Hollingsworth
+b 1742
+d 1822
+f Samuel Hollingsworth
+m Barbara Shewin
+o Mary Brooks
+g8/jacob_hollingsworth_1742.md
+
+Jane Chambers
+b 1752
+d 1836
+f John Chambers
+m *
+o William Rankin
+g8/jane_chambers.md
+
+Levi West
+b 1726
+d 1787
+f George West
+m Sara Betty Lowe
+o Mary Williams
+g8/levi_west.md
+
+Lucinda Atwell
+b 1763
+d 1811
+f Benjamin Atwell
+m Mary Ann Lee
+o Robert Latimer
+g8/lucinda_atwell.md
+
+Mary Brooks
+b 1742
+d 1822
+f Thomas Brooks
+m Mary Blacknall
+o Jacob Joseph Hollingsworth
+g8/mary_brooks.md
+
+Mary Cusick
+b 1759
+d *
+f William Cusick
+m Isabella Mebane
+o Robert Rankin
+g8/mary_cusick.md
+
+Mary Williams
+b 1731
+d 1787
+f Andrew Gray Williams
+m Prudence
+o Levi West
+g8/mary_williams.md
+
+Mehitable Aldrich
+b 1716
+d 1794
+f *
+m *
+o David Elliott
+g8/mehitable_aldrich.md
+
+Mehitable Singletary (Jenison)
+b 1749
+d 1812
+f *
+m *
+o Peter Jenison
+g8/mehitable_singletary.md
+
+Nancy Anne Hackney
+b 1723
+d 1780
+f William Hackney
+m Alice Nichols Rhodes
+o Absolom Davis
+g8/nancy_anne_hackney.md
+
+Peter Jenison
+b 1750
+d 1816
+f Joseph Jennison (1720-1813)
+m Martha Twist (1719-1806)
+o Mehitable Singletary
+g8/peter_jenison.md
+
+Philip Huff
+b 1747
+d 1822
+f *
+m *
+o Rachel Jackson
+g8/philip_huff.md
+
+Robert Latimer
+b 1760
+d 1812
+f Jonathan Latimer
+m Lucretia Griswold
+o Lucinda Atwell
+g8/robert_latimer_1760.md
+
+Robert Mims
+b 1708
+d 1781
+f Lionel Mims
+m *
+o Sarah Pace
+g8/robert_mims.md
+
+Robert Rankin
+b 1759
+d 1840
+f George Rankin
+m Lydia Steele
+o Mary Cusick
+o Mary Moody (Rankin)
+o Mary Moody (Rankin)
+g8/robert_rankin_1759.md
+
+Thomas Fowler
+b 1739
+d 1826
+f Godfrey Fowler
+m Sarah
+o *
+g8/thomas_fowler_1739.md
+
+Thomas Metts Metz Mead
+b 1735
+d 1794
+f *
+m *
+o Hannah Mead
+g8/thomas_metts_mead.md
+
+William Colbert
+b 1725
+d 1797
+f Capt. James Logan Colbert (1721-1784)
+m Sophia Minta Hoya (1721-1837)
+o Miriam "Mimma" Geer (1745-1837)
+g8/william_colbert.md
+
+William Johnson
+b 1746
+d 1814
+f John Johnson
+m Mary Johnson
+o Maria Rebecca Larkin (Johnson)
+o Martha Stone
+g8/william_johnson.md
+
+William Rankin
+b 1744
+d *
+f Robert Rankin
+m Rebecca Armstrong
+o Jane Chambers
+g8/william_rankin_1744.md
+
+Absalom Davis
+b 1720
+d 1807
+f Richard Davis
+m Elizabeth
+o Keziah
+o Nancy Anne Hackney
+g9/absalom_davis.md
+
+Alice Nichols Rhodes
+b 1687
+d 1726
+f Hezekiah Rhodes
+m Elizabeth Nichols
+o William Hackney
+g9/alice_nichols_rhodes.md
+
+Andrew Gray Williams
+b 1705
+d 1774
+f Edward Williams
+m Philadelphia Rawlings
+o Prudence Williams
+g9/andrew_gray_williams.md
+
+Benjamin Atwell
+b 1735
+d 1806
+f Joseph Atwell
+m Martha Comstock
+o Mary Ann Lee
+g9/benjamin_atwell_1735.md
+
+Cornelius Jacobsen Van Kuykendall
+b 1686
+d 1753
+f Leur Jacobsen Van Kuykendall
+m Grietje Aerts
+o Marritjen Westvaal
+g9/cornelius_kuykendall.md
+
+Daniel Elliott
+b 1687
+d *
+f Daniel Elliott
+m Hannah Cloyce
+o Sarah Provender
+g9/daniel_elliott_1687.md
+
+Ellis Cook
+b 1732
+d 1797
+f Ellis Cook
+m Mary Williams
+o Margaret Griswold Cocker
+o Lucy Ely
+g9/ellis_cook.md
+
+George Rankin
+b 1729
+d 1761
+f Robert Rankin
+m Rebecca Armstrong
+o Lydia Steele
+g9/george_rankin.md
+
+George West
+b 1699
+d 1760
+f Thomas West
+m Elizabeth West
+o Sarah (West)
+o Sara Betty Lowe
+o Betty Johnson (West)
+g9/george_west_1699.md
+
+Godfrey Fowler
+b 1710
+d 1770
+f Godfrey Fowler
+m Susannah Archer
+o Sarah Jane Metcalf
+g9/godfrey_fowler_1710.md
+
+Isabella Mebane
+b 1730
+d 1817
+f Matt Cusick
+m *
+o William Cusick
+g9/isabella_mebane.md
+
+Jonathan Latimer
+b 1724
+d 1806
+f Jonathan_Latimer
+m Borodell Denison
+o Lucretia Griswold
+g9/jonathan_latimer_1724.md
+
+Lionel Linah Mims
+b 1685
+d 1735
+f *
+m *
+o Mary Anne Martin
+g9/lionel_mims.md
+
+Lucretia Latimer
+b 1731
+d 1820
+f George Griswold
+m Hannah Lynde
+o Jonathan Latimer
+g9/lucretia_latimer.md
+
+Lydia Steele
+b *
+d *
+f *
+m *
+o George Rankin
+o Arthur Frobis
+g9/lydia_steele.md
+
+Mary Ann Lee
+b 1738
+d 1835
+f Benjamin Lee
+m Mary Ely
+o Benjamin Atwell
+g9/mary_ann_lee.md
+
+Marritjen Westvaal {Mary Westfall}
+b 1685
+d 1753
+f Johannes Juriaanz Westvaal
+m Marietje Jacobz Cool Westvaal
+o Cornelius Jacobsen van Kuykendall
+g9/mary_westfall.md
+
+Mattheus van Kuykendall
+b 1690
+d 1754
+f Leur Jacobsen van Kuykendall
+m Grietje Margaret Artze Pieterson
+o Jannet Westfall
+g9/mattheus_van_kuykendall.md
+
+Prudence Williams
+b 1709
+d *
+f *
+m *
+o Andrew Gray Williams
+g9/prudence_williams.md
+
+Rebecca Armstrong
+b 1700
+d 1773
+f *
+m *
+o Robert Rankin
+g9/rebecca_armstrong.md
+
+Richard Davis
+b 1688
+d 1760
+f Thomas Davis
+m Elizabeth
+o unk
+g9/richard_davis.md
+
+Robert Rankin
+b 1700
+d 1773
+f William Rankin
+m Dorothy Black (Rankin)
+o Rebecca Armstrong
+g9/robert_rankin_1700.md
+
+Samuel Hollingsworth
+b 1717
+d 1751
+f Samuel Hollingsworth
+m Hannah Harlin
+o Barbara Shewin
+g9/samuel_hollingsworth_1717.md
+
+William Cusick
+b 1733
+d 1817
+f Matt Cusick
+m *
+o Isabella Mebane
+g9/william_cusick.md
+
+William Hackney
+b 1690
+d 1753
+f *
+m *
+o Alice Nichols Rhodes
+g9/william_hackney.md
+
+Benjamin Lee
+b 1712
+d 1777
+f John Lee
+m Elizabeth Smith
+o Mary Ely
+g10/benjamin_lee.md
+
+Borodell Denison
+b 1701
+d 1751
+f George Denison
+m May Wetherell
+o Jonathan Latimer
+g10/borodell_denison.md
+
+Daniel Elliott
+b 1662
+d 1728
+f Daniel Elliott
+m *
+o Hannah Cloyce
+g10/daniel_elliott_1662.md
+
+Edward Williams
+b 1665
+d 1711
+f Edward Williams
+m Abigail Williams
+o Philadelphia Rawlings
+g10/edward_williams_1665.md
+
+Elizabeth Nichols
+b 1666
+d 1727
+f Henry Nichols
+m Alice
+o Hezekiah Rhodes
+g10/elizabeth_nichols.md
+
+George Griswold
+b 1692
+d 1761
+f Matthew Griswold
+m Phebe Hyde
+o Hannah Linde
+o Elizabeth Graham Lee
+g10/george_griswold.md
+
+Godfrey Fowler
+b 1670
+d 1747
+f John William Fowler
+m Elizabeth Burgess
+o Susannah Archer
+g10/godfrey_fowler_1670.md
+
+Grietje Aerts
+b 1663
+d 1744
+f Aert Pietersz Tack
+m Annetje Ariens van Etten
+o Luur Jacobsen van Kuykendall
+g10/grietje_aerts.md
+
+Hannah Cloyce
+b 1667
+d 1737
+f Peter Cloyes
+m Hannah Littlefield
+o Daniel Elliott
+g10/hannah_cloyce.md
+
+name
+b *
+d *
+f *
+m *
+o  
+g10/hannah_lynde.md
+
+Hezekiah Rhodes
+b 1662
+d 1715
+f Christopher Rhodes
+m Hannah Barbee
+o Elizabeth Nichols
+g10/hezekiah_rhodes.md
+
+Jonathan Latimer
+b 1698
+d 1778
+f Robert Latimer
+m Elizabeth Buck
+o Borodell Denison
+g10/jonathan_latimer_1698.md
+
+Joseph Atwell
+b 1710
+d 1750
+f Benjamin Atwell
+m Mary Roberts
+o Martha Comstock
+g10/joseph_atwell_1710.md
+
+Leur Jacobsen van Kuykendall
+b 1650
+d 1720
+f Jacob Luursen van Kuykendall
+m Stijntje Wiggersz Douwes
+o Grietje Aerts
+g10/leur_jacobsen_van_kuykendall.md
+
+Martha Comstock
+b 1715
+d 1810
+f Samuel Comstock
+m Martha Whittlesey Jones
+o Joseph Atwell
+g10/martha_comstock.md
+
+Mary Ely
+b 1714
+d 1796
+f Daniel Ely
+m Mary Ann Champlin
+o Benjamin Lee
+g10/mary_ely.md
+
+Philadelphia Rawlings
+b 1670
+d 1746
+f John Rawlings
+m Philadelphia Start
+o Edward Williams
+o Andrew Gray
+g10/philadelphia_rawlings.md
+
+Rebecca Armstrong
+b 1700
+d 1773
+f *
+m *
+o Robert Rankin
+g10/rebecca_armstrong.md
+
+Robert Rankin
+b 1700
+d 1773
+f William Rankin
+m Dorothy Black (Rankin)
+o Rebecca Armstrong
+g10/robert_rankin.md
+
+Samuel Hollingsworth
+b 1672
+d 1748
+f Valentine Hollingsworth
+m Anne Calvert
+o Hannah Harlan
+g10/samuel_hollingsworth_1672.md
+
+Thomas West
+b 1662
+d 1708
+f George West
+m Susannah Duparks
+o Elizabeth (West)
+g10/thomas_west.md
+
+William Rankin
+b 1658
+d 1730
+f Alexander Rankin
+m Maria Reid (Rankin)
+o Dorothy Black (Rankin)
+g10/william_rankin_1658.md
+
+Ann Calvert
+b 1650
+d 1697
+f *
+m *
+o Valentine Hollingsworth
+g11/ann_calvert.md
+
+Benjamin Atwell
+b 1668
+d 1725
+f Benjamin Atwell
+m Mary Uncas
+o Mary Roberts
+g11/benjamin_atwell_1668.md
+
+Chrisopher Rhodes
+b 1636
+d 1666
+f John Rhodes
+m *
+o Hannah Barbee
+g11/christopher_rhodes.md
+
+Daniel Elliott
+b 1640
+d 1690
+f *
+m *
+o *
+g11/daniel_elliott_1640.md
+
+Daniel Ely
+b *
+d *
+f William Ely
+m Elizabeth Smith
+o *
+g11/daniel_ely.md
+
+Elizabeth Buck
+b 1670
+d 1752
+f Henry Buck
+m Elizabeth Churchill
+o George Buttolph
+o Robert Latimer
+g11/elizabeth_buck.md
+
+George West
+b 1639
+d 1702
+f Robert West
+m Elizabeth Burie
+o Susannah Duparks
+o Mary Turner
+g11/george_west_1639.md
+
+Hannah Littlefield
+b *
+d *
+f *
+m *
+o Peter Cloyes
+g11/hannah_littlefield.md
+
+Jacob Luursen van Kuykendall
+b 1616
+d 1655
+f Luur Cornelisson van Kuykendall
+m N.N. (Christijntje)
+o Stijntje Douwes
+g11/jacob_luursen_van_kuykendall.md
+
+John Lee
+b 1670
+d 1716
+f Thomas Lee
+m *
+o *
+g11/john_lee.md
+
+John William Fowler
+b 1638
+d 1683
+f Christopher Fowler
+m Elizabeth Burgess
+o Mary M. Batte (Fowler)
+g11/john_william_fowler.md
+
+Martha Whittlesey Jones
+b 1671
+d 1756
+f Samuel Jones
+m Mary Bushnell
+o Samuel Comstock
+g11/martha_whittlesey_jones.md
+
+Mary Ann Champlin
+b 1692
+d 1725
+f Christopher Champlin
+m *
+o Daniel Ely
+g11/mary_ann_champlin.md
+
+Matthew Griswold
+b 1652
+d 1716
+f Matthew Griswold
+m Anna Wolcott
+o Phebe Hyde
+o Mary DeWolf
+g11/matthew_griswold_1652.md
+
+Peter Cloyes
+b 1639
+d 1708
+f John Cloyes
+m Abigail Mornings
+o Hannah Littlefield
+o Sarah Towne
+o Susanna Harrington
+g11/peter_cloyes.md
+
+Robert Latimer
+b 1664
+d 1728
+f Robert Latimer
+m Ann Griggs
+o Elizabeth Dymond
+o Elizabeth Buck
+g11/robert_latimer_1664.md
+
+Samuel Comstock
+b 1673
+d 1757
+f Daniel Comtock
+m Paltieh Elderkin
+o Martha Whittlesey Jones
+g11/samuel_comstock.md
+
+Susannah Duparks
+b 1643
+d 1702
+f *
+m *
+o George West
+g11/susannah_duparks.md
+
+Thomas Davis
+b 1660
+d 1754
+f Morgan David
+m Catherine Thomas
+o Elizabeth
+g11/thomas_davis.md
+
+Valentine Hollingsworth
+b 1632
+d 1710
+f *
+m *
+o Ann Ree
+o Ann Calvert
+g11/valentine_hollingsworth.md
+
+Ann Griggs
+b 1629
+d 1693
+f George Griggs
+m Alice Sibtharp
+o Rice Jones
+o Robert Latimer
+g12/ann_griggs.md
+
+Anna Wolcott
+b 1620
+d 1704
+f Henry Wolcott
+m Elizabeth Saunders
+o Mathew Griswold
+g12/anna_wolcott.md
+
+Benjamin Atwell
+b 1640
+d *
+f *
+m *
+o Mary Uncas
+g12/benjamin_atwell_1640.md
+
+Christopher Champlin
+b 1656
+d 1732
+f Jeffrey Champlin
+m Charlotte Ulelie Garde
+o X Y
+g12/christopher_champlin.md
+
+Christopher Fowler
+b 1611
+d 1676
+f *
+m *
+o Elizabeth Burgess
+g12/christopher_fowler.md
+
+Daniel Comstock
+b 1624
+d 1683
+f *
+m *
+o Paltieh Elderkin
+g12/daniel_comstock.md
+
+Elizabth Burgess
+b 1611
+d *
+f Daniel Burgess
+m *
+o Christopher Fowler
+g12/elizabeth_burgess.md
+
+Elizabeth Burie
+b 1618
+d 1643
+f *
+m *
+o Robert West
+g12/elizabeth_burie.md
+
+Elizabeth Churchill
+b 1642
+d 1687
+f Josiah Churchill 1615 England
+m Elizabeth Foote 1616 Colchester, Essex, England
+o Henry Buck
+g12/elizabeth_churchill.md
+
+John Cloyes
+b 1604
+d 1676
+f Peter Cloyes
+m *
+o Abigail Mornings
+o Julia Spurwell
+o Jane
+g12/john_cloyes.md
+
+John Rhodes
+b 1620
+d 1717
+f John Edwards Rhodes
+m Comfort Rhodes
+o Ann Browne
+o *
+g12/john_rhodes.md
+
+Mary Bushnell
+b 1643
+d 1727
+f Francis Bushnell
+m Marie Grombridge
+o Samuel Jones
+g12/mary_bushnell.md
+
+Mary Uncas
+b *
+d *
+f *
+m *
+o Benjamin Atwell
+g12/mary_uncas.md
+
+Matthew Griswold
+b 1615
+d 1698
+f George Griswold
+m Dousabel Leigh
+o Anna Wolcott
+g12/matthew_griswold_1615.md
+
+Morgan David
+b 1634
+d 1694
+f David David
+m Maude Morgan
+o Catherine Thomas
+g12/morgan_david.md
+
+Paltiah Elderkin
+b 1635
+d 1713
+f John Elderkin
+m Abigail Kingsland
+o Daniel Comstock
+g12/paltieh_elderkin.md
+
+Robert Latimer
+b 1603
+d 1671
+f Robert Latimer
+m *
+o Ann Griggs
+g12/robert_latimer_1603.md
+
+Robert West
+b 1614
+d 1646
+f Richard West
+m Maudlin Cooke (West)
+o Elizabeth Burie
+o Mary West
+g12/robert_west.md
+
+Samuel Jones
+b 1641
+d 1704
+f Thomas Jones
+m Mary Howard
+o Mary Bushnell
+g12/samuel_jones.md
+
+Thomas Lee
+b 1644
+d 1704
+f Thomas Lee
+m Phoebe Browne
+o Sarah Kirtland (Lee)
+o Mary DeWolf (Lee)
+g12/thomas_lee_1644.md
+
+William Ely
+b 1647
+d 1717
+f Richard Ely
+m Joanne Phipps
+o Elizabeth Smith
+g12/william_ely.md
+
+Charlotte Ulelie Garde
+b 1626
+d *
+f John Garde
+m Rebecca Copp
+o Jeffrey Champlin
+g13/charlotte_ulelie_garde.md
+
+Francis Bushnell
+b 1608
+d 1681
+f *
+m *
+o Marie Grombridge
+g13/francis_bushnell.md
+
+Jeffrey Champlin
+b 1621
+d 1695
+f *
+m *
+o Charlotte Ulelie Garde
+g13/jeffrey_champlin.md
+
+John Elderkin
+b 1616
+d 1687
+f *
+m *
+o Abigail Kingsland
+o Elizabeth Drake
+g13/john_elderkin.md
+
+Marie Grombridge
+b 1605
+d 1660
+f *
+m *
+o Francis Bushnell
+g13/marie_grombridge.md
+
+Mary Howard
+b 1617
+d 1650
+f *
+m *
+o Thomas Jones
+g13/mary_howard.md
+
+Richard Ely
+b 1610
+d 1684
+f Richard Elye
+m Elizabeth Gore
+o Joanne Fenwick
+o Elizabeth Phipps
+g13/richard_ely.md
+
+Thomas Lee
+b *
+d *
+f *
+m *
+o Sarah Kirtland (Lee)
+g13/thomas_lee_1620.md
+
+John Garde
+b 1618
+d 1665
+f *
+m *
+o Rebecca Copp
+g14/john_garde.md
+
+Rebecca Copp
+b 1605
+d 1660
+f *
+m *
+o John Garde
+g14/rebecca_copp.md
+
