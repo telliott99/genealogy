@@ -24,7 +24,7 @@ o [Lucille Foster](../g3/lucille_foster.md)
 
 [Harney Bogan](https://www.findagrave.com/memorial/55665977/harney-skolfield-bogan)
 
-<img src="../../figs/Harney_Bogan.jpg" style="width: 200px;" />
+<img src="../../portraits/Harney_Bogan.jpg" style="width: 200px;" />
 
 Buried at Greenwood Cemetery, Shreveport.  
 

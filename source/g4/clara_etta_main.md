@@ -8,7 +8,7 @@ d Nov 12 1934 Hillsdale, IN
 
 f [Lewis W. Main](../g5/lewis_w_main.md)
 
-m [Lydia Catherine Roberts](../g5/lydia_catherine_roberts.md)
+m [Lydia Catherine Robertson](../g5/lydia_catherine_robertson.md)
 
 <hr>
 

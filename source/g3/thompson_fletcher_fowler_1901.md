@@ -27,6 +27,13 @@ Captain, USN.  USNA class of 1925.
 
 Date of commission:  June 24, 1921.
 
+- Lieutenant Oct 1935
+- Lt. Commander Apr 1941
+- Commander Aug 1942
+- Captain Mar 1948
+
+Commanded [USS Turkey](../../portraits/USS_Turkey.jpg) (minesweeper, reclassified as an ocean tug) Jun 30 1941 - Apr 21 1943;  [USS Jason](../../portraits/USS_Jason.jpg) 1953 - 1955.
+
 Buried at Arlington National Cemetery
 Arlington, Arlington County, Virginia, USA
 

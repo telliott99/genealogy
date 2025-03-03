@@ -5,4 +5,4 @@ import os
 u = os.environ['HOME']
 
 # modify for location of project
-p = u + '/Dropbox/Github/genealogy/'    
+p = u + '/Dropbox/genealogy/'    

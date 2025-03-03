@@ -19,7 +19,7 @@ o [Henry J. Fisher](henry_j_fisher.md)
 
 <hr>
 
-Ancestry says called "Osa"
+Ancestry says called "Osa Williams"
 
 [grave](https://www.findagrave.com/memorial/66512913/oceana-j.-fisher)
 

@@ -1,0 +1,39 @@
+> p3 plot.py "Elliott" -b 1890 -d 3
+g3  .  .  .  James Edgar Elliott 1890
+g4  .  .  .  .  David Marion Elliott 1854
+g5  .  .  .  .  .  Alanson Elliott 1815
+g5  .  .  .  .  .  Sarah Fisher 1821
+g4  .  .  .  .  Clara Etta Main 1860
+g5  .  .  .  .  .  Lewis W. Main 1830
+g5  .  .  .  .  .  Lydia Catherine Roberts 1840
+> 
+> p3 plot.py "Metcalf" -b 1892 -d 3
+g3  .  .  .  Jessie Metcalf 1892
+g4  .  .  .  .  Alberti Metcalf 1858
+g5  .  .  .  .  .  Edward Metcalf 1800
+g5  .  .  .  .  .  Mary Jane Thorpe 1820
+g4  .  .  .  .  Lenora Fisher 1861
+g5  .  .  .  .  .  Henry J. Fisher 1835
+g5  .  .  .  .  .  Oceana Jackson 1841
+> 
+========================
+
+> p3 plot.py "Foster" -b 1889 -d 3
+g3  .  .  .  James Heflin Foster 1889
+g4  .  .  .  .  William Long Foster 1861
+g5  .  .  .  .  .  James Martin Foster 1831
+g5  .  .  .  .  .  Mary Eleanor Long 1842
+g4  .  .  .  .  Launa Mims Davis 1865
+g5  .  .  .  .  .  Lewis Richard Davis 1827
+g5  .  .  .  .  .  Alabama Frances Mims 1832
+> 
+> p3 plot.py "Fowler" -b 1898 -d 3
+g3  .  .  .  Gene Fowler 1898
+g4  .  .  .  .  Thompson Ernest Fowler 1874
+g5  .  .  .  .  .  Thompson Fletcher Fowler 1836
+g5  .  .  .  .  .  Mildred Maria Kuykendall 1847
+g4  .  .  .  .  Abigail Augusta Johnson 1874
+g5  .  .  .  .  .  Robert Mortimer Johnson 1845
+g5  .  .  .  .  .  Abby Ann Chandler 1850
+> 
+

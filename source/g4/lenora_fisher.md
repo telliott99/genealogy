@@ -22,6 +22,8 @@ o Oct 03 1888
 
 [grave](https://www.findagrave.com/memorial/45986936/lenora-f.-metcalf)
 
+Some sources have Leonora.
+
 Buried at Crown Hill Cemetery
 Indianapolis, Marion County, Indiana, USA)
 

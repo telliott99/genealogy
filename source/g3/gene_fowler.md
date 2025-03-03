@@ -27,4 +27,4 @@ o1 Dec 25 1918
 
 Ancestry gives date of o1 as Dec 23.
 
-May have been christened Geneva, no real information about that but I'v seen it in some people's trees.
+May have been christened Geneva, no real information about that but I've seen it in some people's trees.
